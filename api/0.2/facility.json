@@ -1,0 +1,1387 @@
+{
+    "id": "facility",
+    "title": "Facility",
+    "description": "During World War II, over 120,000 persons of Japanese descent were held in a variety of incarceration sites spread across the United States. These facilities were run by several different U.S. governmental agencies and served multiple purposes.",
+    "terms": [
+        {
+            "id": "1",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Topaz (Central Utah)",
+            "type": "Concentration Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 39.3521777,
+                    "lng": -112.57717
+                },
+                "label": "Delta, Utah"
+            },
+            "elinks": [
+                {
+                    "label": "Topaz (Central Utah)",
+                    "url": "http://encyclopedia.densho.org/Topaz/"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Poston (Colorado River)",
+            "type": "Concentration Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 34.1500162,
+                    "lng": -114.2891177
+                },
+                "label": "Parker, Arizona"
+            },
+            "elinks": [
+                {
+                    "label": "Poston (Colorado River)",
+                    "url": "http://encyclopedia.densho.org/Poston%20(Colorado%20River)/"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Gila River",
+            "type": "Concentration Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 32.2212596,
+                    "lng": -109.1865412
+                },
+                "label": "Rivers, Arizona"
+            },
+            "elinks": [
+                {
+                    "label": "Gila River",
+                    "url": "http://encyclopedia.densho.org/Gila%20River/"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Granada (Amache)",
+            "type": "Concentration Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 38.05692,
+                    "lng": -102.3234389
+                },
+                "label": "Amache, Colorado"
+            },
+            "elinks": [
+                {
+                    "label": "Granada (Amache)",
+                    "url": "http://encyclopedia.densho.org/Amache%20(Granada)/"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Heart Mountain",
+            "type": "Concentration Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 44.52634219999999,
+                    "lng": -109.0565308
+                },
+                "label": "Cody, Wyoming"
+            },
+            "elinks": [
+                {
+                    "label": "Heart Mountain",
+                    "url": "http://encyclopedia.densho.org/Heart%20Mountain/"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Jerome",
+            "type": "Concentration Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 35.4263645,
+                    "lng": -91.4556901
+                },
+                "label": "Denson, Arkansas"
+            },
+            "elinks": [
+                {
+                    "label": "Jerome",
+                    "url": "http://encyclopedia.densho.org/Jerome/"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Manzanar",
+            "type": "Concentration Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 36.7285184,
+                    "lng": -118.1462987
+                },
+                "label": "Manzanar, California"
+            },
+            "elinks": [
+                {
+                    "label": "Manzanar",
+                    "url": "http://encyclopedia.densho.org/Manzanar/"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Minidoka",
+            "type": "Concentration Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 42.6782431,
+                    "lng": -114.2500316
+                },
+                "label": "Hunt, Idaho"
+            },
+            "elinks": [
+                {
+                    "label": "Minidoka",
+                    "url": "http://encyclopedia.densho.org/Minidoka/"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Rohwer",
+            "type": "Concentration Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 33.6255234,
+                    "lng": -91.3945566
+                },
+                "label": "McGehee, Arkansas"
+            },
+            "elinks": [
+                {
+                    "label": "Rohwer",
+                    "url": "http://encyclopedia.densho.org/Rohwer/"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Tule Lake",
+            "type": "Concentration Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 41.8882132,
+                    "lng": -121.3722116
+                },
+                "label": "Newell, California"
+            },
+            "elinks": [
+                {
+                    "label": "Tule Lake",
+                    "url": "http://encyclopedia.densho.org/Tule%20Lake/"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Puyallup (Camp Harmony)",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 47.1853785,
+                    "lng": -122.2928974
+                },
+                "label": "Puyallup, Washington"
+            },
+            "elinks": [
+                {
+                    "label": "Puyallup (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Puyallup%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Portland",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 45.5234515,
+                    "lng": -122.6762071
+                },
+                "label": "Portland, Oregon"
+            },
+            "elinks": [
+                {
+                    "label": "Portland (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Portland%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Marysville",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 39.1457253,
+                    "lng": -121.5913547
+                },
+                "label": "Marysville, California"
+            },
+            "elinks": [
+                {
+                    "label": "Marysville (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Marysville%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Sacramento",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 38.5815719,
+                    "lng": -121.4943996
+                },
+                "label": "Sacramento, California"
+            },
+            "elinks": [
+                {
+                    "label": "Sacramento (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Sacramento%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Tanforan",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 37.6304904,
+                    "lng": -122.4110835
+                },
+                "label": "San Bruno, California"
+            },
+            "elinks": [
+                {
+                    "label": "Tanforan (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Tanforan%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Stockton",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 37.9577016,
+                    "lng": -121.2907796
+                },
+                "label": "Stockton, California"
+            },
+            "elinks": [
+                {
+                    "label": "Stockton (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Stockton%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Turlock",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 37.4946568,
+                    "lng": -120.8465941
+                },
+                "label": "Turlock, California"
+            },
+            "elinks": [
+                {
+                    "label": "Turlock (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Turlock%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Salinas",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 36.6777372,
+                    "lng": -121.6555013
+                },
+                "label": "Salinas, California"
+            },
+            "elinks": [
+                {
+                    "label": "Salinas (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Salinas%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Merced",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 37.3021632,
+                    "lng": -120.4829677
+                },
+                "label": "Merced, California"
+            },
+            "elinks": [
+                {
+                    "label": "Merced (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Merced%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "20",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Pinedale",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 36.8411529,
+                    "lng": -119.7961611
+                },
+                "label": "Pinedale, California"
+            },
+            "elinks": [
+                {
+                    "label": "Pinedale (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Pinedale%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Fresno",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 36.7468422,
+                    "lng": -119.7725868
+                },
+                "label": "Fresno, California"
+            },
+            "elinks": [
+                {
+                    "label": "Fresno (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Fresno%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "22",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Tulare",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 36.2077288,
+                    "lng": -119.3473379
+                },
+                "label": "Tulare, California"
+            },
+            "elinks": [
+                {
+                    "label": "Tulare (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Tulare%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "23",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Santa Anita",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 34.1397292,
+                    "lng": -118.0353449
+                },
+                "label": "Arcadia, California"
+            },
+            "elinks": [
+                {
+                    "label": "Santa Anita (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Santa%20Anita%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "24",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Pomona",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 34.0552267,
+                    "lng": -117.7523048
+                },
+                "label": "Pomona, California"
+            },
+            "elinks": [
+                {
+                    "label": "Pomona (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Pomona%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "25",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Mayer",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 34.3978054,
+                    "lng": -112.2362734
+                },
+                "label": "Mayer, Arizona"
+            },
+            "elinks": [
+                {
+                    "label": "Mayer (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Mayer%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "27",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Santa Fe",
+            "type": "Department of Justice Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 35.6869752,
+                    "lng": -105.937799
+                },
+                "label": "Santa Fe, New Mexico"
+            },
+            "elinks": [
+                {
+                    "label": "Santa Fe (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Santa%20Fe%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "28",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Fort Lincoln (Bismarck)",
+            "type": "Department of Justice Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 46.8083268,
+                    "lng": -100.7837392
+                },
+                "label": "Bismarck, North Dakota"
+            },
+            "elinks": [
+                {
+                    "label": "Fort Lincoln (Bismarck) (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Fort%20Lincoln%20(Bismarck)%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "29",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Crystal City",
+            "type": "Department of Justice Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 28.6774795,
+                    "lng": -99.8281104
+                },
+                "label": "Crystal City, Texas"
+            },
+            "elinks": [
+                {
+                    "label": "Crystal City (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Crystal%20City%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "30",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Fort Missoula",
+            "type": "Department of Justice Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 46.8605189,
+                    "lng": -114.019501
+                },
+                "label": "Missoula, Montana"
+            },
+            "elinks": [
+                {
+                    "label": "Fort Missoula (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Fort%20Missoula%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "31",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Moab",
+            "type": "Citizen Isolation Center",
+            "location": {
+                "geopoint": {
+                    "lat": 39.3209801,
+                    "lng": -111.0937311
+                },
+                "label": "Dalton Wells, Utah"
+            },
+            "elinks": [
+                {
+                    "label": "Moab (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Moab%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "32",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Leupp",
+            "type": "Citizen Isolation Center",
+            "location": {
+                "geopoint": {
+                    "lat": 35.2980659,
+                    "lng": -111.0062528
+                },
+                "label": "Leupp, Arizona"
+            },
+            "elinks": [
+                {
+                    "label": "Leupp (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Leupp%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "33",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "McNeil Island Penitentiary",
+            "type": "U.S. Federal Prison",
+            "location": {
+                "geopoint": {
+                    "lat": 47.2133614,
+                    "lng": -122.6815078
+                },
+                "label": "McNeil Island, Washington"
+            },
+            "elinks": [
+                {
+                    "label": "McNeil Island Penitentiary (detention facility)",
+                    "url": "http://encyclopedia.densho.org/McNeil%20Island%20Penitentiary%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "34",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Lordsburg",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 32.3503605,
+                    "lng": -108.7086649
+                },
+                "label": "Lordsburg, New Mexico"
+            },
+            "elinks": [
+                {
+                    "label": "Lordsburg (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Lordsburg%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "35",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Fort Stanton",
+            "type": "Department of Justice Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 33.495914,
+                    "lng": -105.5230362
+                },
+                "label": "Fort Stanton, New Mexico"
+            },
+            "elinks": [
+                {
+                    "label": "Fort Stanton (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Fort%20Stanton%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "36",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Catalina Federal Honor Camp",
+            "type": "U.S. Federal Prison",
+            "location": {
+                "geopoint": {
+                    "lat": 32.4303529,
+                    "lng": -110.7053702
+                },
+                "label": "Santa Catalina Mountains"
+            },
+            "elinks": [
+                {
+                    "label": "Catalina Federal Honor Camp (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Catalina%20Federal%20Honor%20Camp%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "37",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Cow Creek",
+            "type": "Additional Facility",
+            "location": {
+                "geopoint": {
+                    "lat": 40.9177102,
+                    "lng": -123.4980211
+                },
+                "label": "Cow Creek, California"
+            },
+            "elinks": [
+                {
+                    "label": "Cow Creek (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Cow%20Creek%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "38",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Kenedy",
+            "type": "Department of Justice Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 28.8191468,
+                    "lng": -97.8486123
+                },
+                "label": "Kenedy, Texas"
+            },
+            "elinks": [
+                {
+                    "label": "Kenedy (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Kenedy%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "39",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Antelope Springs",
+            "type": "Additional Facility",
+            "location": {
+                "geopoint": {
+                    "lat": 37.7808064,
+                    "lng": -113.4285714
+                },
+                "label": "Antelope Springs, Utah"
+            },
+            "elinks": [
+                {
+                    "label": "Antelope Springs (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Antelope%20Springs%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "40",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Fort Sill",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 34.70455949999999,
+                    "lng": -98.5090089
+                },
+                "label": "Fort Sill, Oklahoma"
+            },
+            "elinks": [
+                {
+                    "label": "Fort Sill (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Fort%20Sill%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "41",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Stringtown",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 34.46676,
+                    "lng": -96.05332519999999
+                },
+                "label": "Stringtown, Oklahoma"
+            },
+            "elinks": [
+                {
+                    "label": "Stringtown (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Stringtown%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "42",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Sand Island",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 21.3064413,
+                    "lng": -157.8778435
+                },
+                "label": "Sand Island, Oahu, Hawaii"
+            },
+            "elinks": [
+                {
+                    "label": "Sand Island (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Sand%20Island%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "43",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Leavenworth Federal Penitentiary",
+            "type": "U.S. Federal Prison",
+            "location": {
+                "geopoint": {
+                    "lat": 39.3111112,
+                    "lng": -94.9224637
+                },
+                "label": "Leavenworth, Kansas"
+            },
+            "elinks": [
+                {
+                    "label": "Leavenworth (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Leavenworth%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "44",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Camp McCoy",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 44.012716,
+                    "lng": -90.68835519999999
+                },
+                "label": "Camp McCoy, Wisconsin"
+            },
+            "elinks": [
+                {
+                    "label": "Camp McCoy (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Camp%20McCoy%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "45",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Ellis Island",
+            "type": "Immigration Detention Center",
+            "location": {
+                "geopoint": {
+                    "lat": 40.6994721,
+                    "lng": -74.03955959999999
+                },
+                "label": "Ellis Island, New York"
+            },
+            "elinks": [
+                {
+                    "label": "Ellis Island (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Ellis%20Island%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "46",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Tulelake",
+            "type": "Additional Facility",
+            "location": {
+                "geopoint": {
+                    "lat": 41.9559884,
+                    "lng": -121.4774916
+                },
+                "label": "Tulelake, California"
+            },
+            "elinks": [
+                {
+                    "label": "Tulelake (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Tulelake%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "47",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Camp Forrest",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 35.3620235,
+                    "lng": -86.20943419999999
+                },
+                "label": "Tullahoma, Tennessee"
+            },
+            "elinks": [
+                {
+                    "label": "Camp Forrest (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Camp%20Forrest%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "48",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Seagoville",
+            "type": "Department of Justice Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 32.6395776,
+                    "lng": -96.53832279999999
+                },
+                "label": "Seagoville, Texas"
+            },
+            "elinks": [
+                {
+                    "label": "Seagoville (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Seagoville%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "49",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Sharp Park",
+            "type": "Immigration Detention Center",
+            "location": {
+                "geopoint": {
+                    "lat": 37.6322976,
+                    "lng": -122.4863492
+                },
+                "label": "Sharp Park, California"
+            },
+            "elinks": [
+                {
+                    "label": "Sharp Park (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Sharp%20Park%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "50",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Owens Valley",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 36.7285184,
+                    "lng": -118.1462987
+                },
+                "label": "Manzanar, California"
+            },
+            "elinks": [
+                {
+                    "label": "Owens Valley (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Owens%20Valley%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "51",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Parker Dam",
+            "type": "Temporary Assembly Center",
+            "location": {
+                "geopoint": {
+                    "lat": 34.1500162,
+                    "lng": -114.2891177
+                },
+                "label": "Parker, Arizona"
+            },
+            "elinks": [
+                {
+                    "label": "Parker Dam (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Parker%20Dam%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "52",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Kooskia",
+            "type": "Department of Justice Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 46.1448942,
+                    "lng": -115.9779188
+                },
+                "label": "Kooskia, Idaho"
+            },
+            "elinks": [
+                {
+                    "label": "Kooskia (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Kooskia%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "53",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Old Raton Ranch",
+            "type": "Department of Justice Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 33.4920276,
+                    "lng": -105.3838716
+                },
+                "label": "Lincoln, New Mexico"
+            },
+            "elinks": [
+                {
+                    "label": "Old Raton (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Old%20Raton%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "54",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Camp Blanding",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 29.9441298,
+                    "lng": -82.1098275
+                },
+                "label": "Starke, Florida"
+            },
+            "elinks": [
+                {
+                    "label": "Camp Blanding (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Camp%20Blanding%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "55",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Camp Livingston",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 31.3112936,
+                    "lng": -92.4451371
+                },
+                "label": "Alexandria, Louisiana"
+            },
+            "elinks": [
+                {
+                    "label": "Camp Livingston (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Camp%20Livingston%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "56",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Florence",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 33.0314508,
+                    "lng": -111.3873431
+                },
+                "label": "Florence, Arizona"
+            },
+            "elinks": [
+                {
+                    "label": "Florence (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Florence%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "57",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Fort Bliss",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 31.8072113,
+                    "lng": -106.4336693
+                },
+                "label": "Fort Bliss, Texas"
+            },
+            "elinks": [
+                {
+                    "label": "Fort Bliss (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Fort%20Bliss%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "58",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Fort Howard",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 39.2073308,
+                    "lng": -76.44496029999999
+                },
+                "label": "Fort Howard, Maryland"
+            },
+            "elinks": [
+                {
+                    "label": "Fort Howard (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Fort%20Howard%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "59",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Fort Lewis",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 47.1144444,
+                    "lng": -122.5647222
+                },
+                "label": "Fort Lewis, Washington"
+            },
+            "elinks": [
+                {
+                    "label": "Fort Lewis (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Fort%20Lewis%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "60",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Fort McDowell",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 37.8627046,
+                    "lng": -122.4227496
+                },
+                "label": "Fort McDowell, California"
+            },
+            "elinks": [
+                {
+                    "label": "Fort McDowell / Angel Island (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Fort%20McDowell%20/%20Angel%20Island%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "61",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Fort Meade",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 39.1135041,
+                    "lng": -76.72686030000001
+                },
+                "label": "Fort George Meade, Maryland"
+            },
+            "elinks": [
+                {
+                    "label": "Fort Meade (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Fort%20Meade%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "62",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Fort Richardson",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 61.25444,
+                    "lng": -149.68833
+                },
+                "label": "Fort Richardson, Alaska"
+            },
+            "elinks": [
+                {
+                    "label": "Fort Richardson (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Fort%20Richardson%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "63",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Fort Sam Houston",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 29.4766354,
+                    "lng": -98.43076
+                },
+                "label": "Fort Sam Houston, Texas"
+            },
+            "elinks": [
+                {
+                    "label": "Fort Sam Houston (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Fort%20Sam%20Houston%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "65",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Griffith Park",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 34.1808392,
+                    "lng": -118.3089661
+                },
+                "label": "Burbank, California"
+            },
+            "elinks": [
+                {
+                    "label": "Griffith Park (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Griffith%20Park%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "66",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Honouliuli",
+            "type": "U.S. Army Internment Camp",
+            "location": {
+                "geopoint": {
+                    "lat": 21.3677778,
+                    "lng": -158.0361111
+                },
+                "label": "Honouliuli, Oahu, Hawaii"
+            },
+            "elinks": [
+                {
+                    "label": "Honouliuli (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Honouliuli%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "67",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "East Boston",
+            "type": "Immigration Detention Center",
+            "location": {
+                "geopoint": {
+                    "lat": 42.37021370000001,
+                    "lng": -71.0388601
+                },
+                "label": "East Boston, Massachusetts"
+            },
+            "elinks": [
+                {
+                    "label": "East Boston (detention facility)",
+                    "url": "http://encyclopedia.densho.org/East%20Boston%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "68",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "San Francisco",
+            "type": "Immigration Detention Center",
+            "location": {
+                "geopoint": {
+                    "lat": 37.7749295,
+                    "lng": -122.4194155
+                },
+                "label": "San Francisco, California"
+            },
+            "elinks": [
+                {
+                    "label": "San Francisco (detention facility)",
+                    "url": "http://encyclopedia.densho.org/San%20Francisco%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "69",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "San Pedro",
+            "type": "Immigration Detention Center",
+            "location": {
+                "geopoint": {
+                    "lat": 33.7360619,
+                    "lng": -118.2922461
+                },
+                "label": "San Pedro, California"
+            },
+            "elinks": [
+                {
+                    "label": "San Pedro (detention facility)",
+                    "url": "http://encyclopedia.densho.org/San%20Pedro%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "70",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Seattle",
+            "type": "Immigration Detention Center",
+            "location": {
+                "geopoint": {
+                    "lat": 47.6062095,
+                    "lng": -122.3320708
+                },
+                "label": "Seattle, Washington"
+            },
+            "elinks": [
+                {
+                    "label": "Seattle (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Seattle%20(detention%20facility)/"
+                }
+            ]
+        },
+        {
+            "id": "71",
+            "created": "2014-02-19T10:58:27-0800",
+            "modified": "2014-02-19T10:58:27-0800",
+            "title": "Tuna Canyon",
+            "type": "Immigration Detention Center",
+            "location": {
+                "geopoint": {
+                    "lat": 34.2596475,
+                    "lng": -118.3082747
+                },
+                "label": "Tujunga, California"
+            },
+            "elinks": [
+                {
+                    "label": "Tuna Canyon (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Tuna%20Canyon%20(detention%20facility)/"
+                }
+            ]
+        }
+    ]
+}
