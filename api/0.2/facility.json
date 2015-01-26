@@ -1382,6 +1382,26 @@
                     "url": "http://encyclopedia.densho.org/Tuna%20Canyon%20(detention%20facility)/"
                 }
             ]
+        },
+        {
+            "id": "72",
+            "created": "2014-10-21T15:30:27-0800",
+            "modified": "2014-10-21T15:30:27-0800",
+            "title": "Nyssa, Oregon (detention facility)",
+            "type": "Additional Facility",
+            "location": {
+                "geopoint": {
+                    "lat": 43.8819705,
+                    "lng": -116.9979309
+                },
+                "label": "Nyssa, Oregon"
+            },
+            "elinks": [
+                {
+                    "label": "Nyssa, Oregon (detention facility)",
+                    "url": "http://encyclopedia.densho.org/Nyssa,%20Oregon%20(detention%20facility)/"
+                }
+            ]
         }
     ]
 }
