@@ -1,0 +1,232 @@
+{
+    "id": "genre",
+    "title": "Genre",
+    "description": "",
+    "terms": [
+        {
+            "id": "advertisement",
+            "title": "Advertisements",
+            "description": ""
+        },
+        {
+            "id": "album",
+            "title": "Albums",
+            "description": ""
+        },
+        {
+            "id": "architecture",
+            "title": "Architecture",
+            "description": ""
+        },
+        {
+            "id": "baseball_card",
+            "title": "Baseball Cards",
+            "description": ""
+        },
+        {
+            "id": "blank_form",
+            "title": "Blank Forms",
+            "description": ""
+        },
+        {
+            "id": "book",
+            "title": "Books",
+            "description": ""
+        },
+        {
+            "id": "broadside",
+            "title": "Broadsides",
+            "description": ""
+        },
+        {
+            "id": "cartoon",
+            "title": "Cartoons (Commentary)",
+            "description": ""
+        },
+        {
+            "id": "catalog",
+            "title": "Catalogs",
+            "description": ""
+        },
+        {
+            "id": "cityscape",
+            "title": "Cityscapes",
+            "description": ""
+        },
+        {
+            "id": "clipping",
+            "title": "Clippings",
+            "description": ""
+        },
+        {
+            "id": "correspondence",
+            "title": "Correspondence",
+            "description": ""
+        },
+        {
+            "id": "diary",
+            "title": "Diaries",
+            "description": ""
+        },
+        {
+            "id": "drawing",
+            "title": "Drawings",
+            "description": ""
+        },
+        {
+            "id": "ephemera",
+            "title": "Ephemera",
+            "description": ""
+        },
+        {
+            "id": "essay",
+            "title": "Essays",
+            "description": ""
+        },
+        {
+            "id": "ethnography",
+            "title": "Ethnography",
+            "description": ""
+        },
+        {
+            "id": "fieldnotes",
+            "title": "Fieldnotes",
+            "description": ""
+        },
+        {
+            "id": "illustration",
+            "title": "Illustrations",
+            "description": ""
+        },
+        {
+            "id": "interview",
+            "title": "Interviews",
+            "description": ""
+        },
+        {
+            "id": "landscape",
+            "title": "Landscapes",
+            "description": ""
+        },
+        {
+            "id": "leaflet",
+            "title": "Leaflets",
+            "description": ""
+        },
+        {
+            "id": "manuscript",
+            "title": "Manuscripts",
+            "description": ""
+        },
+        {
+            "id": "map",
+            "title": "Maps",
+            "description": ""
+        },
+        {
+            "id": "misc_document",
+            "title": "Miscellaneous Documents",
+            "description": ""
+        },
+        {
+            "id": "motion_picture",
+            "title": "Motion Pictures",
+            "description": ""
+        },
+        {
+            "id": "music",
+            "title": "Music",
+            "description": ""
+        },
+        {
+            "id": "narrative",
+            "title": "Narratives",
+            "description": ""
+        },
+        {
+            "id": "painting",
+            "title": "Paintings",
+            "description": ""
+        },
+        {
+            "id": "pamphlet",
+            "title": "Pamphlets",
+            "description": ""
+        },
+        {
+            "id": "periodical",
+            "title": "Periodicals",
+            "description": ""
+        },
+        {
+            "id": "petition",
+            "title": "Petitions",
+            "description": ""
+        },
+        {
+            "id": "photograph",
+            "title": "Photographs",
+            "description": ""
+        },
+        {
+            "id": "physical_object",
+            "title": "Physical Objects",
+            "description": ""
+        },
+        {
+            "id": "poetry",
+            "title": "Poetry",
+            "description": ""
+        },
+        {
+            "id": "portrait",
+            "title": "Portraits",
+            "description": ""
+        },
+        {
+            "id": "postcard",
+            "title": "Postcards",
+            "description": ""
+        },
+        {
+            "id": "poster",
+            "title": "Posters",
+            "description": ""
+        },
+        {
+            "id": "print",
+            "title": "Prints",
+            "description": ""
+        },
+        {
+            "id": "program",
+            "title": "Programs",
+            "description": ""
+        },
+        {
+            "id": "rec_log",
+            "title": "Recording Logs",
+            "description": ""
+        },
+        {
+            "id": "score",
+            "title": "Scores",
+            "description": ""
+        },
+        {
+            "id": "sheet_music",
+            "title": "Sheet Music",
+            "description": ""
+        },
+        {
+            "id": "timetable",
+            "title": "Timetables",
+            "description": ""
+        },
+        {
+            "id": "transcription",
+            "title": "Transcriptions",
+            "description": " 
+        }
+    ]
+}

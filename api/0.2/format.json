@@ -1,0 +1,32 @@
+{
+    "id": "format",
+    "title": "Format",
+    "description": "",
+    "terms": [
+        {
+            "id": "av",
+            "title": "Audio/Visual",
+            "description": "AV DESCRIPTION"
+        },
+        {
+            "id": "ds",
+            "title": "Dataset",
+            "description": "DS DESCRIPTION"
+        },
+        {
+            "id": "doc",
+            "title": "Document",
+            "description": "DOC DESCRIPTION"
+        },
+        {
+            "id": "img",
+            "title": "Still Image",
+            "description": "IMG DESCRIPTION"
+        },
+        {
+            "id": "vh",
+            "title": "Oral History",
+            "description": "VH DESCRIPTION" 
+        }
+    ]
+}

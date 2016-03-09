@@ -1,0 +1,17 @@
+{
+    "id": "status",
+    "title": "Status",
+    "description": "",
+    "terms": [
+        {
+            "id": "inprocess",
+            "title": "In Progress",
+            "description": ""
+        },
+        {
+            "id": "completed",
+            "title": "Completed",
+            "description": "" 
+        }
+    ]
+}

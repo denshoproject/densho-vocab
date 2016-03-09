@@ -1,0 +1,27 @@
+{
+    "id": "rights",
+    "title": "Rights",
+    "description": "",
+    "terms": [
+        {
+            "id": "cc",
+            "title": "DDR Creative Commons",
+            "description": ""
+        },
+        {
+            "id": "pcc",
+            "title": "Copyright, with special 3rd-party grant permitted",
+            "description": ""
+        },
+        {
+            "id": "nocc",
+            "title": "Copyright restricted",
+            "description": ""
+        },
+        {
+            "id": "pdm",
+            "title": "Public domain",
+            "description": "" 
+        }
+    ]
+}

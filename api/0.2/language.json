@@ -1,0 +1,57 @@
+{
+    "id": "language",
+    "title": "Language",
+    "description": "",
+    "terms": [
+        {
+            "id": "eng",
+            "title": "English",
+            "description": ""
+        },
+        {
+            "id": "jpn",
+            "title": "Japanese",
+            "description": ""
+        },
+        {
+            "id": "chi",
+            "title": "Chinese",
+            "description": ""
+        },
+        {
+            "id": "fre",
+            "title": "French",
+            "description": ""
+        },
+        {
+            "id": "ger",
+            "title": "German",
+            "description": ""
+        },
+        {
+            "id": "kor",
+            "title": "Korean",
+            "description": ""
+        },
+        {
+            "id": "por",
+            "title": "Portuguese",
+            "description": ""
+        },
+        {
+            "id": "rus",
+            "title": "Russian",
+            "description": ""
+        },
+        {
+            "id": "spa",
+            "title": "Spanish",
+            "description": ""
+        },
+        {
+            "id": "tgl",
+            "title": "Tagalog",
+            "description": " 
+        }
+    ]
+}
