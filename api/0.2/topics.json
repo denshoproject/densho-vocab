@@ -1,6 +1,7 @@
 {
-    "description": "DDR Topics",
     "id": "topics",
+    "title": "Topics",
+    "description": "DDR Topics",
     "terms": [
         {
             "_title": "Activism and involvement [120]",
@@ -12466,6 +12467,5 @@
             "title": "U.S. federal prisons",
             "weight": 0
         }
-    ],
-    "title": "Topics"
+    ]
 }
