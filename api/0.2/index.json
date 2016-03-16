@@ -1,13 +1,8 @@
 {
-    "contributor": "contributor.json",
-    "creators": "creators.json",
-    "digitize_organization": "digitize_organization.json",
     "facility": "facility.json",
     "format": "format.json",
     "genre": "genre.json",
     "language": "language.json",
-    "location": "location.json",
-    "persons": "persons.json",
     "public": "public.json",
     "rights": "rights.json",
     "status": "status.json",
