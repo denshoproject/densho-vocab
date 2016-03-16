@@ -8,7 +8,7 @@
     "language": "language.json",
     "location": "location.json",
     "persons": "persons.json",
-    "permissions": "permissions.json",
+    "public": "public.json",
     "rights": "rights.json",
     "status": "status.json",
     "topics": "topics.json"
