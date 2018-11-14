@@ -38,7 +38,7 @@
             "id": 447,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 120,
-            "path": "Activism and involvement: Anti-war movements",
+            "path": "Activism and involvement -- Anti-war movements",
             "siblings": [
                 233,
                 234,
@@ -66,7 +66,7 @@
             "id": 233,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 120,
-            "path": "Activism and involvement: Civil liberties",
+            "path": "Activism and involvement -- Civil liberties",
             "siblings": [
                 234,
                 235,
@@ -93,7 +93,7 @@
             "id": 473,
             "modified": "2017-10-02T09:40:25-0700",
             "parent_id": 233,
-            "path": "Activism and involvement: Civil liberties: Internal Security Act, 1950",
+            "path": "Activism and involvement -- Civil liberties -- Internal Security Act, 1950",
             "siblings": [],
             "title": "Internal Security Act, 1950",
             "weight": 0
@@ -122,7 +122,7 @@
             "id": 234,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 120,
-            "path": "Activism and involvement: Civil rights",
+            "path": "Activism and involvement -- Civil rights",
             "siblings": [
                 233,
                 235,
@@ -148,7 +148,7 @@
             "id": 544,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 234,
-            "path": "Activism and involvement: Civil rights: Housing discrimination",
+            "path": "Activism and involvement -- Civil rights -- Housing discrimination",
             "siblings": [
                 543
             ],
@@ -168,7 +168,7 @@
             "id": 543,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 234,
-            "path": "Activism and involvement: Civil rights: School integration",
+            "path": "Activism and involvement -- Civil rights -- School integration",
             "siblings": [
                 544
             ],
@@ -189,7 +189,7 @@
             "id": 462,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 120,
-            "path": "Activism and involvement: Movements and ideologies",
+            "path": "Activism and involvement -- Movements and ideologies",
             "siblings": [
                 233,
                 234,
@@ -213,7 +213,7 @@
             "id": 463,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 462,
-            "path": "Activism and involvement: Movements and ideologies: Feminism",
+            "path": "Activism and involvement -- Movements and ideologies -- Feminism",
             "siblings": [],
             "title": "Feminism",
             "weight": 0
@@ -251,7 +251,7 @@
             "id": 235,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 120,
-            "path": "Activism and involvement: Politics",
+            "path": "Activism and involvement -- Politics",
             "siblings": [
                 233,
                 234,
@@ -279,7 +279,7 @@
             "id": 236,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 235,
-            "path": "Activism and involvement: Politics: Hawaiian statehood",
+            "path": "Activism and involvement -- Politics -- Hawaiian statehood",
             "siblings": [
                 238,
                 239,
@@ -303,7 +303,7 @@
             "id": 237,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 236,
-            "path": "Activism and involvement: Politics: Hawaiian statehood: Constitutional convention",
+            "path": "Activism and involvement -- Politics -- Hawaiian statehood -- Constitutional convention",
             "siblings": [],
             "title": "Constitutional convention",
             "weight": 0
@@ -321,7 +321,7 @@
             "id": 474,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 235,
-            "path": "Activism and involvement: Politics: Elections and voting",
+            "path": "Activism and involvement -- Politics -- Elections and voting",
             "siblings": [
                 236,
                 238,
@@ -344,7 +344,7 @@
             "id": 238,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 235,
-            "path": "Activism and involvement: Politics: Lobbying",
+            "path": "Activism and involvement -- Politics -- Lobbying",
             "siblings": [
                 236,
                 239,
@@ -371,7 +371,7 @@
             "id": 448,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 235,
-            "path": "Activism and involvement: Politics: Political systems and ideologies",
+            "path": "Activism and involvement -- Politics -- Political systems and ideologies",
             "siblings": [
                 236,
                 238,
@@ -395,7 +395,7 @@
             "id": 449,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 448,
-            "path": "Activism and involvement: Politics: Political systems and ideologies: Communism",
+            "path": "Activism and involvement -- Politics -- Political systems and ideologies -- Communism",
             "siblings": [
                 450,
                 451
@@ -417,7 +417,7 @@
             "id": 450,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 448,
-            "path": "Activism and involvement: Politics: Political systems and ideologies: Fascism",
+            "path": "Activism and involvement -- Politics -- Political systems and ideologies -- Fascism",
             "siblings": [
                 449,
                 451
@@ -439,7 +439,7 @@
             "id": 451,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 448,
-            "path": "Activism and involvement: Politics: Political systems and ideologies: Socialism",
+            "path": "Activism and involvement -- Politics -- Political systems and ideologies -- Socialism",
             "siblings": [
                 449,
                 450
@@ -463,7 +463,7 @@
             "id": 239,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 235,
-            "path": "Activism and involvement: Politics: Running for office",
+            "path": "Activism and involvement -- Politics -- Running for office",
             "siblings": [
                 236,
                 238,
@@ -485,7 +485,7 @@
             "id": 452,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 120,
-            "path": "Activism and involvement: Protests, rallies, or marches",
+            "path": "Activism and involvement -- Protests, rallies, or marches",
             "siblings": [
                 233,
                 234,
@@ -535,7 +535,7 @@
             "id": 181,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 40,
-            "path": "Arts and literature: Literary arts",
+            "path": "Arts and literature -- Literary arts",
             "siblings": [
                 180,
                 247
@@ -558,7 +558,7 @@
             "id": 240,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 181,
-            "path": "Arts and literature: Literary arts: Essays",
+            "path": "Arts and literature -- Literary arts -- Essays",
             "siblings": [
                 241,
                 244,
@@ -590,7 +590,7 @@
             "id": 241,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 181,
-            "path": "Arts and literature: Literary arts: Fiction",
+            "path": "Arts and literature -- Literary arts -- Fiction",
             "siblings": [
                 240,
                 244,
@@ -622,7 +622,7 @@
             "id": 242,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 241,
-            "path": "Arts and literature: Literary arts: Fiction: Adult",
+            "path": "Arts and literature -- Literary arts -- Fiction -- Adult",
             "siblings": [
                 243
             ],
@@ -653,7 +653,7 @@
             "id": 243,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 241,
-            "path": "Arts and literature: Literary arts: Fiction: Children and young adult",
+            "path": "Arts and literature -- Literary arts -- Fiction -- Children and young adult",
             "siblings": [
                 242
             ],
@@ -691,7 +691,7 @@
             "id": 244,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 181,
-            "path": "Arts and literature: Literary arts: Nonfiction",
+            "path": "Arts and literature -- Literary arts -- Nonfiction",
             "siblings": [
                 240,
                 241,
@@ -718,7 +718,7 @@
             "id": 245,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 181,
-            "path": "Arts and literature: Literary arts: Plays",
+            "path": "Arts and literature -- Literary arts -- Plays",
             "siblings": [
                 240,
                 241,
@@ -750,7 +750,7 @@
             "id": 246,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 181,
-            "path": "Arts and literature: Literary arts: Poetry",
+            "path": "Arts and literature -- Literary arts -- Poetry",
             "siblings": [
                 240,
                 241,
@@ -774,7 +774,7 @@
             "id": 475,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 246,
-            "path": "Arts and literature: Literary arts: Poetry: Haiku",
+            "path": "Arts and literature -- Literary arts -- Poetry -- Haiku",
             "siblings": [],
             "title": "Haiku",
             "weight": 0
@@ -797,7 +797,7 @@
             "id": 247,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 40,
-            "path": "Arts and literature: Performing arts",
+            "path": "Arts and literature -- Performing arts",
             "siblings": [
                 180,
                 181
@@ -820,7 +820,7 @@
             "id": 202,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 247,
-            "path": "Arts and literature: Performing arts: Dance",
+            "path": "Arts and literature -- Performing arts -- Dance",
             "siblings": [
                 183,
                 249,
@@ -844,7 +844,7 @@
             "id": 248,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 202,
-            "path": "Arts and literature: Performing arts: Dance: Odori",
+            "path": "Arts and literature -- Performing arts -- Dance -- Odori",
             "siblings": [],
             "title": "Odori",
             "weight": 0
@@ -873,7 +873,7 @@
             "id": 249,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 247,
-            "path": "Arts and literature: Performing arts: Film",
+            "path": "Arts and literature -- Performing arts -- Film",
             "siblings": [
                 183,
                 202,
@@ -897,7 +897,7 @@
             "id": 250,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 249,
-            "path": "Arts and literature: Performing arts: Film: Comedies",
+            "path": "Arts and literature -- Performing arts -- Film -- Comedies",
             "siblings": [
                 251,
                 252,
@@ -926,7 +926,7 @@
             "id": 251,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 249,
-            "path": "Arts and literature: Performing arts: Film: Documentaries",
+            "path": "Arts and literature -- Performing arts -- Film -- Documentaries",
             "siblings": [
                 250,
                 252,
@@ -952,7 +952,7 @@
             "id": 252,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 249,
-            "path": "Arts and literature: Performing arts: Film: Dramas",
+            "path": "Arts and literature -- Performing arts -- Film -- Dramas",
             "siblings": [
                 250,
                 251,
@@ -977,7 +977,7 @@
             "id": 253,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 249,
-            "path": "Arts and literature: Performing arts: Film: Romance",
+            "path": "Arts and literature -- Performing arts -- Film -- Romance",
             "siblings": [
                 250,
                 251,
@@ -1007,7 +1007,7 @@
             "id": 183,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 247,
-            "path": "Arts and literature: Performing arts: Music",
+            "path": "Arts and literature -- Performing arts -- Music",
             "siblings": [
                 202,
                 249,
@@ -1031,7 +1031,7 @@
             "id": 254,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 183,
-            "path": "Arts and literature: Performing arts: Music: Taiko",
+            "path": "Arts and literature -- Performing arts -- Music -- Taiko",
             "siblings": [],
             "title": "Taiko",
             "weight": 0
@@ -1049,7 +1049,7 @@
             "id": 255,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 247,
-            "path": "Arts and literature: Performing arts: Tea ceremonies",
+            "path": "Arts and literature -- Performing arts -- Tea ceremonies",
             "siblings": [
                 183,
                 202,
@@ -1080,7 +1080,7 @@
             "id": 256,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 247,
-            "path": "Arts and literature: Performing arts: Theater",
+            "path": "Arts and literature -- Performing arts -- Theater",
             "siblings": [
                 183,
                 202,
@@ -1104,7 +1104,7 @@
             "id": 257,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 256,
-            "path": "Arts and literature: Performing arts: Theater: Kabuki",
+            "path": "Arts and literature -- Performing arts -- Theater -- Kabuki",
             "siblings": [
                 435
             ],
@@ -1125,7 +1125,7 @@
             "id": 435,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 256,
-            "path": "Arts and literature: Performing arts: Theater: Noh",
+            "path": "Arts and literature -- Performing arts -- Theater -- Noh",
             "siblings": [
                 257
             ],
@@ -1161,7 +1161,7 @@
             "id": 180,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 40,
-            "path": "Arts and literature: Visual arts",
+            "path": "Arts and literature -- Visual arts",
             "siblings": [
                 181,
                 247
@@ -1184,7 +1184,7 @@
             "id": 258,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 180,
-            "path": "Arts and literature: Visual arts: Architecture",
+            "path": "Arts and literature -- Visual arts -- Architecture",
             "siblings": [
                 259,
                 260,
@@ -1214,7 +1214,7 @@
             "id": 259,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 180,
-            "path": "Arts and literature: Visual arts: Bonsai",
+            "path": "Arts and literature -- Visual arts -- Bonsai",
             "siblings": [
                 258,
                 260,
@@ -1244,7 +1244,7 @@
             "id": 260,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 180,
-            "path": "Arts and literature: Visual arts: Calligraphy",
+            "path": "Arts and literature -- Visual arts -- Calligraphy",
             "siblings": [
                 258,
                 259,
@@ -1274,7 +1274,7 @@
             "id": 261,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 180,
-            "path": "Arts and literature: Visual arts: Carpentry and woodworking",
+            "path": "Arts and literature -- Visual arts -- Carpentry and woodworking",
             "siblings": [
                 258,
                 259,
@@ -1306,7 +1306,7 @@
             "id": 476,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 180,
-            "path": "Arts and literature: Visual arts: Crafts and decorating",
+            "path": "Arts and literature -- Visual arts -- Crafts and decorating",
             "siblings": [
                 258,
                 259,
@@ -1340,7 +1340,7 @@
             "id": 262,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 180,
-            "path": "Arts and literature: Visual arts: Drawing",
+            "path": "Arts and literature -- Visual arts -- Drawing",
             "siblings": [
                 258,
                 259,
@@ -1370,7 +1370,7 @@
             "id": 263,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 180,
-            "path": "Arts and literature: Visual arts: Ikebana",
+            "path": "Arts and literature -- Visual arts -- Ikebana",
             "siblings": [
                 258,
                 259,
@@ -1400,7 +1400,7 @@
             "id": 264,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 180,
-            "path": "Arts and literature: Visual arts: Needlecrafts",
+            "path": "Arts and literature -- Visual arts -- Needlecrafts",
             "siblings": [
                 258,
                 259,
@@ -1449,7 +1449,7 @@
             "id": 265,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 180,
-            "path": "Arts and literature: Visual arts: Painting",
+            "path": "Arts and literature -- Visual arts -- Painting",
             "siblings": [
                 258,
                 259,
@@ -1482,7 +1482,7 @@
             "id": 266,
             "modified": "2017-10-02T09:46:19-0700",
             "parent_id": 265,
-            "path": "Arts and literature: Visual arts: Painting: Ink wash painting (sumi-e)",
+            "path": "Arts and literature -- Visual arts -- Painting -- Ink wash painting (sumi-e)",
             "siblings": [],
             "title": "Ink wash painting (sumi-e)",
             "weight": 0
@@ -1511,7 +1511,7 @@
             "id": 267,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 180,
-            "path": "Arts and literature: Visual arts: Photography",
+            "path": "Arts and literature -- Visual arts -- Photography",
             "siblings": [
                 258,
                 259,
@@ -1541,7 +1541,7 @@
             "id": 268,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 180,
-            "path": "Arts and literature: Visual arts: Pottery",
+            "path": "Arts and literature -- Visual arts -- Pottery",
             "siblings": [
                 258,
                 259,
@@ -1573,7 +1573,7 @@
             "id": 269,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 180,
-            "path": "Arts and literature: Visual arts: Sculpture",
+            "path": "Arts and literature -- Visual arts -- Sculpture",
             "siblings": [
                 258,
                 259,
@@ -1643,7 +1643,7 @@
             "id": 479,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Alaska",
+            "path": "Geographic communities -- Alaska",
             "siblings": [
                 271,
                 275,
@@ -1685,7 +1685,7 @@
             "id": 480,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Arizona",
+            "path": "Geographic communities -- Arizona",
             "siblings": [
                 271,
                 275,
@@ -1727,7 +1727,7 @@
             "id": 481,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Arkansas",
+            "path": "Geographic communities -- Arkansas",
             "siblings": [
                 271,
                 275,
@@ -1789,7 +1789,7 @@
             "id": 271,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: California",
+            "path": "Geographic communities -- California",
             "siblings": [
                 275,
                 277,
@@ -1832,7 +1832,7 @@
             "id": 482,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 271,
-            "path": "Geographic communities: California: Fresno",
+            "path": "Geographic communities -- California -- Fresno",
             "siblings": [
                 272,
                 273,
@@ -1862,7 +1862,7 @@
             "id": 483,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 271,
-            "path": "Geographic communities: California: Hillsborough",
+            "path": "Geographic communities -- California -- Hillsborough",
             "siblings": [
                 272,
                 273,
@@ -1892,7 +1892,7 @@
             "id": 484,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 271,
-            "path": "Geographic communities: California: Livingston",
+            "path": "Geographic communities -- California -- Livingston",
             "siblings": [
                 272,
                 273,
@@ -1934,7 +1934,7 @@
             "id": 272,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 271,
-            "path": "Geographic communities: California: Los Angeles",
+            "path": "Geographic communities -- California -- Los Angeles",
             "siblings": [
                 273,
                 274,
@@ -1964,7 +1964,7 @@
             "id": 485,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 271,
-            "path": "Geographic communities: California: Oakland",
+            "path": "Geographic communities -- California -- Oakland",
             "siblings": [
                 272,
                 273,
@@ -1994,7 +1994,7 @@
             "id": 486,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 271,
-            "path": "Geographic communities: California: Sacramento",
+            "path": "Geographic communities -- California -- Sacramento",
             "siblings": [
                 272,
                 273,
@@ -2024,7 +2024,7 @@
             "id": 487,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 271,
-            "path": "Geographic communities: California: San Diego",
+            "path": "Geographic communities -- California -- San Diego",
             "siblings": [
                 272,
                 273,
@@ -2054,7 +2054,7 @@
             "id": 488,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 271,
-            "path": "Geographic communities: California: San Fernando Valley",
+            "path": "Geographic communities -- California -- San Fernando Valley",
             "siblings": [
                 272,
                 273,
@@ -2088,7 +2088,7 @@
             "id": 273,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 271,
-            "path": "Geographic communities: California: San Francisco",
+            "path": "Geographic communities -- California -- San Francisco",
             "siblings": [
                 272,
                 274,
@@ -2118,7 +2118,7 @@
             "id": 274,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 271,
-            "path": "Geographic communities: California: San Jose",
+            "path": "Geographic communities -- California -- San Jose",
             "siblings": [
                 272,
                 273,
@@ -2148,7 +2148,7 @@
             "id": 489,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 271,
-            "path": "Geographic communities: California: Sebastopol",
+            "path": "Geographic communities -- California -- Sebastopol",
             "siblings": [
                 272,
                 273,
@@ -2180,7 +2180,7 @@
             "id": 490,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 271,
-            "path": "Geographic communities: California: Terminal Island",
+            "path": "Geographic communities -- California -- Terminal Island",
             "siblings": [
                 272,
                 273,
@@ -2211,7 +2211,7 @@
             "id": 275,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Colorado",
+            "path": "Geographic communities -- Colorado",
             "siblings": [
                 271,
                 277,
@@ -2258,7 +2258,7 @@
             "id": 276,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 275,
-            "path": "Geographic communities: Colorado: Denver",
+            "path": "Geographic communities -- Colorado -- Denver",
             "siblings": [],
             "title": "Denver",
             "weight": 0
@@ -2328,7 +2328,7 @@
             "id": 277,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Hawai'i",
+            "path": "Geographic communities -- Hawai'i",
             "siblings": [
                 271,
                 275,
@@ -2370,7 +2370,7 @@
             "id": 491,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Idaho",
+            "path": "Geographic communities -- Idaho",
             "siblings": [
                 271,
                 275,
@@ -2414,7 +2414,7 @@
             "id": 278,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Illinois",
+            "path": "Geographic communities -- Illinois",
             "siblings": [
                 271,
                 275,
@@ -2459,7 +2459,7 @@
             "id": 279,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 278,
-            "path": "Geographic communities: Illinois: Chicago",
+            "path": "Geographic communities -- Illinois -- Chicago",
             "siblings": [],
             "title": "Chicago",
             "weight": 0
@@ -2476,7 +2476,7 @@
             "id": 492,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Maryland",
+            "path": "Geographic communities -- Maryland",
             "siblings": [
                 271,
                 275,
@@ -2518,7 +2518,7 @@
             "id": 493,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Michigan",
+            "path": "Geographic communities -- Michigan",
             "siblings": [
                 271,
                 275,
@@ -2562,7 +2562,7 @@
             "id": 494,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Minnesota",
+            "path": "Geographic communities -- Minnesota",
             "siblings": [
                 271,
                 275,
@@ -2605,7 +2605,7 @@
             "id": 495,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 494,
-            "path": "Geographic communities: Minnesota: Minneapolis",
+            "path": "Geographic communities -- Minnesota -- Minneapolis",
             "siblings": [],
             "title": "Minneapolis",
             "weight": 0
@@ -2624,7 +2624,7 @@
             "id": 496,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Missouri",
+            "path": "Geographic communities -- Missouri",
             "siblings": [
                 271,
                 275,
@@ -2667,7 +2667,7 @@
             "id": 497,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 496,
-            "path": "Geographic communities: Missouri: Kansas City",
+            "path": "Geographic communities -- Missouri -- Kansas City",
             "siblings": [],
             "title": "Kansas City",
             "weight": 0
@@ -2684,7 +2684,7 @@
             "id": 498,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Montanta",
+            "path": "Geographic communities -- Montanta",
             "siblings": [
                 271,
                 275,
@@ -2728,7 +2728,7 @@
             "id": 499,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Nebraska",
+            "path": "Geographic communities -- Nebraska",
             "siblings": [
                 271,
                 275,
@@ -2771,7 +2771,7 @@
             "id": 500,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 499,
-            "path": "Geographic communities: Nebraska: Lincoln",
+            "path": "Geographic communities -- Nebraska -- Lincoln",
             "siblings": [],
             "title": "Lincoln",
             "weight": 0
@@ -2788,7 +2788,7 @@
             "id": 501,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Nevada",
+            "path": "Geographic communities -- Nevada",
             "siblings": [
                 271,
                 275,
@@ -2832,7 +2832,7 @@
             "id": 280,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: New Jersey",
+            "path": "Geographic communities -- New Jersey",
             "siblings": [
                 271,
                 275,
@@ -2877,7 +2877,7 @@
             "id": 281,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 280,
-            "path": "Geographic communities: New Jersey: Seabrook",
+            "path": "Geographic communities -- New Jersey -- Seabrook",
             "siblings": [],
             "title": "Seabrook",
             "weight": 0
@@ -2894,7 +2894,7 @@
             "id": 502,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: New Mexico",
+            "path": "Geographic communities -- New Mexico",
             "siblings": [
                 271,
                 275,
@@ -2938,7 +2938,7 @@
             "id": 282,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: New York",
+            "path": "Geographic communities -- New York",
             "siblings": [
                 271,
                 275,
@@ -2984,7 +2984,7 @@
             "id": 283,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 282,
-            "path": "Geographic communities: New York: New York",
+            "path": "Geographic communities -- New York -- New York",
             "siblings": [],
             "title": "New York",
             "weight": 0
@@ -3009,7 +3009,7 @@
             "id": 284,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Oregon",
+            "path": "Geographic communities -- Oregon",
             "siblings": [
                 271,
                 275,
@@ -3052,7 +3052,7 @@
             "id": 285,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 284,
-            "path": "Geographic communities: Oregon: Gresham/Troutdale",
+            "path": "Geographic communities -- Oregon -- Gresham/Troutdale",
             "siblings": [
                 286,
                 287,
@@ -3075,7 +3075,7 @@
             "id": 286,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 284,
-            "path": "Geographic communities: Oregon: Hood River",
+            "path": "Geographic communities -- Oregon -- Hood River",
             "siblings": [
                 285,
                 287,
@@ -3098,7 +3098,7 @@
             "id": 287,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 284,
-            "path": "Geographic communities: Oregon: Lake Labish",
+            "path": "Geographic communities -- Oregon -- Lake Labish",
             "siblings": [
                 285,
                 286,
@@ -3121,7 +3121,7 @@
             "id": 288,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 284,
-            "path": "Geographic communities: Oregon: Montavilla",
+            "path": "Geographic communities -- Oregon -- Montavilla",
             "siblings": [
                 285,
                 286,
@@ -3144,7 +3144,7 @@
             "id": 289,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 284,
-            "path": "Geographic communities: Oregon: Portland",
+            "path": "Geographic communities -- Oregon -- Portland",
             "siblings": [
                 285,
                 286,
@@ -3166,7 +3166,7 @@
             "id": 503,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Pennsylvania",
+            "path": "Geographic communities -- Pennsylvania",
             "siblings": [
                 271,
                 275,
@@ -3210,7 +3210,7 @@
             "id": 504,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Peru",
+            "path": "Geographic communities -- Peru",
             "siblings": [
                 271,
                 275,
@@ -3253,7 +3253,7 @@
             "id": 505,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 504,
-            "path": "Geographic communities: Peru: Lima",
+            "path": "Geographic communities -- Peru -- Lima",
             "siblings": [],
             "title": "Lima",
             "weight": 0
@@ -3270,7 +3270,7 @@
             "id": 506,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Utah",
+            "path": "Geographic communities -- Utah",
             "siblings": [
                 271,
                 275,
@@ -3320,7 +3320,7 @@
             "id": 290,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Washington",
+            "path": "Geographic communities -- Washington",
             "siblings": [
                 271,
                 275,
@@ -3365,7 +3365,7 @@
             "id": 291,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 290,
-            "path": "Geographic communities: Washington: Bainbridge Island",
+            "path": "Geographic communities -- Washington -- Bainbridge Island",
             "siblings": [
                 292,
                 293,
@@ -3388,7 +3388,7 @@
             "id": 292,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 290,
-            "path": "Geographic communities: Washington: Bellevue",
+            "path": "Geographic communities -- Washington -- Bellevue",
             "siblings": [
                 291,
                 293,
@@ -3418,7 +3418,7 @@
             "id": 293,
             "modified": "2017-10-02T09:41:40-0700",
             "parent_id": 290,
-            "path": "Geographic communities: Washington: Seattle",
+            "path": "Geographic communities -- Washington -- Seattle",
             "siblings": [
                 291,
                 292,
@@ -3441,7 +3441,7 @@
             "id": 294,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 290,
-            "path": "Geographic communities: Washington: Tacoma",
+            "path": "Geographic communities -- Washington -- Tacoma",
             "siblings": [
                 291,
                 292,
@@ -3464,7 +3464,7 @@
             "id": 295,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 290,
-            "path": "Geographic communities: Washington: White River Valley",
+            "path": "Geographic communities -- Washington -- White River Valley",
             "siblings": [
                 291,
                 292,
@@ -3486,7 +3486,7 @@
             "id": 507,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Washington D.C.",
+            "path": "Geographic communities -- Washington D.C.",
             "siblings": [
                 271,
                 275,
@@ -3528,7 +3528,7 @@
             "id": 508,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
-            "path": "Geographic communities: Wyoming",
+            "path": "Geographic communities -- Wyoming",
             "siblings": [
                 271,
                 275,
@@ -3592,7 +3592,7 @@
             "id": 467,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 296,
-            "path": "Military service: Draft",
+            "path": "Military service -- Draft",
             "siblings": [
                 19,
                 92,
@@ -3615,7 +3615,7 @@
             "id": 541,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 296,
-            "path": "Military service: Enlisting and recruiting",
+            "path": "Military service -- Enlisting and recruiting",
             "siblings": [
                 19,
                 92,
@@ -3643,7 +3643,7 @@
             "id": 92,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 296,
-            "path": "Military service: Pre-World War II service",
+            "path": "Military service -- Pre-World War II service",
             "siblings": [
                 19,
                 199,
@@ -3666,7 +3666,7 @@
             "id": 297,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 296,
-            "path": "Military service: Post-World War II service",
+            "path": "Military service -- Post-World War II service",
             "siblings": [
                 19,
                 92,
@@ -3691,7 +3691,7 @@
             "id": 19,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 296,
-            "path": "Military service: Veterans' organizations",
+            "path": "Military service -- Veterans' organizations",
             "siblings": [
                 92,
                 199,
@@ -3714,7 +3714,7 @@
             "id": 199,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 296,
-            "path": "Military service: Postwar occupation of Japan",
+            "path": "Military service -- Postwar occupation of Japan",
             "siblings": [
                 19,
                 92,
@@ -3777,7 +3777,7 @@
             "id": 16,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 15,
-            "path": "Community activities: Associations and organizations",
+            "path": "Community activities -- Associations and organizations",
             "siblings": [
                 24,
                 25,
@@ -3805,7 +3805,7 @@
             "id": 23,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 16,
-            "path": "Community activities: Associations and organizations: Boy Scouts and Girl Scouts of America",
+            "path": "Community activities -- Associations and organizations -- Boy Scouts and Girl Scouts of America",
             "siblings": [
                 17,
                 18,
@@ -3843,7 +3843,7 @@
             "id": 21,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 16,
-            "path": "Community activities: Associations and organizations: Community and social service associations",
+            "path": "Community activities -- Associations and organizations -- Community and social service associations",
             "siblings": [
                 17,
                 18,
@@ -3869,7 +3869,7 @@
             "id": 18,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 16,
-            "path": "Community activities: Associations and organizations: Economic associations",
+            "path": "Community activities -- Associations and organizations -- Economic associations",
             "siblings": [
                 17,
                 20,
@@ -3897,7 +3897,7 @@
             "id": 298,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 16,
-            "path": "Community activities: Associations and organizations: Fujinkai",
+            "path": "Community activities -- Associations and organizations -- Fujinkai",
             "siblings": [
                 17,
                 18,
@@ -3931,7 +3931,7 @@
             "id": 20,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 16,
-            "path": "Community activities: Associations and organizations: The Japanese American Citizens League",
+            "path": "Community activities -- Associations and organizations -- The Japanese American Citizens League",
             "siblings": [
                 17,
                 18,
@@ -3959,7 +3959,7 @@
             "id": 17,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 16,
-            "path": "Community activities: Associations and organizations: Kenjinkai",
+            "path": "Community activities -- Associations and organizations -- Kenjinkai",
             "siblings": [
                 18,
                 20,
@@ -3985,7 +3985,7 @@
             "id": 22,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 16,
-            "path": "Community activities: Associations and organizations: Student clubs",
+            "path": "Community activities -- Associations and organizations -- Student clubs",
             "siblings": [
                 17,
                 18,
@@ -4011,7 +4011,7 @@
             "id": 471,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 16,
-            "path": "Community activities: Associations and organizations: YMCA/YWCA",
+            "path": "Community activities -- Associations and organizations -- YMCA/YWCA",
             "siblings": [
                 17,
                 18,
@@ -4036,7 +4036,7 @@
             "id": 299,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 15,
-            "path": "Community activities: Conventions and conferences",
+            "path": "Community activities -- Conventions and conferences",
             "siblings": [
                 16,
                 24,
@@ -4063,7 +4063,7 @@
             "id": 477,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 15,
-            "path": "Community activities: Family reunions",
+            "path": "Community activities -- Family reunions",
             "siblings": [
                 16,
                 24,
@@ -4100,7 +4100,7 @@
             "id": 25,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 15,
-            "path": "Community activities: Festivals, celebrations, and holidays",
+            "path": "Community activities -- Festivals, celebrations, and holidays",
             "siblings": [
                 16,
                 24,
@@ -4128,7 +4128,7 @@
             "id": 300,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 25,
-            "path": "Community activities: Festivals, celebrations, and holidays: Boys' Day",
+            "path": "Community activities -- Festivals, celebrations, and holidays -- Boys' Day",
             "siblings": [
                 301,
                 302,
@@ -4155,7 +4155,7 @@
             "id": 301,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 25,
-            "path": "Community activities: Festivals, celebrations, and holidays: Cherry blossom festivals",
+            "path": "Community activities -- Festivals, celebrations, and holidays -- Cherry blossom festivals",
             "siblings": [
                 300,
                 302,
@@ -4182,7 +4182,7 @@
             "id": 302,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 25,
-            "path": "Community activities: Festivals, celebrations, and holidays: Girls' Day",
+            "path": "Community activities -- Festivals, celebrations, and holidays -- Girls' Day",
             "siblings": [
                 300,
                 301,
@@ -4209,7 +4209,7 @@
             "id": 303,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 25,
-            "path": "Community activities: Festivals, celebrations, and holidays: Mochitsuki",
+            "path": "Community activities -- Festivals, celebrations, and holidays -- Mochitsuki",
             "siblings": [
                 300,
                 301,
@@ -4236,7 +4236,7 @@
             "id": 304,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 25,
-            "path": "Community activities: Festivals, celebrations, and holidays: New Year festival",
+            "path": "Community activities -- Festivals, celebrations, and holidays -- New Year festival",
             "siblings": [
                 300,
                 301,
@@ -4263,7 +4263,7 @@
             "id": 545,
             "modified": "2017-10-04T10:53:35-0700",
             "parent_id": 25,
-            "path": "Community activities: Festivals, celebrations, and holidays: Nisei Week",
+            "path": "Community activities -- Festivals, celebrations, and holidays -- Nisei Week",
             "siblings": [
                 300,
                 301,
@@ -4290,7 +4290,7 @@
             "id": 305,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 25,
-            "path": "Community activities: Festivals, celebrations, and holidays: Obon",
+            "path": "Community activities -- Festivals, celebrations, and holidays -- Obon",
             "siblings": [
                 300,
                 301,
@@ -4317,7 +4317,7 @@
             "id": 306,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 25,
-            "path": "Community activities: Festivals, celebrations, and holidays: Portland Rose Festival",
+            "path": "Community activities -- Festivals, celebrations, and holidays -- Portland Rose Festival",
             "siblings": [
                 300,
                 301,
@@ -4344,7 +4344,7 @@
             "id": 307,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 25,
-            "path": "Community activities: Festivals, celebrations, and holidays: Tanabata",
+            "path": "Community activities -- Festivals, celebrations, and holidays -- Tanabata",
             "siblings": [
                 300,
                 301,
@@ -4370,7 +4370,7 @@
             "id": 308,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 15,
-            "path": "Community activities: Funerals",
+            "path": "Community activities -- Funerals",
             "siblings": [
                 16,
                 24,
@@ -4397,7 +4397,7 @@
             "id": 27,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 15,
-            "path": "Community activities: Nihonmachi (\"Japantowns\")",
+            "path": "Community activities -- Nihonmachi (\"Japantowns\")",
             "siblings": [
                 16,
                 24,
@@ -4429,7 +4429,7 @@
             "id": 179,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 15,
-            "path": "Community activities: Recreational activities",
+            "path": "Community activities -- Recreational activities",
             "siblings": [
                 16,
                 24,
@@ -4457,7 +4457,7 @@
             "id": 309,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 179,
-            "path": "Community activities: Recreational activities: Go",
+            "path": "Community activities -- Recreational activities -- Go",
             "siblings": [
                 310,
                 311,
@@ -4479,7 +4479,7 @@
             "id": 310,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 179,
-            "path": "Community activities: Recreational activities: Mushroom picking",
+            "path": "Community activities -- Recreational activities -- Mushroom picking",
             "siblings": [
                 309,
                 311,
@@ -4501,7 +4501,7 @@
             "id": 311,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 179,
-            "path": "Community activities: Recreational activities: Picnics",
+            "path": "Community activities -- Recreational activities -- Picnics",
             "siblings": [
                 309,
                 310,
@@ -4525,7 +4525,7 @@
             "id": 478,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 179,
-            "path": "Community activities: Recreational activities: Shogi",
+            "path": "Community activities -- Recreational activities -- Shogi",
             "siblings": [
                 309,
                 310,
@@ -4573,7 +4573,7 @@
             "id": 24,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 15,
-            "path": "Community activities: Sports",
+            "path": "Community activities -- Sports",
             "siblings": [
                 16,
                 25,
@@ -4601,7 +4601,7 @@
             "id": 312,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Aikido",
+            "path": "Community activities -- Sports -- Aikido",
             "siblings": [
                 313,
                 314,
@@ -4642,7 +4642,7 @@
             "id": 313,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Badminton",
+            "path": "Community activities -- Sports -- Badminton",
             "siblings": [
                 312,
                 314,
@@ -4683,7 +4683,7 @@
             "id": 314,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Baseball",
+            "path": "Community activities -- Sports -- Baseball",
             "siblings": [
                 312,
                 313,
@@ -4724,7 +4724,7 @@
             "id": 315,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Basketball",
+            "path": "Community activities -- Sports -- Basketball",
             "siblings": [
                 312,
                 313,
@@ -4765,7 +4765,7 @@
             "id": 316,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Bowling",
+            "path": "Community activities -- Sports -- Bowling",
             "siblings": [
                 312,
                 313,
@@ -4806,7 +4806,7 @@
             "id": 317,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Boxing",
+            "path": "Community activities -- Sports -- Boxing",
             "siblings": [
                 312,
                 313,
@@ -4847,7 +4847,7 @@
             "id": 318,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Cycling",
+            "path": "Community activities -- Sports -- Cycling",
             "siblings": [
                 312,
                 313,
@@ -4890,7 +4890,7 @@
             "id": 319,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Fishing",
+            "path": "Community activities -- Sports -- Fishing",
             "siblings": [
                 312,
                 313,
@@ -4931,7 +4931,7 @@
             "id": 320,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Football",
+            "path": "Community activities -- Sports -- Football",
             "siblings": [
                 312,
                 313,
@@ -4972,7 +4972,7 @@
             "id": 321,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Golf",
+            "path": "Community activities -- Sports -- Golf",
             "siblings": [
                 312,
                 313,
@@ -5013,7 +5013,7 @@
             "id": 322,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Hanetsuki",
+            "path": "Community activities -- Sports -- Hanetsuki",
             "siblings": [
                 312,
                 313,
@@ -5054,7 +5054,7 @@
             "id": 323,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Judo",
+            "path": "Community activities -- Sports -- Judo",
             "siblings": [
                 312,
                 313,
@@ -5095,7 +5095,7 @@
             "id": 434,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Karate",
+            "path": "Community activities -- Sports -- Karate",
             "siblings": [
                 312,
                 313,
@@ -5136,7 +5136,7 @@
             "id": 324,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Kendo",
+            "path": "Community activities -- Sports -- Kendo",
             "siblings": [
                 312,
                 313,
@@ -5177,7 +5177,7 @@
             "id": 542,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Skiing",
+            "path": "Community activities -- Sports -- Skiing",
             "siblings": [
                 312,
                 313,
@@ -5218,7 +5218,7 @@
             "id": 325,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Soccer",
+            "path": "Community activities -- Sports -- Soccer",
             "siblings": [
                 312,
                 313,
@@ -5259,7 +5259,7 @@
             "id": 326,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Softball",
+            "path": "Community activities -- Sports -- Softball",
             "siblings": [
                 312,
                 313,
@@ -5302,7 +5302,7 @@
             "id": 327,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Sumo",
+            "path": "Community activities -- Sports -- Sumo",
             "siblings": [
                 312,
                 313,
@@ -5343,7 +5343,7 @@
             "id": 328,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Swimming",
+            "path": "Community activities -- Sports -- Swimming",
             "siblings": [
                 312,
                 313,
@@ -5384,7 +5384,7 @@
             "id": 329,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Tennis",
+            "path": "Community activities -- Sports -- Tennis",
             "siblings": [
                 312,
                 313,
@@ -5425,7 +5425,7 @@
             "id": 453,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Volleyball",
+            "path": "Community activities -- Sports -- Volleyball",
             "siblings": [
                 312,
                 313,
@@ -5466,7 +5466,7 @@
             "id": 330,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Weight lifting",
+            "path": "Community activities -- Sports -- Weight lifting",
             "siblings": [
                 312,
                 313,
@@ -5507,7 +5507,7 @@
             "id": 331,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 24,
-            "path": "Community activities: Sports: Wrestling",
+            "path": "Community activities -- Sports -- Wrestling",
             "siblings": [
                 312,
                 313,
@@ -5547,7 +5547,7 @@
             "id": 332,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 15,
-            "path": "Community activities: Travel",
+            "path": "Community activities -- Travel",
             "siblings": [
                 16,
                 24,
@@ -5574,7 +5574,7 @@
             "id": 28,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 15,
-            "path": "Community activities: Weddings",
+            "path": "Community activities -- Weddings",
             "siblings": [
                 16,
                 24,
@@ -5627,7 +5627,7 @@
             "id": 35,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 31,
-            "path": "Education: Church-run schools",
+            "path": "Education -- Church-run schools",
             "siblings": [
                 32,
                 33,
@@ -5662,7 +5662,7 @@
             "id": 34,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 31,
-            "path": "Education: Higher education",
+            "path": "Education -- Higher education",
             "siblings": [
                 32,
                 33,
@@ -5690,7 +5690,7 @@
             "id": 33,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 31,
-            "path": "Education: Japanese language schools",
+            "path": "Education -- Japanese language schools",
             "siblings": [
                 32,
                 34,
@@ -5717,7 +5717,7 @@
             "id": 333,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 31,
-            "path": "Education: Primary education",
+            "path": "Education -- Primary education",
             "siblings": [
                 32,
                 33,
@@ -5742,7 +5742,7 @@
             "id": 334,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 31,
-            "path": "Education: Private schools",
+            "path": "Education -- Private schools",
             "siblings": [
                 32,
                 33,
@@ -5770,7 +5770,7 @@
             "id": 32,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 31,
-            "path": "Education: Public schools",
+            "path": "Education -- Public schools",
             "siblings": [
                 33,
                 34,
@@ -5799,7 +5799,7 @@
             "id": 335,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 31,
-            "path": "Education: Secondary education",
+            "path": "Education -- Secondary education",
             "siblings": [
                 32,
                 33,
@@ -5824,7 +5824,7 @@
             "id": 454,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 31,
-            "path": "Education: Ethnic studies",
+            "path": "Education -- Ethnic studies",
             "siblings": [
                 32,
                 33,
@@ -5891,7 +5891,7 @@
             "id": 509,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Children",
+            "path": "Identity and values -- Children",
             "siblings": [
                 43,
                 44,
@@ -5931,7 +5931,7 @@
             "id": 455,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 42,
-            "path": "Identity and values: Chinese American identity",
+            "path": "Identity and values -- Chinese American identity",
             "siblings": [
                 43,
                 44,
@@ -5971,7 +5971,7 @@
             "id": 510,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Elders",
+            "path": "Identity and values -- Elders",
             "siblings": [
                 43,
                 44,
@@ -6013,7 +6013,7 @@
             "id": 46,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Family",
+            "path": "Identity and values -- Family",
             "siblings": [
                 43,
                 44,
@@ -6053,7 +6053,7 @@
             "id": 456,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 42,
-            "path": "Identity and values: Filipino American identity",
+            "path": "Identity and values -- Filipino American identity",
             "siblings": [
                 43,
                 44,
@@ -6093,7 +6093,7 @@
             "id": 457,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 42,
-            "path": "Identity and values: Gender",
+            "path": "Identity and values -- Gender",
             "siblings": [
                 43,
                 44,
@@ -6133,7 +6133,7 @@
             "id": 336,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Gosei",
+            "path": "Identity and values -- Gosei",
             "siblings": [
                 43,
                 44,
@@ -6175,7 +6175,7 @@
             "id": 43,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Issei",
+            "path": "Identity and values -- Issei",
             "siblings": [
                 44,
                 45,
@@ -6220,7 +6220,7 @@
             "id": 47,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Japanese American identity",
+            "path": "Identity and values -- Japanese American identity",
             "siblings": [
                 43,
                 44,
@@ -6262,7 +6262,7 @@
             "id": 45,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Kibei",
+            "path": "Identity and values -- Kibei",
             "siblings": [
                 43,
                 44,
@@ -6302,7 +6302,7 @@
             "id": 458,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 42,
-            "path": "Identity and values: Korean American identity",
+            "path": "Identity and values -- Korean American identity",
             "siblings": [
                 43,
                 44,
@@ -6342,7 +6342,7 @@
             "id": 459,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 42,
-            "path": "Identity and values: Latin American identity",
+            "path": "Identity and values -- Latin American identity",
             "siblings": [
                 43,
                 44,
@@ -6382,7 +6382,7 @@
             "id": 511,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Men",
+            "path": "Identity and values -- Men",
             "siblings": [
                 43,
                 44,
@@ -6422,7 +6422,7 @@
             "id": 337,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Multiracial",
+            "path": "Identity and values -- Multiracial",
             "siblings": [
                 43,
                 44,
@@ -6462,7 +6462,7 @@
             "id": 460,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 42,
-            "path": "Identity and values: Native American identity",
+            "path": "Identity and values -- Native American identity",
             "siblings": [
                 43,
                 44,
@@ -6504,7 +6504,7 @@
             "id": 44,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Nisei",
+            "path": "Identity and values -- Nisei",
             "siblings": [
                 43,
                 45,
@@ -6544,7 +6544,7 @@
             "id": 512,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Orphans",
+            "path": "Identity and values -- Orphans",
             "siblings": [
                 43,
                 44,
@@ -6584,7 +6584,7 @@
             "id": 513,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Parents",
+            "path": "Identity and values -- Parents",
             "siblings": [
                 43,
                 44,
@@ -6626,7 +6626,7 @@
             "id": 338,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Sansei",
+            "path": "Identity and values -- Sansei",
             "siblings": [
                 43,
                 44,
@@ -6666,7 +6666,7 @@
             "id": 461,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 42,
-            "path": "Identity and values: Vietnamese American identity",
+            "path": "Identity and values -- Vietnamese American identity",
             "siblings": [
                 43,
                 44,
@@ -6708,7 +6708,7 @@
             "id": 339,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Yonsei",
+            "path": "Identity and values -- Yonsei",
             "siblings": [
                 43,
                 44,
@@ -6748,7 +6748,7 @@
             "id": 514,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Youth",
+            "path": "Identity and values -- Youth",
             "siblings": [
                 43,
                 44,
@@ -6788,7 +6788,7 @@
             "id": 515,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 42,
-            "path": "Identity and values: Women",
+            "path": "Identity and values -- Women",
             "siblings": [
                 43,
                 44,
@@ -6861,7 +6861,7 @@
             "id": 178,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 1,
-            "path": "Immigration and citizenship: Anti-immigration sentiment",
+            "path": "Immigration and citizenship -- Anti-immigration sentiment",
             "siblings": [
                 2,
                 3,
@@ -6889,7 +6889,7 @@
             "id": 4,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 1,
-            "path": "Immigration and citizenship: Arrival",
+            "path": "Immigration and citizenship -- Arrival",
             "siblings": [
                 2,
                 3,
@@ -6914,7 +6914,7 @@
             "id": 436,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 4,
-            "path": "Immigration and citizenship: Arrival: Gannen Mono",
+            "path": "Immigration and citizenship -- Arrival -- Gannen Mono",
             "siblings": [],
             "title": "Gannen Mono",
             "weight": 0
@@ -6937,7 +6937,7 @@
             "id": 340,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 1,
-            "path": "Immigration and citizenship: Law and legislation",
+            "path": "Immigration and citizenship -- Law and legislation",
             "siblings": [
                 2,
                 3,
@@ -6964,7 +6964,7 @@
             "id": 516,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 340,
-            "path": "Immigration and citizenship: Law and legislation: Alien land laws",
+            "path": "Immigration and citizenship -- Law and legislation -- Alien land laws",
             "siblings": [
                 177,
                 341
@@ -6994,7 +6994,7 @@
             "id": 177,
             "modified": "2017-10-02T09:42:36-0700",
             "parent_id": 340,
-            "path": "Immigration and citizenship: Law and legislation: Discriminatory laws",
+            "path": "Immigration and citizenship -- Law and legislation -- Discriminatory laws",
             "siblings": [
                 341,
                 516
@@ -7017,7 +7017,7 @@
             "id": 341,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 340,
-            "path": "Immigration and citizenship: Law and legislation: Legal cases",
+            "path": "Immigration and citizenship -- Law and legislation -- Legal cases",
             "siblings": [
                 177,
                 516
@@ -7039,7 +7039,7 @@
             "id": 2,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 1,
-            "path": "Immigration and citizenship: Life in Japan and reasons for leaving",
+            "path": "Immigration and citizenship -- Life in Japan and reasons for leaving",
             "siblings": [
                 3,
                 4,
@@ -7069,7 +7069,7 @@
             "id": 176,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 1,
-            "path": "Immigration and citizenship: Naturalization",
+            "path": "Immigration and citizenship -- Naturalization",
             "siblings": [
                 2,
                 3,
@@ -7095,7 +7095,7 @@
             "id": 342,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 1,
-            "path": "Immigration and citizenship: Picture brides",
+            "path": "Immigration and citizenship -- Picture brides",
             "siblings": [
                 2,
                 3,
@@ -7119,7 +7119,7 @@
             "id": 3,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 1,
-            "path": "Immigration and citizenship: The journey",
+            "path": "Immigration and citizenship -- The journey",
             "siblings": [
                 2,
                 4,
@@ -7207,7 +7207,7 @@
             "id": 6,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Agriculture",
+            "path": "Industry and employment -- Agriculture",
             "siblings": [
                 8,
                 9,
@@ -7260,7 +7260,7 @@
             "id": 343,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 6,
-            "path": "Industry and employment: Agriculture: Chick sexing",
+            "path": "Industry and employment -- Agriculture -- Chick sexing",
             "siblings": [
                 7,
                 344,
@@ -7288,7 +7288,7 @@
             "id": 344,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 6,
-            "path": "Industry and employment: Agriculture: Dairy farming",
+            "path": "Industry and employment -- Agriculture -- Dairy farming",
             "siblings": [
                 7,
                 343,
@@ -7316,7 +7316,7 @@
             "id": 7,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 6,
-            "path": "Industry and employment: Agriculture: Farmers' markets and stands",
+            "path": "Industry and employment -- Agriculture -- Farmers' markets and stands",
             "siblings": [
                 343,
                 344,
@@ -7347,7 +7347,7 @@
             "id": 345,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 6,
-            "path": "Industry and employment: Agriculture: Farming",
+            "path": "Industry and employment -- Agriculture -- Farming",
             "siblings": [
                 7,
                 343,
@@ -7375,7 +7375,7 @@
             "id": 346,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 6,
-            "path": "Industry and employment: Agriculture: Flower growers",
+            "path": "Industry and employment -- Agriculture -- Flower growers",
             "siblings": [
                 7,
                 343,
@@ -7403,7 +7403,7 @@
             "id": 446,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 6,
-            "path": "Industry and employment: Agriculture: Greenhouses",
+            "path": "Industry and employment -- Agriculture -- Greenhouses",
             "siblings": [
                 7,
                 343,
@@ -7431,7 +7431,7 @@
             "id": 347,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 6,
-            "path": "Industry and employment: Agriculture: Migrant labor",
+            "path": "Industry and employment -- Agriculture -- Migrant labor",
             "siblings": [
                 7,
                 343,
@@ -7462,7 +7462,7 @@
             "id": 348,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 6,
-            "path": "Industry and employment: Agriculture: Plantations",
+            "path": "Industry and employment -- Agriculture -- Plantations",
             "siblings": [
                 7,
                 343,
@@ -7492,7 +7492,7 @@
             "id": 349,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 6,
-            "path": "Industry and employment: Agriculture: Strawberries",
+            "path": "Industry and employment -- Agriculture -- Strawberries",
             "siblings": [
                 7,
                 343,
@@ -7520,7 +7520,7 @@
             "id": 517,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 6,
-            "path": "Industry and employment: Agriculture: Tenancy",
+            "path": "Industry and employment -- Agriculture -- Tenancy",
             "siblings": [
                 7,
                 343,
@@ -7547,7 +7547,7 @@
             "id": 350,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Arts",
+            "path": "Industry and employment -- Arts",
             "siblings": [
                 6,
                 8,
@@ -7599,7 +7599,7 @@
             "id": 438,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Aviation",
+            "path": "Industry and employment -- Aviation",
             "siblings": [
                 6,
                 8,
@@ -7651,7 +7651,7 @@
             "id": 351,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Banking",
+            "path": "Industry and employment -- Banking",
             "siblings": [
                 6,
                 8,
@@ -7703,7 +7703,7 @@
             "id": 352,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Barbering and hairdressing",
+            "path": "Industry and employment -- Barbering and hairdressing",
             "siblings": [
                 6,
                 8,
@@ -7755,7 +7755,7 @@
             "id": 353,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Bath houses",
+            "path": "Industry and employment -- Bath houses",
             "siblings": [
                 6,
                 8,
@@ -7807,7 +7807,7 @@
             "id": 437,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Brewing",
+            "path": "Industry and employment -- Brewing",
             "siblings": [
                 6,
                 8,
@@ -7861,7 +7861,7 @@
             "id": 354,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Carpentry",
+            "path": "Industry and employment -- Carpentry",
             "siblings": [
                 6,
                 8,
@@ -7915,7 +7915,7 @@
             "id": 355,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Dentistry",
+            "path": "Industry and employment -- Dentistry",
             "siblings": [
                 6,
                 8,
@@ -7967,7 +7967,7 @@
             "id": 14,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Domestic service",
+            "path": "Industry and employment -- Domestic service",
             "siblings": [
                 6,
                 8,
@@ -8022,7 +8022,7 @@
             "id": 356,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Educators",
+            "path": "Industry and employment -- Educators",
             "siblings": [
                 6,
                 8,
@@ -8074,7 +8074,7 @@
             "id": 357,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Firefighting",
+            "path": "Industry and employment -- Firefighting",
             "siblings": [
                 6,
                 8,
@@ -8128,7 +8128,7 @@
             "id": 10,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Fishing and canneries",
+            "path": "Industry and employment -- Fishing and canneries",
             "siblings": [
                 6,
                 8,
@@ -8182,7 +8182,7 @@
             "id": 444,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Gardening",
+            "path": "Industry and employment -- Gardening",
             "siblings": [
                 6,
                 8,
@@ -8234,7 +8234,7 @@
             "id": 12,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Hotel industry",
+            "path": "Industry and employment -- Hotel industry",
             "siblings": [
                 6,
                 8,
@@ -8286,7 +8286,7 @@
             "id": 518,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Housekeeping",
+            "path": "Industry and employment -- Housekeeping",
             "siblings": [
                 6,
                 8,
@@ -8340,7 +8340,7 @@
             "id": 358,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Importing",
+            "path": "Industry and employment -- Importing",
             "siblings": [
                 6,
                 8,
@@ -8392,7 +8392,7 @@
             "id": 359,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Insurance",
+            "path": "Industry and employment -- Insurance",
             "siblings": [
                 6,
                 8,
@@ -8458,7 +8458,7 @@
             "id": 360,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Journalism",
+            "path": "Industry and employment -- Journalism",
             "siblings": [
                 6,
                 8,
@@ -8510,7 +8510,7 @@
             "id": 361,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Labor brokering",
+            "path": "Industry and employment -- Labor brokering",
             "siblings": [
                 6,
                 8,
@@ -8571,7 +8571,7 @@
             "id": 362,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Law",
+            "path": "Industry and employment -- Law",
             "siblings": [
                 6,
                 8,
@@ -8623,7 +8623,7 @@
             "id": 363,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Law enforcement",
+            "path": "Industry and employment -- Law enforcement",
             "siblings": [
                 6,
                 8,
@@ -8679,7 +8679,7 @@
             "id": 364,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Medicine",
+            "path": "Industry and employment -- Medicine",
             "siblings": [
                 6,
                 8,
@@ -8731,7 +8731,7 @@
             "id": 464,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Midwifery",
+            "path": "Industry and employment -- Midwifery",
             "siblings": [
                 6,
                 8,
@@ -8783,7 +8783,7 @@
             "id": 365,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Mining",
+            "path": "Industry and employment -- Mining",
             "siblings": [
                 6,
                 8,
@@ -8835,7 +8835,7 @@
             "id": 519,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Oil drilling",
+            "path": "Industry and employment -- Oil drilling",
             "siblings": [
                 6,
                 8,
@@ -8890,7 +8890,7 @@
             "id": 160,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Organized labor",
+            "path": "Industry and employment -- Organized labor",
             "siblings": [
                 6,
                 8,
@@ -8946,7 +8946,7 @@
             "id": 366,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Photography",
+            "path": "Industry and employment -- Photography",
             "siblings": [
                 6,
                 8,
@@ -8998,7 +8998,7 @@
             "id": 11,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Railroads",
+            "path": "Industry and employment -- Railroads",
             "siblings": [
                 6,
                 8,
@@ -9050,7 +9050,7 @@
             "id": 367,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Real estate",
+            "path": "Industry and employment -- Real estate",
             "siblings": [
                 6,
                 8,
@@ -9102,7 +9102,7 @@
             "id": 368,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Retail",
+            "path": "Industry and employment -- Retail",
             "siblings": [
                 6,
                 8,
@@ -9154,7 +9154,7 @@
             "id": 472,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Shellfishing",
+            "path": "Industry and employment -- Shellfishing",
             "siblings": [
                 6,
                 8,
@@ -9215,7 +9215,7 @@
             "id": 8,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Small business",
+            "path": "Industry and employment -- Small business",
             "siblings": [
                 6,
                 9,
@@ -9268,7 +9268,7 @@
             "id": 369,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 8,
-            "path": "Industry and employment: Small business: Bakeries",
+            "path": "Industry and employment -- Small business -- Bakeries",
             "siblings": [
                 370,
                 371,
@@ -9294,7 +9294,7 @@
             "id": 439,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 8,
-            "path": "Industry and employment: Small business: Florists",
+            "path": "Industry and employment -- Small business -- Florists",
             "siblings": [
                 369,
                 370,
@@ -9320,7 +9320,7 @@
             "id": 370,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 8,
-            "path": "Industry and employment: Small business: General stores",
+            "path": "Industry and employment -- Small business -- General stores",
             "siblings": [
                 369,
                 371,
@@ -9346,7 +9346,7 @@
             "id": 371,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 8,
-            "path": "Industry and employment: Small business: Grocery stores",
+            "path": "Industry and employment -- Small business -- Grocery stores",
             "siblings": [
                 369,
                 370,
@@ -9372,7 +9372,7 @@
             "id": 372,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 8,
-            "path": "Industry and employment: Small business: Hardware stores",
+            "path": "Industry and employment -- Small business -- Hardware stores",
             "siblings": [
                 369,
                 370,
@@ -9398,7 +9398,7 @@
             "id": 373,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 8,
-            "path": "Industry and employment: Small business: Laundromats",
+            "path": "Industry and employment -- Small business -- Laundromats",
             "siblings": [
                 369,
                 370,
@@ -9424,7 +9424,7 @@
             "id": 374,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 8,
-            "path": "Industry and employment: Small business: Restaurants",
+            "path": "Industry and employment -- Small business -- Restaurants",
             "siblings": [
                 369,
                 370,
@@ -9450,7 +9450,7 @@
             "id": 440,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 8,
-            "path": "Industry and employment: Small business: Service stations and garages",
+            "path": "Industry and employment -- Small business -- Service stations and garages",
             "siblings": [
                 369,
                 370,
@@ -9475,7 +9475,7 @@
             "id": 520,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Surveying",
+            "path": "Industry and employment -- Surveying",
             "siblings": [
                 6,
                 8,
@@ -9527,7 +9527,7 @@
             "id": 9,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 5,
-            "path": "Industry and employment: Timber",
+            "path": "Industry and employment -- Timber",
             "siblings": [
                 6,
                 8,
@@ -9607,7 +9607,7 @@
             "id": 164,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 108,
-            "path": "Japan: During World War II",
+            "path": "Japan -- During World War II",
             "siblings": [
                 163,
                 165,
@@ -9634,7 +9634,7 @@
             "id": 375,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 108,
-            "path": "Japan: Education",
+            "path": "Japan -- Education",
             "siblings": [
                 163,
                 164,
@@ -9663,7 +9663,7 @@
             "id": 376,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 108,
-            "path": "Japan: Government and politics",
+            "path": "Japan -- Government and politics",
             "siblings": [
                 163,
                 164,
@@ -9690,7 +9690,7 @@
             "id": 441,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 108,
-            "path": "Japan: Imperial family",
+            "path": "Japan -- Imperial family",
             "siblings": [
                 163,
                 164,
@@ -9717,7 +9717,7 @@
             "id": 377,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 108,
-            "path": "Japan: Imperialist expansion",
+            "path": "Japan -- Imperialist expansion",
             "siblings": [
                 163,
                 164,
@@ -9744,7 +9744,7 @@
             "id": 378,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 108,
-            "path": "Japan: Military",
+            "path": "Japan -- Military",
             "siblings": [
                 163,
                 164,
@@ -9771,7 +9771,7 @@
             "id": 379,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 108,
-            "path": "Japan: Okinawa",
+            "path": "Japan -- Okinawa",
             "siblings": [
                 163,
                 164,
@@ -9801,7 +9801,7 @@
             "id": 163,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 108,
-            "path": "Japan: Pre-World War II",
+            "path": "Japan -- Pre-World War II",
             "siblings": [
                 164,
                 165,
@@ -9828,7 +9828,7 @@
             "id": 165,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 108,
-            "path": "Japan: Post-World War II",
+            "path": "Japan -- Post-World War II",
             "siblings": [
                 163,
                 164,
@@ -9858,7 +9858,7 @@
             "id": 380,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 108,
-            "path": "Japan: United States civilians",
+            "path": "Japan -- United States civilians",
             "siblings": [
                 163,
                 164,
@@ -9909,7 +9909,7 @@
             "id": 381,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 200,
-            "path": "Japanese Canadians: Incarceration during World War II",
+            "path": "Japanese Canadians -- Incarceration during World War II",
             "siblings": [
                 382,
                 383
@@ -9931,7 +9931,7 @@
             "id": 382,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 200,
-            "path": "Japanese Canadians: Life in Canada",
+            "path": "Japanese Canadians -- Life in Canada",
             "siblings": [
                 381,
                 383
@@ -9953,7 +9953,7 @@
             "id": 383,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 200,
-            "path": "Japanese Canadians: Redress and reparations",
+            "path": "Japanese Canadians -- Redress and reparations",
             "siblings": [
                 381,
                 382
@@ -9999,7 +9999,7 @@
             "id": 384,
             "modified": "2017-10-02T09:43:15-0700",
             "parent_id": 166,
-            "path": "Japanese Latin Americans: Deportation and internment during World War II",
+            "path": "Japanese Latin Americans -- Deportation and internment during World War II",
             "siblings": [
                 168,
                 385,
@@ -10023,7 +10023,7 @@
             "id": 168,
             "modified": "2017-10-02T09:43:22-0700",
             "parent_id": 166,
-            "path": "Japanese Latin Americans: Redress and reparations",
+            "path": "Japanese Latin Americans -- Redress and reparations",
             "siblings": [
                 384,
                 385,
@@ -10046,7 +10046,7 @@
             "id": 385,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 166,
-            "path": "Japanese Latin Americans: Repatriation to Japan",
+            "path": "Japanese Latin Americans -- Repatriation to Japan",
             "siblings": [
                 168,
                 384,
@@ -10069,7 +10069,7 @@
             "id": 386,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 166,
-            "path": "Japanese Latin Americans: Return to Latin America after World War II",
+            "path": "Japanese Latin Americans -- Return to Latin America after World War II",
             "siblings": [
                 168,
                 384,
@@ -10111,7 +10111,7 @@
             "id": 388,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 387,
-            "path": "Journalism and media: Advertising and marketing",
+            "path": "Journalism and media -- Advertising and marketing",
             "siblings": [
                 26,
                 391
@@ -10151,7 +10151,7 @@
             "id": 26,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 387,
-            "path": "Journalism and media: Community publications",
+            "path": "Journalism and media -- Community publications",
             "siblings": [
                 388,
                 391
@@ -10172,7 +10172,7 @@
             "id": 465,
             "modified": "2015-12-01T12:00:00-0800",
             "parent_id": 26,
-            "path": "Journalism and media: Community publications: Gidra",
+            "path": "Journalism and media -- Community publications -- Gidra",
             "siblings": [
                 389,
                 390,
@@ -10197,7 +10197,7 @@
             "id": 521,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 26,
-            "path": "Journalism and media: Community publications: Kashu Mainichi",
+            "path": "Journalism and media -- Community publications -- Kashu Mainichi",
             "siblings": [
                 389,
                 390,
@@ -10222,7 +10222,7 @@
             "id": 522,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 26,
-            "path": "Journalism and media: Community publications: Nichi Bei",
+            "path": "Journalism and media -- Community publications -- Nichi Bei",
             "siblings": [
                 389,
                 390,
@@ -10247,7 +10247,7 @@
             "id": 523,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 26,
-            "path": "Journalism and media: Community publications: The Northwest Times",
+            "path": "Journalism and media -- Community publications -- The Northwest Times",
             "siblings": [
                 389,
                 390,
@@ -10277,7 +10277,7 @@
             "id": 389,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 26,
-            "path": "Journalism and media: Community publications: Pacific Citizen",
+            "path": "Journalism and media -- Community publications -- Pacific Citizen",
             "siblings": [
                 390,
                 465,
@@ -10304,7 +10304,7 @@
             "id": 524,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 26,
-            "path": "Journalism and media: Community publications: Rafu Shimpo",
+            "path": "Journalism and media -- Community publications -- Rafu Shimpo",
             "siblings": [
                 389,
                 390,
@@ -10331,7 +10331,7 @@
             "id": 390,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 26,
-            "path": "Journalism and media: Community publications: Rocky Shimpo",
+            "path": "Journalism and media -- Community publications -- Rocky Shimpo",
             "siblings": [
                 389,
                 465,
@@ -10355,7 +10355,7 @@
             "id": 391,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 387,
-            "path": "Journalism and media: Mass media",
+            "path": "Journalism and media -- Mass media",
             "siblings": [
                 26,
                 388
@@ -10413,7 +10413,7 @@
             "id": 185,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 36,
-            "path": "Race and racism: \"Yellow Peril\"",
+            "path": "Race and racism -- \"Yellow Peril\"",
             "siblings": [
                 37,
                 38,
@@ -10450,7 +10450,7 @@
             "id": 38,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 36,
-            "path": "Race and racism: Cross-racial relations",
+            "path": "Race and racism -- Cross-racial relations",
             "siblings": [
                 37,
                 161,
@@ -10480,7 +10480,7 @@
             "id": 37,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 36,
-            "path": "Race and racism: Discrimination",
+            "path": "Race and racism -- Discrimination",
             "siblings": [
                 38,
                 161,
@@ -10505,7 +10505,7 @@
             "id": 161,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 36,
-            "path": "Race and racism: Stereotypes",
+            "path": "Race and racism -- Stereotypes",
             "siblings": [
                 37,
                 38,
@@ -10530,7 +10530,7 @@
             "id": 186,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 36,
-            "path": "Race and racism: Violence",
+            "path": "Race and racism -- Violence",
             "siblings": [
                 37,
                 38,
@@ -10598,7 +10598,7 @@
             "id": 525,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 110,
-            "path": "Redress and reparations: Civil Liberties Act of 1988",
+            "path": "Redress and reparations -- Civil Liberties Act of 1988",
             "siblings": [
                 111,
                 116,
@@ -10628,7 +10628,7 @@
             "id": 392,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 110,
-            "path": "Redress and reparations: Commission on Wartime Relocation and Internment of Civilians (CWRIC)",
+            "path": "Redress and reparations -- Commission on Wartime Relocation and Internment of Civilians (CWRIC)",
             "siblings": [
                 111,
                 116,
@@ -10652,7 +10652,7 @@
             "id": 113,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 392,
-            "path": "Redress and reparations: Commission on Wartime Relocation and Internment of Civilians (CWRIC): Formation and work",
+            "path": "Redress and reparations -- Commission on Wartime Relocation and Internment of Civilians (CWRIC) -- Formation and work",
             "siblings": [
                 114,
                 115
@@ -10676,7 +10676,7 @@
             "id": 114,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 392,
-            "path": "Redress and reparations: Commission on Wartime Relocation and Internment of Civilians (CWRIC): Hearings",
+            "path": "Redress and reparations -- Commission on Wartime Relocation and Internment of Civilians (CWRIC) -- Hearings",
             "siblings": [
                 113,
                 115
@@ -10698,7 +10698,7 @@
             "id": 217,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 114,
-            "path": "Redress and reparations: Commission on Wartime Relocation and Internment of Civilians (CWRIC): Hearings: Seattle, Washington hearings",
+            "path": "Redress and reparations -- Commission on Wartime Relocation and Internment of Civilians (CWRIC) -- Hearings -- Seattle, Washington hearings",
             "siblings": [
                 218
             ],
@@ -10719,7 +10719,7 @@
             "id": 218,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 114,
-            "path": "Redress and reparations: Commission on Wartime Relocation and Internment of Civilians (CWRIC): Hearings: Washington, D.C. hearings",
+            "path": "Redress and reparations -- Commission on Wartime Relocation and Internment of Civilians (CWRIC) -- Hearings -- Washington, D.C. hearings",
             "siblings": [
                 217
             ],
@@ -10742,7 +10742,7 @@
             "id": 115,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 392,
-            "path": "Redress and reparations: Commission on Wartime Relocation and Internment of Civilians (CWRIC): Lobbying and implementation of findings and recommendations",
+            "path": "Redress and reparations -- Commission on Wartime Relocation and Internment of Civilians (CWRIC) -- Lobbying and implementation of findings and recommendations",
             "siblings": [
                 113,
                 114
@@ -10764,7 +10764,7 @@
             "id": 219,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 115,
-            "path": "Redress and reparations: Commission on Wartime Relocation and Internment of Civilians (CWRIC): Lobbying and implementation of findings and recommendations: H.R. 4110",
+            "path": "Redress and reparations -- Commission on Wartime Relocation and Internment of Civilians (CWRIC) -- Lobbying and implementation of findings and recommendations -- H.R. 4110",
             "siblings": [
                 220
             ],
@@ -10785,7 +10785,7 @@
             "id": 220,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 115,
-            "path": "Redress and reparations: Commission on Wartime Relocation and Internment of Civilians (CWRIC): Lobbying and implementation of findings and recommendations: S. 2116",
+            "path": "Redress and reparations -- Commission on Wartime Relocation and Internment of Civilians (CWRIC) -- Lobbying and implementation of findings and recommendations -- S. 2116",
             "siblings": [
                 219
             ],
@@ -10804,7 +10804,7 @@
             "id": 116,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 110,
-            "path": "Redress and reparations: Impact of redress movement",
+            "path": "Redress and reparations -- Impact of redress movement",
             "siblings": [
                 111,
                 117,
@@ -10833,7 +10833,7 @@
             "id": 167,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 110,
-            "path": "Redress and reparations: Legal cases/coram nobis cases",
+            "path": "Redress and reparations -- Legal cases/coram nobis cases",
             "siblings": [
                 111,
                 116,
@@ -10856,7 +10856,7 @@
             "id": 111,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 110,
-            "path": "Redress and reparations: Mobilizing and organizing the community",
+            "path": "Redress and reparations -- Mobilizing and organizing the community",
             "siblings": [
                 116,
                 117,
@@ -10879,7 +10879,7 @@
             "id": 117,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 110,
-            "path": "Redress and reparations: Receiving redress checks and apology",
+            "path": "Redress and reparations -- Receiving redress checks and apology",
             "siblings": [
                 111,
                 116,
@@ -10936,7 +10936,7 @@
             "id": 81,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 118,
-            "path": "Reflections on the past: Camp pilgrimages",
+            "path": "Reflections on the past -- Camp pilgrimages",
             "siblings": [
                 169,
                 393,
@@ -10959,7 +10959,7 @@
             "id": 393,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 118,
-            "path": "Reflections on the past: Days of remembrance",
+            "path": "Reflections on the past -- Days of remembrance",
             "siblings": [
                 81,
                 169,
@@ -10988,7 +10988,7 @@
             "id": 394,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 118,
-            "path": "Reflections on the past: Exhibitions",
+            "path": "Reflections on the past -- Exhibitions",
             "siblings": [
                 81,
                 169,
@@ -11012,7 +11012,7 @@
             "id": 169,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 118,
-            "path": "Reflections on the past: September 11, 2001 and aftermath",
+            "path": "Reflections on the past -- September 11, 2001 and aftermath",
             "siblings": [
                 81,
                 393,
@@ -11055,7 +11055,7 @@
             "id": 395,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 29,
-            "path": "Religion and churches: Buddhism",
+            "path": "Religion and churches -- Buddhism",
             "siblings": [
                 396,
                 397,
@@ -11079,7 +11079,7 @@
             "id": 396,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 29,
-            "path": "Religion and churches: Christianity",
+            "path": "Religion and churches -- Christianity",
             "siblings": [
                 395,
                 397,
@@ -11102,7 +11102,7 @@
             "id": 397,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 29,
-            "path": "Religion and churches: Religious organizations",
+            "path": "Religion and churches -- Religious organizations",
             "siblings": [
                 395,
                 396,
@@ -11123,7 +11123,7 @@
             "id": 398,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 29,
-            "path": "Religion and churches: Shintoism",
+            "path": "Religion and churches -- Shintoism",
             "siblings": [
                 395,
                 396,
@@ -11161,7 +11161,7 @@
             "id": 526,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 468,
-            "path": "Vietnam War: Combined Action Program",
+            "path": "Vietnam War -- Combined Action Program",
             "siblings": [],
             "title": "Combined Action Program",
             "weight": 0
@@ -11226,7 +11226,7 @@
             "id": 400,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Japanese American Citizens League activities",
+            "path": "World War II -- Japanese American Citizens League activities",
             "siblings": [
                 48,
                 54,
@@ -11277,7 +11277,7 @@
             "id": 401,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Administration",
+            "path": "World War II -- Administration",
             "siblings": [
                 48,
                 54,
@@ -11320,7 +11320,7 @@
             "id": 538,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 401,
-            "path": "World War II: Administration: Community Analysis Section",
+            "path": "World War II -- Administration -- Community Analysis Section",
             "siblings": [
                 85,
                 402,
@@ -11345,7 +11345,7 @@
             "id": 402,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 401,
-            "path": "World War II: Administration: Wartime Civil Control Administration (WCCA)",
+            "path": "World War II -- Administration -- Wartime Civil Control Administration (WCCA)",
             "siblings": [
                 85,
                 403,
@@ -11381,7 +11381,7 @@
             "id": 403,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 401,
-            "path": "World War II: Administration: War Relocation Authority (WRA)",
+            "path": "World War II -- Administration -- War Relocation Authority (WRA)",
             "siblings": [
                 85,
                 402,
@@ -11406,7 +11406,7 @@
             "id": 539,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 401,
-            "path": "World War II: Administration: Western Defense Command",
+            "path": "World War II -- Administration -- Western Defense Command",
             "siblings": [
                 85,
                 402,
@@ -11433,7 +11433,7 @@
             "id": 85,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 401,
-            "path": "World War II: Administration: Registration and the \"loyalty questionnaire\"",
+            "path": "World War II -- Administration -- Registration and the \"loyalty questionnaire\"",
             "siblings": [
                 402,
                 403,
@@ -11497,7 +11497,7 @@
             "id": 61,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Temporary Assembly Centers",
+            "path": "World War II -- Temporary Assembly Centers",
             "siblings": [
                 48,
                 54,
@@ -11538,7 +11538,7 @@
             "id": 171,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Arts and literature",
+            "path": "World War II -- Temporary Assembly Centers -- Arts and literature",
             "siblings": [
                 62,
                 63,
@@ -11579,7 +11579,7 @@
             "id": 404,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Conflicts, intimidation, and violence",
+            "path": "World War II -- Temporary Assembly Centers -- Conflicts, intimidation, and violence",
             "siblings": [
                 62,
                 63,
@@ -11618,7 +11618,7 @@
             "id": 529,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Construction",
+            "path": "World War II -- Temporary Assembly Centers -- Construction",
             "siblings": [
                 62,
                 63,
@@ -11657,7 +11657,7 @@
             "id": 207,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Education",
+            "path": "World War II -- Temporary Assembly Centers -- Education",
             "siblings": [
                 62,
                 63,
@@ -11696,7 +11696,7 @@
             "id": 206,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Facilities, services, and camp administration",
+            "path": "World War II -- Temporary Assembly Centers -- Facilities, services, and camp administration",
             "siblings": [
                 62,
                 63,
@@ -11735,7 +11735,7 @@
             "id": 405,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Food",
+            "path": "World War II -- Temporary Assembly Centers -- Food",
             "siblings": [
                 62,
                 63,
@@ -11774,7 +11774,7 @@
             "id": 406,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Funerals",
+            "path": "World War II -- Temporary Assembly Centers -- Funerals",
             "siblings": [
                 62,
                 63,
@@ -11813,7 +11813,7 @@
             "id": 407,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Holidays and festivals",
+            "path": "World War II -- Temporary Assembly Centers -- Holidays and festivals",
             "siblings": [
                 62,
                 63,
@@ -11855,7 +11855,7 @@
             "id": 408,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Impacts of incarceration",
+            "path": "World War II -- Temporary Assembly Centers -- Impacts of incarceration",
             "siblings": [
                 62,
                 63,
@@ -11894,7 +11894,7 @@
             "id": 62,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Living conditions",
+            "path": "World War II -- Temporary Assembly Centers -- Living conditions",
             "siblings": [
                 63,
                 171,
@@ -11933,7 +11933,7 @@
             "id": 409,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Medical care and health issues",
+            "path": "World War II -- Temporary Assembly Centers -- Medical care and health issues",
             "siblings": [
                 62,
                 63,
@@ -11972,7 +11972,7 @@
             "id": 530,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Politics and self-governance",
+            "path": "World War II -- Temporary Assembly Centers -- Politics and self-governance",
             "siblings": [
                 62,
                 63,
@@ -12028,7 +12028,7 @@
             "id": 193,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Publications",
+            "path": "World War II -- Temporary Assembly Centers -- Publications",
             "siblings": [
                 62,
                 63,
@@ -12068,7 +12068,7 @@
             "id": 222,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: Arbo-Gram",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- Arbo-Gram",
             "siblings": [
                 194,
                 215,
@@ -12101,7 +12101,7 @@
             "id": 223,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: Fresno Grapevine",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- Fresno Grapevine",
             "siblings": [
                 194,
                 215,
@@ -12134,7 +12134,7 @@
             "id": 224,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: Mercedian",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- Mercedian",
             "siblings": [
                 194,
                 215,
@@ -12167,7 +12167,7 @@
             "id": 225,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: Pinedale Logger",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- Pinedale Logger",
             "siblings": [
                 194,
                 215,
@@ -12200,7 +12200,7 @@
             "id": 226,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: Pomona Center News",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- Pomona Center News",
             "siblings": [
                 194,
                 215,
@@ -12233,7 +12233,7 @@
             "id": 227,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: Salinas Village Crier",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- Salinas Village Crier",
             "siblings": [
                 194,
                 215,
@@ -12266,7 +12266,7 @@
             "id": 228,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: Stockton El Joaquin",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- Stockton El Joaquin",
             "siblings": [
                 194,
                 215,
@@ -12299,7 +12299,7 @@
             "id": 229,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: Tulare News",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- Tulare News",
             "siblings": [
                 194,
                 215,
@@ -12332,7 +12332,7 @@
             "id": 230,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: Turlock TAC",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- Turlock TAC",
             "siblings": [
                 194,
                 215,
@@ -12365,7 +12365,7 @@
             "id": 231,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: Walerga Wasp",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- Walerga Wasp",
             "siblings": [
                 194,
                 215,
@@ -12398,7 +12398,7 @@
             "id": 232,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: Puyallup Camp Harmony News-Letter",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- Puyallup Camp Harmony News-Letter",
             "siblings": [
                 194,
                 215,
@@ -12431,7 +12431,7 @@
             "id": 194,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: North Portland Evacuazette",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- North Portland Evacuazette",
             "siblings": [
                 215,
                 216,
@@ -12466,7 +12466,7 @@
             "id": 215,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: Santa Anita Pacemaker",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- Santa Anita Pacemaker",
             "siblings": [
                 194,
                 216,
@@ -12501,7 +12501,7 @@
             "id": 216,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 193,
-            "path": "World War II: Temporary Assembly Centers: Publications: Tanforan Totalizer",
+            "path": "World War II -- Temporary Assembly Centers -- Publications -- Tanforan Totalizer",
             "siblings": [
                 194,
                 215,
@@ -12533,7 +12533,7 @@
             "id": 410,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Religion",
+            "path": "World War II -- Temporary Assembly Centers -- Religion",
             "siblings": [
                 62,
                 63,
@@ -12572,7 +12572,7 @@
             "id": 531,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Security",
+            "path": "World War II -- Temporary Assembly Centers -- Security",
             "siblings": [
                 62,
                 63,
@@ -12611,7 +12611,7 @@
             "id": 63,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Social and recreational activities",
+            "path": "World War II -- Temporary Assembly Centers -- Social and recreational activities",
             "siblings": [
                 62,
                 171,
@@ -12650,7 +12650,7 @@
             "id": 532,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Social relations",
+            "path": "World War II -- Temporary Assembly Centers -- Social relations",
             "siblings": [
                 62,
                 63,
@@ -12689,7 +12689,7 @@
             "id": 411,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Sports",
+            "path": "World War II -- Temporary Assembly Centers -- Sports",
             "siblings": [
                 62,
                 63,
@@ -12728,7 +12728,7 @@
             "id": 192,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: The journey",
+            "path": "World War II -- Temporary Assembly Centers -- The journey",
             "siblings": [
                 62,
                 63,
@@ -12767,7 +12767,7 @@
             "id": 412,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Weddings",
+            "path": "World War II -- Temporary Assembly Centers -- Weddings",
             "siblings": [
                 62,
                 63,
@@ -12806,7 +12806,7 @@
             "id": 208,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 61,
-            "path": "World War II: Temporary Assembly Centers: Work and jobs",
+            "path": "World War II -- Temporary Assembly Centers -- Work and jobs",
             "siblings": [
                 62,
                 63,
@@ -12847,7 +12847,7 @@
             "id": 109,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Atomic bombings of Hiroshima and Nagasaki",
+            "path": "World War II -- Atomic bombings of Hiroshima and Nagasaki",
             "siblings": [
                 48,
                 54,
@@ -12891,7 +12891,7 @@
             "id": 413,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Citizen isolation centers",
+            "path": "World War II -- Citizen isolation centers",
             "siblings": [
                 48,
                 54,
@@ -12966,7 +12966,7 @@
             "id": 65,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Concentration camps",
+            "path": "World War II -- Concentration camps",
             "siblings": [
                 48,
                 54,
@@ -13027,7 +13027,7 @@
             "id": 172,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Arts and literature",
+            "path": "World War II -- Concentration camps -- Arts and literature",
             "siblings": [
                 66,
                 67,
@@ -13072,7 +13072,7 @@
             "id": 162,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Conflicts, intimidation, and violence",
+            "path": "World War II -- Concentration camps -- Conflicts, intimidation, and violence",
             "siblings": [
                 66,
                 67,
@@ -13117,7 +13117,7 @@
             "id": 414,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 162,
-            "path": "World War II: Concentration camps: Conflicts, intimidation, and violence: Manzanar riot/uprising",
+            "path": "World War II -- Concentration camps -- Conflicts, intimidation, and violence -- Manzanar riot/uprising",
             "siblings": [
                 415,
                 533
@@ -13139,7 +13139,7 @@
             "id": 415,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 162,
-            "path": "World War II: Concentration camps: Conflicts, intimidation, and violence: Poston strike",
+            "path": "World War II -- Concentration camps -- Conflicts, intimidation, and violence -- Poston strike",
             "siblings": [
                 414,
                 533
@@ -13161,7 +13161,7 @@
             "id": 533,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 162,
-            "path": "World War II: Concentration camps: Conflicts, intimidation, and violence: Tule Lake strike",
+            "path": "World War II -- Concentration camps -- Conflicts, intimidation, and violence -- Tule Lake strike",
             "siblings": [
                 414,
                 415
@@ -13182,7 +13182,7 @@
             "id": 534,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Construction",
+            "path": "World War II -- Concentration camps -- Construction",
             "siblings": [
                 66,
                 67,
@@ -13223,7 +13223,7 @@
             "id": 73,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Education",
+            "path": "World War II -- Concentration camps -- Education",
             "siblings": [
                 66,
                 67,
@@ -13265,7 +13265,7 @@
             "id": 470,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 73,
-            "path": "World War II: Concentration camps: Education: Manzanar Children's Village",
+            "path": "World War II -- Concentration camps -- Education -- Manzanar Children's Village",
             "siblings": [],
             "title": "Manzanar Children's Village",
             "weight": 0
@@ -13285,7 +13285,7 @@
             "id": 69,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Facilities, services, and camp administration",
+            "path": "World War II -- Concentration camps -- Facilities, services, and camp administration",
             "siblings": [
                 66,
                 67,
@@ -13324,7 +13324,7 @@
             "id": 68,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Food",
+            "path": "World War II -- Concentration camps -- Food",
             "siblings": [
                 66,
                 67,
@@ -13363,7 +13363,7 @@
             "id": 416,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Funerals",
+            "path": "World War II -- Concentration camps -- Funerals",
             "siblings": [
                 66,
                 67,
@@ -13402,7 +13402,7 @@
             "id": 71,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Holidays and festivals",
+            "path": "World War II -- Concentration camps -- Holidays and festivals",
             "siblings": [
                 66,
                 67,
@@ -13448,7 +13448,7 @@
             "id": 78,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Impact of incarceration",
+            "path": "World War II -- Concentration camps -- Impact of incarceration",
             "siblings": [
                 66,
                 67,
@@ -13491,7 +13491,7 @@
             "id": 67,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Living conditions",
+            "path": "World War II -- Concentration camps -- Living conditions",
             "siblings": [
                 66,
                 68,
@@ -13532,7 +13532,7 @@
             "id": 70,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Medical care and health issues",
+            "path": "World War II -- Concentration camps -- Medical care and health issues",
             "siblings": [
                 66,
                 67,
@@ -13571,7 +13571,7 @@
             "id": 537,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Politics and self-governance",
+            "path": "World War II -- Concentration camps -- Politics and self-governance",
             "siblings": [
                 66,
                 67,
@@ -13625,7 +13625,7 @@
             "id": 74,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Publications",
+            "path": "World War II -- Concentration camps -- Publications",
             "siblings": [
                 66,
                 67,
@@ -13667,7 +13667,7 @@
             "id": 173,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 74,
-            "path": "World War II: Concentration camps: Publications: Minidoka Irrigator",
+            "path": "World War II -- Concentration camps -- Publications -- Minidoka Irrigator",
             "siblings": [
                 174,
                 175,
@@ -13699,7 +13699,7 @@
             "id": 174,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 74,
-            "path": "World War II: Concentration camps: Publications: Tulean Dispatch",
+            "path": "World War II -- Concentration camps -- Publications -- Tulean Dispatch",
             "siblings": [
                 173,
                 175,
@@ -13731,7 +13731,7 @@
             "id": 175,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 74,
-            "path": "World War II: Concentration camps: Publications: Heart Mountain Sentinel",
+            "path": "World War II -- Concentration camps -- Publications -- Heart Mountain Sentinel",
             "siblings": [
                 173,
                 174,
@@ -13763,7 +13763,7 @@
             "id": 204,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 74,
-            "path": "World War II: Concentration camps: Publications: Manzanar Free Press",
+            "path": "World War II -- Concentration camps -- Publications -- Manzanar Free Press",
             "siblings": [
                 173,
                 174,
@@ -13795,7 +13795,7 @@
             "id": 209,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 74,
-            "path": "World War II: Concentration camps: Publications: Denson Tribune (Jerome)",
+            "path": "World War II -- Concentration camps -- Publications -- Denson Tribune (Jerome)",
             "siblings": [
                 173,
                 174,
@@ -13827,7 +13827,7 @@
             "id": 210,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 74,
-            "path": "World War II: Concentration camps: Publications: Gila News-Courier",
+            "path": "World War II -- Concentration camps -- Publications -- Gila News-Courier",
             "siblings": [
                 173,
                 174,
@@ -13859,7 +13859,7 @@
             "id": 211,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 74,
-            "path": "World War II: Concentration camps: Publications: Granada Pioneer",
+            "path": "World War II -- Concentration camps -- Publications -- Granada Pioneer",
             "siblings": [
                 173,
                 174,
@@ -13891,7 +13891,7 @@
             "id": 212,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 74,
-            "path": "World War II: Concentration camps: Publications: Poston Chronicle",
+            "path": "World War II -- Concentration camps -- Publications -- Poston Chronicle",
             "siblings": [
                 173,
                 174,
@@ -13923,7 +13923,7 @@
             "id": 213,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 74,
-            "path": "World War II: Concentration camps: Publications: Rohwer Outpost",
+            "path": "World War II -- Concentration camps -- Publications -- Rohwer Outpost",
             "siblings": [
                 173,
                 174,
@@ -13955,7 +13955,7 @@
             "id": 214,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 74,
-            "path": "World War II: Concentration camps: Publications: Topaz Times",
+            "path": "World War II -- Concentration camps -- Publications -- Topaz Times",
             "siblings": [
                 173,
                 174,
@@ -13985,7 +13985,7 @@
             "id": 417,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 74,
-            "path": "World War II: Concentration camps: Publications: Newell Star",
+            "path": "World War II -- Concentration camps -- Publications -- Newell Star",
             "siblings": [
                 173,
                 174,
@@ -14016,7 +14016,7 @@
             "id": 75,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Religion",
+            "path": "World War II -- Concentration camps -- Religion",
             "siblings": [
                 66,
                 67,
@@ -14055,7 +14055,7 @@
             "id": 535,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Security",
+            "path": "World War II -- Concentration camps -- Security",
             "siblings": [
                 66,
                 67,
@@ -14097,7 +14097,7 @@
             "id": 195,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Social and recreational activities",
+            "path": "World War II -- Concentration camps -- Social and recreational activities",
             "siblings": [
                 66,
                 67,
@@ -14136,7 +14136,7 @@
             "id": 536,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Social relations",
+            "path": "World War II -- Concentration camps -- Social relations",
             "siblings": [
                 66,
                 67,
@@ -14178,7 +14178,7 @@
             "id": 72,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Sports",
+            "path": "World War II -- Concentration camps -- Sports",
             "siblings": [
                 66,
                 67,
@@ -14217,7 +14217,7 @@
             "id": 66,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: The journey",
+            "path": "World War II -- Concentration camps -- The journey",
             "siblings": [
                 67,
                 68,
@@ -14256,7 +14256,7 @@
             "id": 196,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Weddings",
+            "path": "World War II -- Concentration camps -- Weddings",
             "siblings": [
                 66,
                 67,
@@ -14299,7 +14299,7 @@
             "id": 76,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 65,
-            "path": "World War II: Concentration camps: Work and jobs",
+            "path": "World War II -- Concentration camps -- Work and jobs",
             "siblings": [
                 66,
                 67,
@@ -14339,7 +14339,7 @@
             "id": 197,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 76,
-            "path": "World War II: Concentration camps: Work and jobs: Organized labor",
+            "path": "World War II -- Concentration camps -- Work and jobs -- Organized labor",
             "siblings": [],
             "title": "Organized labor",
             "weight": 0
@@ -14368,7 +14368,7 @@
             "id": 82,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Department of Justice camps",
+            "path": "World War II -- Department of Justice camps",
             "siblings": [
                 48,
                 54,
@@ -14408,7 +14408,7 @@
             "id": 59,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Economic losses",
+            "path": "World War II -- Economic losses",
             "siblings": [
                 48,
                 54,
@@ -14448,7 +14448,7 @@
             "id": 527,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Family reunification",
+            "path": "World War II -- Family reunification",
             "siblings": [
                 48,
                 54,
@@ -14490,7 +14490,7 @@
             "id": 528,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Sabotage and espionage",
+            "path": "World War II -- Sabotage and espionage",
             "siblings": [
                 48,
                 54,
@@ -14533,7 +14533,7 @@
             "id": 84,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: \"Enemy alien\" classification",
+            "path": "World War II -- \"Enemy alien\" classification",
             "siblings": [
                 48,
                 54,
@@ -14582,7 +14582,7 @@
             "id": 418,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Immigration detention centers",
+            "path": "World War II -- Immigration detention centers",
             "siblings": [
                 48,
                 54,
@@ -14629,7 +14629,7 @@
             "id": 101,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Leaving camp",
+            "path": "World War II -- Leaving camp",
             "siblings": [
                 48,
                 54,
@@ -14682,7 +14682,7 @@
             "id": 104,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 101,
-            "path": "World War II: Leaving camp: \"Resettlement\"",
+            "path": "World War II -- Leaving camp -- \"Resettlement\"",
             "siblings": [
                 102,
                 103,
@@ -14709,7 +14709,7 @@
             "id": 106,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 101,
-            "path": "World War II: Leaving camp: Returning home",
+            "path": "World War II -- Leaving camp -- Returning home",
             "siblings": [
                 102,
                 103,
@@ -14736,7 +14736,7 @@
             "id": 102,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 101,
-            "path": "World War II: Leaving camp: Student leave",
+            "path": "World War II -- Leaving camp -- Student leave",
             "siblings": [
                 103,
                 104,
@@ -14763,7 +14763,7 @@
             "id": 103,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 101,
-            "path": "World War II: Leaving camp: Work leave",
+            "path": "World War II -- Leaving camp -- Work leave",
             "siblings": [
                 102,
                 104,
@@ -14789,7 +14789,7 @@
             "id": 419,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 103,
-            "path": "World War II: Leaving camp: Work leave: Temporary agricultural work leave",
+            "path": "World War II -- Leaving camp -- Work leave -- Temporary agricultural work leave",
             "siblings": [
                 420
             ],
@@ -14812,7 +14812,7 @@
             "id": 420,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 103,
-            "path": "World War II: Leaving camp: Work leave: Permanent agricultural work leave",
+            "path": "World War II -- Leaving camp -- Work leave -- Permanent agricultural work leave",
             "siblings": [
                 419
             ],
@@ -14839,7 +14839,7 @@
             "id": 57,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Mass removal (\"evacuation\")",
+            "path": "World War II -- Mass removal (\"evacuation\")",
             "siblings": [
                 48,
                 54,
@@ -14882,7 +14882,7 @@
             "id": 190,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 57,
-            "path": "World War II: Mass removal (\"evacuation\"): \"Evacuation Day\"",
+            "path": "World War II -- Mass removal (\"evacuation\") -- \"Evacuation Day\"",
             "siblings": [
                 52,
                 188,
@@ -14907,7 +14907,7 @@
             "id": 191,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 57,
-            "path": "World War II: Mass removal (\"evacuation\"): Aftermath",
+            "path": "World War II -- Mass removal (\"evacuation\") -- Aftermath",
             "siblings": [
                 52,
                 188,
@@ -14945,7 +14945,7 @@
             "id": 188,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 57,
-            "path": "World War II: Mass removal (\"evacuation\"): Exclusion orders",
+            "path": "World War II -- Mass removal (\"evacuation\") -- Exclusion orders",
             "siblings": [
                 52,
                 189,
@@ -14968,7 +14968,7 @@
             "id": 52,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 57,
-            "path": "World War II: Mass removal (\"evacuation\"): Japanese American community responses",
+            "path": "World War II -- Mass removal (\"evacuation\") -- Japanese American community responses",
             "siblings": [
                 188,
                 189,
@@ -14993,7 +14993,7 @@
             "id": 189,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 57,
-            "path": "World War II: Mass removal (\"evacuation\"): Preparation",
+            "path": "World War II -- Mass removal (\"evacuation\") -- Preparation",
             "siblings": [
                 52,
                 188,
@@ -15017,7 +15017,7 @@
             "id": 443,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: German and Italian detainees",
+            "path": "World War II -- German and Italian detainees",
             "siblings": [
                 48,
                 54,
@@ -15090,7 +15090,7 @@
             "id": 88,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Military service",
+            "path": "World War II -- Military service",
             "siblings": [
                 48,
                 54,
@@ -15134,7 +15134,7 @@
             "id": 221,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 88,
-            "path": "World War II: Military service: 1800th Engineer General Service Battalion",
+            "path": "World War II -- Military service -- 1800th Engineer General Service Battalion",
             "siblings": [
                 89,
                 90,
@@ -15171,7 +15171,7 @@
             "id": 421,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 88,
-            "path": "World War II: Military service: 100th Infantry Battalion",
+            "path": "World War II -- Military service -- 100th Infantry Battalion",
             "siblings": [
                 89,
                 90,
@@ -15212,7 +15212,7 @@
             "id": 89,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 88,
-            "path": "World War II: Military service: 442nd Regimental Combat Team",
+            "path": "World War II -- Military service -- 442nd Regimental Combat Team",
             "siblings": [
                 90,
                 91,
@@ -15246,7 +15246,7 @@
             "id": 90,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 88,
-            "path": "World War II: Military service: 522nd Field Artillery Battalion",
+            "path": "World War II -- Military service -- 522nd Field Artillery Battalion",
             "siblings": [
                 89,
                 91,
@@ -15277,7 +15277,7 @@
             "id": 540,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 88,
-            "path": "World War II: Military service: Airborne troops",
+            "path": "World War II -- Military service -- Airborne troops",
             "siblings": [
                 89,
                 90,
@@ -15313,7 +15313,7 @@
             "id": 422,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 88,
-            "path": "World War II: Military service: Medals and awards",
+            "path": "World War II -- Military service -- Medals and awards",
             "siblings": [
                 89,
                 90,
@@ -15355,7 +15355,7 @@
             "id": 91,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 88,
-            "path": "World War II: Military service: Military Intelligence Service",
+            "path": "World War II -- Military service -- Military Intelligence Service",
             "siblings": [
                 89,
                 90,
@@ -15387,7 +15387,7 @@
             "id": 469,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 91,
-            "path": "World War II: Military service: Military Intelligence Service: Merrill's Marauders",
+            "path": "World War II -- Military service -- Military Intelligence Service -- Merrill's Marauders",
             "siblings": [],
             "title": "Merrill's Marauders",
             "weight": 0
@@ -15405,7 +15405,7 @@
             "id": 198,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 88,
-            "path": "World War II: Military service: Office of Strategic Services",
+            "path": "World War II -- Military service -- Office of Strategic Services",
             "siblings": [
                 89,
                 90,
@@ -15438,7 +15438,7 @@
             "id": 93,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 88,
-            "path": "World War II: Military service: U.S. Counterintelligence Corps",
+            "path": "World War II -- Military service -- U.S. Counterintelligence Corps",
             "siblings": [
                 89,
                 90,
@@ -15471,7 +15471,7 @@
             "id": 423,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 88,
-            "path": "World War II: Military service: Varsity Victory Volunteers",
+            "path": "World War II -- Military service -- Varsity Victory Volunteers",
             "siblings": [
                 89,
                 90,
@@ -15504,7 +15504,7 @@
             "id": 424,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 88,
-            "path": "World War II: Military service: 1399th Engineer Construction Battalion",
+            "path": "World War II -- Military service -- 1399th Engineer Construction Battalion",
             "siblings": [
                 89,
                 90,
@@ -15538,7 +15538,7 @@
             "id": 442,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 88,
-            "path": "World War II: Military service: Women's Army Corps/Women's Army Auxiliary Corps",
+            "path": "World War II -- Military service -- Women's Army Corps/Women's Army Auxiliary Corps",
             "siblings": [
                 89,
                 90,
@@ -15569,7 +15569,7 @@
             "id": 445,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 88,
-            "path": "World War II: Military service: Prisoners of war",
+            "path": "World War II -- Military service -- Prisoners of war",
             "siblings": [
                 89,
                 90,
@@ -15613,7 +15613,7 @@
             "id": 54,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Non-incarcerated Japanese Americans",
+            "path": "World War II -- Non-incarcerated Japanese Americans",
             "siblings": [
                 48,
                 57,
@@ -15656,7 +15656,7 @@
             "id": 56,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 54,
-            "path": "World War II: Non-incarcerated Japanese Americans: \"Voluntary evacuation\"",
+            "path": "World War II -- Non-incarcerated Japanese Americans -- \"Voluntary evacuation\"",
             "siblings": [],
             "title": "\"Voluntary evacuation\"",
             "weight": 0
@@ -15686,7 +15686,7 @@
             "id": 48,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Pearl Harbor and aftermath",
+            "path": "World War II -- Pearl Harbor and aftermath",
             "siblings": [
                 54,
                 57,
@@ -15743,7 +15743,7 @@
             "id": 203,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 48,
-            "path": "World War II: Pearl Harbor and aftermath: Decision to incarcerate",
+            "path": "World War II -- Pearl Harbor and aftermath -- Decision to incarcerate",
             "siblings": [
                 49,
                 50,
@@ -15773,7 +15773,7 @@
             "id": 50,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 48,
-            "path": "World War II: Pearl Harbor and aftermath: Arrest, searches, and seizures",
+            "path": "World War II -- Pearl Harbor and aftermath -- Arrest, searches, and seizures",
             "siblings": [
                 49,
                 51,
@@ -15800,7 +15800,7 @@
             "id": 49,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 48,
-            "path": "World War II: Pearl Harbor and aftermath: Events prior to Pearl Harbor",
+            "path": "World War II -- Pearl Harbor and aftermath -- Events prior to Pearl Harbor",
             "siblings": [
                 50,
                 51,
@@ -15833,7 +15833,7 @@
             "id": 425,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 48,
-            "path": "World War II: Pearl Harbor and aftermath: Martial law in Hawai'i",
+            "path": "World War II -- Pearl Harbor and aftermath -- Martial law in Hawai'i",
             "siblings": [
                 49,
                 50,
@@ -15858,7 +15858,7 @@
             "id": 51,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 48,
-            "path": "World War II: Pearl Harbor and aftermath: Personal recollections",
+            "path": "World War II -- Pearl Harbor and aftermath -- Personal recollections",
             "siblings": [
                 49,
                 50,
@@ -15886,7 +15886,7 @@
             "id": 53,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 48,
-            "path": "World War II: Pearl Harbor and aftermath: Responses of non-Japanese Americans",
+            "path": "World War II -- Pearl Harbor and aftermath -- Responses of non-Japanese Americans",
             "siblings": [
                 49,
                 50,
@@ -15911,7 +15911,7 @@
             "id": 187,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 48,
-            "path": "World War II: Pearl Harbor and aftermath: \"War hysteria\"",
+            "path": "World War II -- Pearl Harbor and aftermath -- \"War hysteria\"",
             "siblings": [
                 49,
                 50,
@@ -15940,7 +15940,7 @@
             "id": 426,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Propaganda",
+            "path": "World War II -- Propaganda",
             "siblings": [
                 48,
                 54,
@@ -15987,7 +15987,7 @@
             "id": 427,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 426,
-            "path": "World War II: Propaganda: Media propaganda",
+            "path": "World War II -- Propaganda -- Media propaganda",
             "siblings": [
                 170
             ],
@@ -16013,7 +16013,7 @@
             "id": 170,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 426,
-            "path": "World War II: Propaganda: U.S. government propaganda",
+            "path": "World War II -- Propaganda -- U.S. government propaganda",
             "siblings": [
                 427
             ],
@@ -16041,7 +16041,7 @@
             "id": 94,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Resistance and dissidence",
+            "path": "World War II -- Resistance and dissidence",
             "siblings": [
                 48,
                 54,
@@ -16082,7 +16082,7 @@
             "id": 99,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 94,
-            "path": "World War II: Resistance and dissidence: Community responses to resistance",
+            "path": "World War II -- Resistance and dissidence -- Community responses to resistance",
             "siblings": [
                 86,
                 87,
@@ -16115,7 +16115,7 @@
             "id": 95,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 94,
-            "path": "World War II: Resistance and dissidence: Draft resistance",
+            "path": "World War II -- Resistance and dissidence -- Draft resistance",
             "siblings": [
                 86,
                 87,
@@ -16145,7 +16145,7 @@
             "id": 428,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 95,
-            "path": "World War II: Resistance and dissidence: Draft resistance: Fair Play Committee",
+            "path": "World War II -- Resistance and dissidence -- Draft resistance -- Fair Play Committee",
             "siblings": [],
             "title": "Fair Play Committee",
             "weight": 0
@@ -16165,7 +16165,7 @@
             "id": 107,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 94,
-            "path": "World War II: Resistance and dissidence: Expatriation/repatriation/deportation",
+            "path": "World War II -- Resistance and dissidence -- Expatriation/repatriation/deportation",
             "siblings": [
                 86,
                 87,
@@ -16191,7 +16191,7 @@
             "id": 100,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 94,
-            "path": "World War II: Resistance and dissidence: Impact of resistance on families",
+            "path": "World War II -- Resistance and dissidence -- Impact of resistance on families",
             "siblings": [
                 86,
                 87,
@@ -16222,7 +16222,7 @@
             "id": 98,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 94,
-            "path": "World War II: Resistance and dissidence: Other forms of resistance",
+            "path": "World War II -- Resistance and dissidence -- Other forms of resistance",
             "siblings": [
                 86,
                 87,
@@ -16250,7 +16250,7 @@
             "id": 87,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 94,
-            "path": "World War II: Resistance and dissidence: Renunciation of citizenship",
+            "path": "World War II -- Resistance and dissidence -- Renunciation of citizenship",
             "siblings": [
                 86,
                 95,
@@ -16280,7 +16280,7 @@
             "id": 86,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 94,
-            "path": "World War II: Resistance and dissidence: Segregation and Tule Lake",
+            "path": "World War II -- Resistance and dissidence -- Segregation and Tule Lake",
             "siblings": [
                 87,
                 95,
@@ -16307,7 +16307,7 @@
             "id": 429,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 86,
-            "path": "World War II: Resistance and dissidence: Segregation and Tule Lake: Hoshidan",
+            "path": "World War II -- Resistance and dissidence -- Segregation and Tule Lake -- Hoshidan",
             "siblings": [
                 430,
                 431
@@ -16331,7 +16331,7 @@
             "id": 430,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 86,
-            "path": "World War II: Resistance and dissidence: Segregation and Tule Lake: No no boys",
+            "path": "World War II -- Resistance and dissidence -- Segregation and Tule Lake -- No no boys",
             "siblings": [
                 429,
                 431
@@ -16353,7 +16353,7 @@
             "id": 431,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 86,
-            "path": "World War II: Resistance and dissidence: Segregation and Tule Lake: Stockade",
+            "path": "World War II -- Resistance and dissidence -- Segregation and Tule Lake -- Stockade",
             "siblings": [
                 429,
                 430
@@ -16386,7 +16386,7 @@
             "id": 96,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 94,
-            "path": "World War II: Resistance and dissidence: Supreme Court cases",
+            "path": "World War II -- Resistance and dissidence -- Supreme Court cases",
             "siblings": [
                 86,
                 87,
@@ -16421,7 +16421,7 @@
             "id": 157,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 96,
-            "path": "World War II: Resistance and dissidence: Supreme Court cases: Fred Korematsu",
+            "path": "World War II -- Resistance and dissidence -- Supreme Court cases -- Fred Korematsu",
             "siblings": [
                 97,
                 158
@@ -16446,7 +16446,7 @@
             "id": 97,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 96,
-            "path": "World War II: Resistance and dissidence: Supreme Court cases: Gordon Hirabayashi",
+            "path": "World War II -- Resistance and dissidence -- Supreme Court cases -- Gordon Hirabayashi",
             "siblings": [
                 157,
                 158
@@ -16472,7 +16472,7 @@
             "id": 158,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 96,
-            "path": "World War II: Resistance and dissidence: Supreme Court cases: Minoru Yasui",
+            "path": "World War II -- Resistance and dissidence -- Supreme Court cases -- Minoru Yasui",
             "siblings": [
                 97,
                 157
@@ -16524,7 +16524,7 @@
             "id": 80,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: Support from the non-Japanese American community",
+            "path": "World War II -- Support from the non-Japanese American community",
             "siblings": [
                 48,
                 54,
@@ -16584,7 +16584,7 @@
             "id": 432,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: U.S. Army internment camps",
+            "path": "World War II -- U.S. Army internment camps",
             "siblings": [
                 48,
                 54,
@@ -16630,7 +16630,7 @@
             "id": 433,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 399,
-            "path": "World War II: U.S. federal prisons",
+            "path": "World War II -- U.S. federal prisons",
             "siblings": [
                 48,
                 54,
