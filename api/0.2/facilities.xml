@@ -94,7 +94,7 @@
 			</ImageItem>
 			<VideoItem uid="sos_w-gila-v-001">
 				<Label>Kay M</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=146&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=146&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -108,7 +108,7 @@
 		<DateOpened>August 27, 1942</DateOpened>
 		<DateClosed>October 15, 1945</DateClosed>
 		<Location>
-            <LocationURI>Amache%20(Granada)</LocationURI>
+            <LocationURI>Amache_(Granada)</LocationURI>
 			<LocationName>Amache, Colorado</LocationName>
 			<CityName>Amache</CityName>
 			<StateName>Colorado</StateName>
@@ -194,7 +194,7 @@
 			</ImageItem>
 			<VideoItem uid="sos_w-gran-v-001">
 				<Label>Mutsu H</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=147&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=147&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -298,7 +298,7 @@
 			</ImageItem>
 			<VideoItem uid="sos_w-hear-v-001">
 				<Label>Kara K</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=148&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=148&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -395,7 +395,7 @@
 			</ImageItem>
 			<VideoItem uid="sos_w-jero-v-001">
 				<Label>Sarah S</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=149&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=149&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -499,7 +499,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_w-manz-v-001">
 				<Label>Paul B</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=150&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=150&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -595,7 +595,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_w-mini-v-001">
 				<Label>Akiko K</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=151&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=151&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -609,7 +609,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>June 2, 1942</DateOpened>
 		<DateClosed>November 28, 1945</DateClosed>
 		<Location>
-            <LocationURI>Poston%20(Colorado%20River)</LocationURI>
+            <LocationURI>Poston_(Colorado_River)</LocationURI>
 			<LocationName>Parker, Arizona</LocationName>
 			<CityName>Parker</CityName>
 			<StateName>Arizona</StateName>
@@ -697,7 +697,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_w-post-v-001">
 				<Label>Rudy T</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=152&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=152&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -793,7 +793,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_w-rohw-v-001">
 				<Label>Daniel Inouye</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=153&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=153&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -895,7 +895,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_w-topa-v-001">
 				<Label>Mitsue M</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=154&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=154&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -998,7 +998,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_w-tule-v-001">
 				<Label>Frank F</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=155&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=155&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -1012,7 +1012,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>May 6, 1942</DateOpened>
 		<DateClosed>October 30, 1942</DateClosed>
 		<Location>
-            <LocationURI>Fresno%20(detention%20facility)</LocationURI>
+            <LocationURI>Fresno_(detention_facility)</LocationURI>
 			<LocationName>Fresno, California</LocationName>
 			<CityName>Fresno</CityName>
 			<StateName>California</StateName>
@@ -1082,7 +1082,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>May 8, 1942</DateOpened>
 		<DateClosed>June 29, 1942</DateClosed>
 		<Location>
-            <LocationURI>Marysville%20(detention%20facility)</LocationURI>
+            <LocationURI>Marysville_(detention_facility)</LocationURI>
 			<LocationName>Marysville, California</LocationName>
 			<CityName>Marysville</CityName>
 			<StateName>California</StateName>
@@ -1152,7 +1152,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>May 7, 1942</DateOpened>
 		<DateClosed>June 2, 1942</DateClosed>
 		<Location>
-            <LocationURI>Mayer%20(detention%20facility)</LocationURI>
+            <LocationURI>Mayer_(detention_facility)</LocationURI>
 			<LocationName>Mayer, Arizona</LocationName>
 			<CityName>Mayer</CityName>
 			<StateName>Arizona</StateName>
@@ -1222,7 +1222,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>May 6, 1942</DateOpened>
 		<DateClosed>September 15, 1942</DateClosed>
 		<Location>
-            <LocationURI>Merced%20(detention%20facility)</LocationURI>
+            <LocationURI>Merced_(detention_facility)</LocationURI>
 			<LocationName>Merced, California</LocationName>
 			<CityName>Merced</CityName>
 			<StateName>California</StateName>
@@ -1281,7 +1281,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_a-merc-v-001">
 				<Label>Hiroshi K</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=156&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=156&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -1295,7 +1295,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>May 7, 1942</DateOpened>
 		<DateClosed>July 23, 1942</DateClosed>
 		<Location>
-            <LocationURI>Pinedale%20(detention%20facility)</LocationURI>
+            <LocationURI>Pinedale_(detention_facility)</LocationURI>
 			<LocationName>Pinedale, California</LocationName>
 			<CityName>Pinedale</CityName>
 			<StateName>California</StateName>
@@ -1354,7 +1354,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_a-pine-v-001">
 				<Label>Betty S</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=157&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=157&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -1368,7 +1368,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>May 7, 1942</DateOpened>
 		<DateClosed>August 24, 1942</DateClosed>
 		<Location>
-            <LocationURI>Pomona%20(detention%20facility)</LocationURI>
+            <LocationURI>Pomona_(detention_facility)</LocationURI>
 			<LocationName>Pomona, California</LocationName>
 			<CityName>Pomona</CityName>
 			<StateName>California</StateName>
@@ -1425,7 +1425,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_a-pomo-v-001">
 				<Label>Jimi Y</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=158&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=158&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -1439,7 +1439,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>May 2, 1942</DateOpened>
 		<DateClosed>September 10, 1942</DateClosed>
 		<Location>
-            <LocationURI>Portland%20(detention%20facility)</LocationURI>
+            <LocationURI>Portland_(detention_facility)</LocationURI>
 			<LocationName>Portland, Oregon</LocationName>
 			<CityName>Portland</CityName>
 			<StateName>Oregon</StateName>
@@ -1498,7 +1498,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_a-port-v-001">
 				<Label>Kara K</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=159&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=159&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -1512,7 +1512,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>April 28, 1942</DateOpened>
 		<DateClosed>September 12, 1942</DateClosed>
 		<Location>
-            <LocationURI>Puyallup%20(detention%20facility)</LocationURI>
+            <LocationURI>Puyallup_(detention_facility)</LocationURI>
 			<LocationName>Puyallup, Washington</LocationName>
 			<CityName>Puyallup</CityName>
 			<StateName>Washington</StateName>
@@ -1577,7 +1577,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_a-puya-v-001">
 				<Label>Masao W</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=160&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=160&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -1591,7 +1591,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>May 6, 1942</DateOpened>
 		<DateClosed>June 26, 1942</DateClosed>
 		<Location>
-            <LocationURI>Sacramento%20(detention%20facility)</LocationURI>
+            <LocationURI>Sacramento_(detention_facility)</LocationURI>
 			<LocationName>Sacramento, California</LocationName>
 			<CityName>Sacramento</CityName>
 			<StateName>California</StateName>
@@ -1661,7 +1661,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>April 27, 1942</DateOpened>
 		<DateClosed>July 4, 1942</DateClosed>
 		<Location>
-            <LocationURI>Salinas%20(detention%20facility)</LocationURI>
+            <LocationURI>Salinas_(detention_facility)</LocationURI>
 			<LocationName>Salinas, California</LocationName>
 			<CityName>Salinas</CityName>
 			<StateName>California</StateName>
@@ -1720,7 +1720,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_a-sali-v-001">
 				<Label>Rudy T</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=161&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=161&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -1734,7 +1734,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>March 27, 1942</DateOpened>
 		<DateClosed>October 27, 1942</DateClosed>
 		<Location>
-            <LocationURI>Santa_Anita%20(detention%20facility)</LocationURI>
+            <LocationURI>Santa_Anita_(detention_facility)</LocationURI>
 			<LocationName>Arcadia, California</LocationName>
 			<CityName>Arcadia</CityName>
 			<StateName>California</StateName>
@@ -1794,7 +1794,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_a-sant-v-001">
 				<Label>Mits K</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=162&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=162&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -1808,7 +1808,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>May 10, 1942</DateOpened>
 		<DateClosed>October 17, 1942</DateClosed>
 		<Location>
-            <LocationURI>Stockton%20(detention%20facility)</LocationURI>
+            <LocationURI>Stockton_(detention_facility)</LocationURI>
 			<LocationName>Stockton, California</LocationName>
 			<CityName>Stockton</CityName>
 			<StateName>California</StateName>
@@ -1875,7 +1875,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>April 28, 1942</DateOpened>
 		<DateClosed>October 13, 1942</DateClosed>
 		<Location>
-            <LocationURI>Tanforan%20(detention%20facility)</LocationURI>
+            <LocationURI>Tanforan_(detention_facility)</LocationURI>
 			<LocationName>San Bruno, California</LocationName>
 			<CityName>San Bruno</CityName>
 			<StateName>California</StateName>
@@ -1940,7 +1940,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 			<VideoItem uid="sos_a-tanf-v-001">
 				<Label>Tom A</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=163&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=163&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -1954,7 +1954,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>April 20, 1942</DateOpened>
 		<DateClosed>September 4, 1942</DateClosed>
 		<Location>
-            <LocationURI>Tulare%20(detention%20facility)</LocationURI>
+            <LocationURI>Tulare_(detention_facility)</LocationURI>
 			<LocationName>Tulare, California</LocationName>
 			<CityName>Tulare</CityName>
 			<StateName>California</StateName>
@@ -2023,7 +2023,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>April 30, 1942</DateOpened>
 		<DateClosed>August 12, 1942</DateClosed>
 		<Location>
-            <LocationURI>Turlock%20(detention%20facility)</LocationURI>
+            <LocationURI>Turlock_(detention_facility)</LocationURI>
 			<LocationName>Turlock, California</LocationName>
 			<CityName>Turlock</CityName>
 			<StateName>California</StateName>
@@ -2093,7 +2093,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>March 21, 1942</DateOpened>
 		<DateClosed>June 2, 1942</DateClosed>
 		<Location>
-            <LocationURI>Owens_Valley%20(detention%20facility)</LocationURI>
+            <LocationURI>Owens_Valley_(detention_facility)</LocationURI>
 			<LocationName>Manzanar, California </LocationName>
 			<CityName>Manzanar</CityName>
 			<StateName>California</StateName>
@@ -2139,7 +2139,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>May 8, 1942</DateOpened>
 		<DateClosed>May 31, 1942</DateClosed>
 		<Location>
-            <LocationURI>Parker_Dam%20(detention%20facility)</LocationURI>
+            <LocationURI>Parker_Dam_(detention_facility)</LocationURI>
 			<LocationName>Parker, Arizona</LocationName>
 			<CityName>Parker</CityName>
 			<StateName>Arizona</StateName>
@@ -2184,7 +2184,7 @@ rigation was required for any crops to grow.</Factoid>
 		<DateOpened>November 2, 1942</DateOpened>
 		<DateClosed>January 1948</DateClosed>
 		<Location>
-            <LocationURI>Crystal_City%20(detention%20facility)</LocationURI>
+            <LocationURI>Crystal_City_(detention_facility)</LocationURI>
 			<LocationName>Crystal City, Texas</LocationName>
 			<CityName>Crystal City</CityName>
 			<StateName>Texas</StateName>
@@ -2247,7 +2247,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 			<VideoItem uid="sos_d-crys-v-001">
 				<Label>Mako N</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=164&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=164&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -2261,7 +2261,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened>January 11, 1943</DateOpened>
 		<DateClosed>April 27, 1943</DateClosed>
 		<Location>
-            <LocationURI>Moab%20(detention%20facility)</LocationURI>
+            <LocationURI>Moab_(detention_facility)</LocationURI>
 			<LocationName>Dalton Wells, Utah</LocationName>
 			<CityName>Dalton Wells</CityName>
 			<StateName>Utah</StateName>
@@ -2332,7 +2332,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened>April 27, 1943</DateOpened>
 		<DateClosed>December 2, 1943</DateClosed>
 		<Location>
-            <LocationURI>Leupp%20(detention%20facility)</LocationURI>
+            <LocationURI>Leupp_(detention_facility)</LocationURI>
 			<LocationName>Leupp, Arizona</LocationName>
 			<CityName>Leupp</CityName>
 			<StateName>Arizona</StateName>
@@ -2403,7 +2403,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Antelope_Springs%20(detention%20facility)</LocationURI>
+            <LocationURI>Antelope_Springs_(detention_facility)</LocationURI>
 			<LocationName>Antelope Springs, Utah</LocationName>
 			<CityName>Antelope Springs</CityName>
 			<StateName>Utah</StateName>
@@ -2473,7 +2473,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened>December 10, 1942</DateOpened>
 		<DateClosed>February 15, 1943</DateClosed>
 		<Location>
-            <LocationURI>Cow_Creek%20(detention%20facility)</LocationURI>
+            <LocationURI>Cow_Creek_(detention_facility)</LocationURI>
 			<LocationName>Cow Creek, California</LocationName>
 			<CityName>Cow Creek</CityName>
 			<StateName>California</StateName>
@@ -2526,7 +2526,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened>March 1943</DateOpened>
 		<DateClosed>October 1943</DateClosed>
 		<Location>
-            <LocationURI>Tulelake%20(detention%20facility)</LocationURI>
+            <LocationURI>Tulelake_(detention_facility)</LocationURI>
 			<LocationName>Tulelake, California</LocationName>
 			<CityName>Tulelake</CityName>
 			<StateName>California</StateName>
@@ -2595,7 +2595,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>East_Boston%20(detention%20facility)</LocationURI>
+            <LocationURI>East_Boston_(detention_facility)</LocationURI>
 			<LocationName>East Boston, Massachusetts</LocationName>
 			<CityName>East Boston</CityName>
 			<StateName>Massachusetts</StateName>
@@ -2632,7 +2632,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened>December 1, 1941</DateOpened>
 		<DateClosed>June 1944</DateClosed>
 		<Location>
-            <LocationURI>Ellis_Island%20(detention%20facility)</LocationURI>
+            <LocationURI>Ellis_Island_(detention_facility)</LocationURI>
 			<LocationName>Ellis Island, New York</LocationName>
 			<CityName>Ellis Island</CityName>
 			<StateName>New York</StateName>
@@ -2701,7 +2701,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>San_Francisco%20(detention%20facility)</LocationURI>
+            <LocationURI>San_Francisco_(detention_facility)</LocationURI>
 			<LocationName>San Francisco, California</LocationName>
 			<CityName>San Francisco</CityName>
 			<StateName>California</StateName>
@@ -2738,7 +2738,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>San_Pedro%20(detention%20facility)</LocationURI>
+            <LocationURI>San_Pedro_(detention_facility)</LocationURI>
 			<LocationName>San Pedro, California</LocationName>
 			<CityName>San Pedro</CityName>
 			<StateName>California</StateName>
@@ -2773,7 +2773,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Seattle%20(detention%20facility)</LocationURI>
+            <LocationURI>Seattle_(detention_facility)</LocationURI>
 			<LocationName>Seattle, Washington</LocationName>
 			<CityName>Seattle</CityName>
 			<StateName>Washington</StateName>
@@ -2808,7 +2808,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened>March 30, 1942</DateOpened>
 		<DateClosed>1946</DateClosed>
 		<Location>
-            <LocationURI>Sharp_Park%20(detention%20facility)</LocationURI>
+            <LocationURI>Sharp_Park_(detention_facility)</LocationURI>
 			<LocationName>Sharp Park, California</LocationName>
 			<CityName>Sharp Park</CityName>
 			<StateName>California</StateName>
@@ -2854,7 +2854,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Tuna_Canyon%20(detention%20facility)</LocationURI>
+            <LocationURI>Tuna_Canyon_(detention_facility)</LocationURI>
 			<LocationName>Tujunga, California</LocationName>
 			<CityName>Tujunga</CityName>
 			<StateName>California</StateName>
@@ -2892,7 +2892,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened>December 7, 1941</DateOpened>
 		<DateClosed>March 6, 1946</DateClosed>
 		<Location>
-            <LocationURI>Fort%20Lincoln%20(Bismarck)%20(detention%20facility)</LocationURI>
+            <LocationURI>Fort_Lincoln_(Bismarck)_(detention_facility)</LocationURI>
 			<LocationName>Bismarck, North Dakota</LocationName>
 			<CityName>Bismarck</CityName>
 			<StateName>North Dakota</StateName>
@@ -2952,7 +2952,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 			<VideoItem uid="sos_d-linc-v-001">
 				<Label>Arthur O</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=165&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=165&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -2966,7 +2966,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened>December 18, 1941</DateOpened>
 		<DateClosed>July 1, 1944</DateClosed>
 		<Location>
-            <LocationURI>Fort_Missoula%20(detention%20facility)</LocationURI>
+            <LocationURI>Fort_Missoula_(detention_facility)</LocationURI>
 			<LocationName>Missoula, Montana</LocationName>
 			<CityName>Missoula</CityName>
 			<StateName>Montana</StateName>
@@ -3027,7 +3027,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 			<VideoItem uid="sos_d-miss-v-001">
 				<Label>Marion K</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=166&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=166&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -3041,7 +3041,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Camp_Blanding%20(detention%20facility)</LocationURI>
+            <LocationURI>Camp_Blanding_(detention_facility)</LocationURI>
             <LocationURI>testing</LocationURI>
 			<LocationName>Starke, Florida</LocationName>
 			<CityName>Starke</CityName>
@@ -3079,7 +3079,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Camp_Forrest%20(detention%20facility)</LocationURI>
+            <LocationURI>Camp_Forrest_(detention_facility)</LocationURI>
 			<LocationName>Tullahoma, Tennessee </LocationName>
 			<CityName>Tullahoma</CityName>
 			<StateName>Tennessee</StateName>
@@ -3137,7 +3137,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened>June 8, 1942</DateOpened>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Camp_Livingston%20(detention%20facility)</LocationURI>
+            <LocationURI>Camp_Livingston_(detention_facility)</LocationURI>
 			<LocationName>Alexandria, Louisiana</LocationName>
 			<CityName>Alexandria</CityName>
 			<StateName>Louisiana</StateName>
@@ -3176,7 +3176,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened>March 1, 1942</DateOpened>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Camp_McCoy%20(detention%20facility)</LocationURI>
+            <LocationURI>Camp_McCoy_(detention_facility)</LocationURI>
 			<LocationName>Camp McCoy, Wisconsin</LocationName>
 			<CityName>Camp McCoy</CityName>
 			<StateName>Wisconsin</StateName>
@@ -3223,7 +3223,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Leavenworth%20(detention%20facility)</LocationURI>
+            <LocationURI>Leavenworth_(detention_facility)</LocationURI>
 			<LocationName>Leavenworth, Kansas</LocationName>
 			<CityName>Leavenworth</CityName>
 			<StateName>Kansas</StateName>
@@ -3270,7 +3270,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Fort_Stanton%20(detention%20facility)</LocationURI>
+            <LocationURI>Fort_Stanton_(detention_facility)</LocationURI>
 			<LocationName>Fort Stanton, New Mexico</LocationName>
 			<CityName>Fort Stanton</CityName>
 			<StateName>New Mexico</StateName>
@@ -3322,7 +3322,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 			<VideoItem uid="sos_d-stan-v-001">
 				<Label>Tom A</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=167&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=167&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -3397,7 +3397,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 			<VideoItem uid="sos_p-mcne-v-001">
 				<Label>Gene A</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=169&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=169&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -3411,7 +3411,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Catalina%20Federal%20Honor%20Camp%20(detention%20facility)</LocationURI>
+            <LocationURI>Catalina_Federal_Honor_Camp_(detention_facility)</LocationURI>
 			<LocationName>Santa Catalina Mountains</LocationName>
 			<CityName>Santa Catalina Mountains</CityName>
 			<StateName>Arizona</StateName>
@@ -3482,7 +3482,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Florence%20(detention%20facility)</LocationURI>
+            <LocationURI>Florence_(detention_facility)</LocationURI>
 			<LocationName>Florence, Arizona</LocationName>
 			<CityName>Florence</CityName>
 			<StateName>Arizona</StateName>
@@ -3519,7 +3519,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Fort_Bliss%20(detention%20facility)</LocationURI>
+            <LocationURI>Fort_Bliss_(detention_facility)</LocationURI>
 			<LocationName>Fort Bliss, Texas</LocationName>
 			<CityName>Fort Bliss</CityName>
 			<StateName>Texas</StateName>
@@ -3556,7 +3556,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Fort_Howard%20(detention%20facility)</LocationURI>
+            <LocationURI>Fort_Howard_(detention_facility)</LocationURI>
 			<LocationName>Fort Howard, Maryland</LocationName>
 			<CityName>Fort Howard</CityName>
 			<StateName>Maryland</StateName>
@@ -3591,7 +3591,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened>1942</DateOpened>
 		<DateClosed>3/30/1943</DateClosed>
 		<Location>
-            <LocationURI>Fort_Lewis%20(detention%20facility)</LocationURI>
+            <LocationURI>Fort_Lewis_(detention_facility)</LocationURI>
 			<LocationName>Fort Lewis, Washington</LocationName>
 			<CityName>Fort Lewis</CityName>
 			<StateName>Washington</StateName>
@@ -3628,7 +3628,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Fort_McDowell%20(detention%20facility)</LocationURI>
+            <LocationURI>Fort_McDowell_(detention_facility)</LocationURI>
 			<LocationName>Fort McDowell, California</LocationName>
 			<CityName>Fort McDowell</CityName>
 			<StateName>California</StateName>
@@ -3666,7 +3666,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Fort_Meade%20(detention%20facility)</LocationURI>
+            <LocationURI>Fort_Meade_(detention_facility)</LocationURI>
 			<LocationName>Fort George Meade, Maryland</LocationName>
 			<CityName>Fort George Meade</CityName>
 			<StateName>Maryland</StateName>
@@ -3705,7 +3705,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Fort_Richardson%20(detention%20facility)</LocationURI>
+            <LocationURI>Fort_Richardson_(detention_facility)</LocationURI>
 			<LocationName>Fort Richardson, Alaska</LocationName>
 			<CityName>Fort Richardson</CityName>
 			<StateName>Alaska</StateName>
@@ -3742,7 +3742,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Fort_Sam_Houston%20(detention%20facility)</LocationURI>
+            <LocationURI>Fort_Sam_Houston_(detention_facility)</LocationURI>
 			<LocationName>Fort Sam Houston, Texas</LocationName>
 			<CityName>Fort Sam Houston</CityName>
 			<StateName>Texas</StateName>
@@ -3779,7 +3779,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened/>
 		<DateClosed>June 24, 1942</DateClosed>
 		<Location>
-            <LocationURI>Fort_Sill%20(detention%20facility)</LocationURI>
+            <LocationURI>Fort_Sill_(detention_facility)</LocationURI>
 			<LocationName>Fort Sill, Oklahoma</LocationName>
 			<CityName>Fort Sill</CityName>
 			<StateName>Oklahoma</StateName>
@@ -3850,7 +3850,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened>March 1942</DateOpened>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Griffith_Park%20(detention%20facility)</LocationURI>
+            <LocationURI>Griffith_Park_(detention_facility)</LocationURI>
 			<LocationName>Burbank, California</LocationName>
 			<CityName>Burbank</CityName>
 			<StateName>California</StateName>
@@ -3887,7 +3887,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 		<DateOpened>February 1943</DateOpened>
 		<DateClosed>1945</DateClosed>
 		<Location>
-            <LocationURI>Honouliuli%20(detention%20facility)</LocationURI>
+            <LocationURI>Honouliuli_(detention_facility)</LocationURI>
 			<LocationName>Honouliuli, Oahu, Hawaii</LocationName>
 			<CityName>Honouliuli, Oahu</CityName>
 			<StateName>Hawaii</StateName>
@@ -3897,7 +3897,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 				<GISLong>-158.0667</GISLong>
 				<GISTGNId>2024962</GISTGNId>
 			</GISInfo>
-            <LocationURI>Lordsburg%20(detention%20facility)</LocationURI>
+            <LocationURI>Lordsburg_(detention_facility)</LocationURI>
 		<CurrentDisposition></CurrentDisposition>
 		<Population>
 			<PopulationDescription>Held people of Japanese ancestry, citizens and non-citizens, male and female; also held European nationals and prisoners of war (POWs) from the Pacific theater. </PopulationDescription>
@@ -3905,7 +3905,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			<PeakPopulation peakDate="">320</PeakPopulation>
 		</Population>
 		<DistinctiveFacts>
-			<Factoid>The U.S. Army housed inmates in fifteen wooden barracks as well as large tents             <LocationURI>Lordsburg%20(detention%20facility)</LocationURI>
+			<Factoid>The U.S. Army housed inmates in fifteen wooden barracks as well as large tents             <LocationURI>Lordsburg_(detention_facility)</LocationURI>
 ed-wire fences. Some inmates stayed for a few months, while others remained for more than two years.</Factoid>
 			<Factoid>If an inmate of Japanese descent wished to leave the camp and was eligible to do so, he or she was forced to sign a statement promising that he or she would not contest the imprisonment in court. Failure to sign would result in continued imprisonment.</Factoid>
 		</DistinctiveFacts>
@@ -3913,10 +3913,10 @@ ed-wire fences. Some inmates stayed for a few months, while others remained for 
 			<NPSMoreInfoResourceLink>
 				<Label/>
 				<Link>http://www.cr.nps.gov/history/online_books/anthropology74/ce17o.htm</Link>
-            <LocationURI>Lordsburg%20(detention%20facility)</LocationURI>
+            <LocationURI>Lordsburg_(detention_facility)</LocationURI>
 			<AdditionalResourceLink>
 			    <Label>World War II Japanese American Internment Sites in Hawaii (22MB pdf)</Label>
-				<Link>http://www.densho.org/assets/media/Burton-HawaiiInternmentSitesOverview2007.pdf</Link>
+				<Link>https://www.densho.org/assets/media/Burton-HawaiiInternmentSitesOverview2007.pdf</Link>
 			</AdditionalResourceLink>
 		</ResourceLinks>
 	</Facility>
@@ -3930,7 +3930,7 @@ ed-wire fences. Some inmates stayed for a few months, while others remained for 
 		<DateOpened>June 15, 1942</DateOpened>
 		<DateClosed>1944</DateClosed>
 		<Location>
-            <LocationURI>Lordsburg%20(detention%20facility)</LocationURI>
+            <LocationURI>Lordsburg_(detention_facility)</LocationURI>
 			<LocationName>Lordsburg, New Mexico</LocationName>
 			<CityName>Lordsburg</CityName>
 			<StateName>New Mexico</StateName>
@@ -3991,7 +3991,7 @@ ed-wire fences. Some inmates stayed for a few months, while others remained for 
 			</ImageItem>
 			<VideoItem uid="sos_u-lord-v-001">
 				<Label>Tosh Y</Label>
-	<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=170&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video</DisplayLink>
+	<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=170&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video</DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -4005,7 +4005,7 @@ ed-wire fences. Some inmates stayed for a few months, while others remained for 
 		<DateOpened>December 1941</DateOpened>
 		<DateClosed>March 1, 1943</DateClosed>
 		<Location>
-            <LocationURI>Sand_Island%20(detention%20facility)</LocationURI>
+            <LocationURI>Sand_Island_(detention_facility)</LocationURI>
 			<LocationName>Sand Island, Oahu, Hawaii</LocationName>
 			<CityName>Sand Island, Oahu</CityName>
 			<StateName>Hawaii</StateName>
@@ -4034,11 +4034,11 @@ ed-wire fences. Some inmates stayed for a few months, while others remained for 
 			</NPSMoreInfoResourceLink>
 			<OfficialResourceLink>
 			    <Label>World War II Japanese American Internment Sites in Hawaii (22MB pdf)</Label>
-				<Link>http://www.densho.org/assets/media/Burton-HawaiiInternmentSitesOverview2007.pdf</Link>
+				<Link>https://www.densho.org/assets/media/Burton-HawaiiInternmentSitesOverview2007.pdf</Link>
 			</OfficialResourceLink>			
 			<AdditionalResourceLink>
 			    <Label>Sand Island Supplemental Maps (19MB pdf)</Label>
-				<Link>http://www.densho.org/assets/media/Burton-SandIsland11x17maps.pdf</Link>
+				<Link>https://www.densho.org/assets/media/Burton-SandIsland11x17maps.pdf</Link>
 			</AdditionalResourceLink>			
 		</ResourceLinks>
 		<MediaPackage>
@@ -4060,7 +4060,7 @@ ed-wire fences. Some inmates stayed for a few months, while others remained for 
 		<DateOpened/>
 		<DateClosed/>
 		<Location>
-            <LocationURI>Stringtown%20(detention%20facility)</LocationURI>
+            <LocationURI>Stringtown_(detention_facility)</LocationURI>
 			<LocationName>Stringtown, Oklahoma</LocationName>
 			<CityName>Stringtown</CityName>
 			<StateName>Oklahoma</StateName>
@@ -4129,7 +4129,7 @@ ed-wire fences. Some inmates stayed for a few months, while others remained for 
 		<DateOpened>April 1, 1942</DateOpened>
 		<DateClosed>September 1945</DateClosed>
 		<Location>
-            <LocationURI>Kenedy%20(detention%20facility)</LocationURI>
+            <LocationURI>Kenedy_(detention_facility)</LocationURI>
 			<LocationName>Kenedy, Texas</LocationName>
 			<CityName>Kenedy</CityName>
 			<StateName>Texas</StateName>
@@ -4200,7 +4200,7 @@ ed-wire fences. Some inmates stayed for a few months, while others remained for 
 		<DateOpened>May 1943</DateOpened>
 		<DateClosed>May 1945</DateClosed>
 		<Location>
-            <LocationURI>Kooskia%20(detention%20facility)</LocationURI>
+            <LocationURI>Kooskia_(detention_facility)</LocationURI>
 			<LocationName>Kooskia, Idaho </LocationName>
 			<CityName>Kooskia</CityName>
 			<StateName>Idaho</StateName>
@@ -4242,7 +4242,7 @@ ed-wire fences. Some inmates stayed for a few months, while others remained for 
 		<DateOpened>January 23, 1942</DateOpened>
 		<DateClosed>December 18, 1942</DateClosed>
 		<Location>
-            <LocationURI>Old_Raton_Ranch%20(detention%20facility)</LocationURI>
+            <LocationURI>Old_Raton_Ranch_(detention_facility)</LocationURI>
 			<LocationName>Lincoln, New Mexico</LocationName>
 			<CityName>Lincoln</CityName>
 			<StateName>New Mexico</StateName>
@@ -4279,7 +4279,7 @@ ed-wire fences. Some inmates stayed for a few months, while others remained for 
 		<DateOpened>February 1942</DateOpened>
 		<DateClosed>September 1946</DateClosed>
 		<Location>
-            <LocationURI>Santa_Fe%20(detention%20facility)</LocationURI>
+            <LocationURI>Santa_Fe_(detention_facility)</LocationURI>
 			<LocationName>Santa Fe, New Mexico</LocationName>
 			<CityName>Santa Fe</CityName>
 			<StateName>New Mexico</StateName>
@@ -4316,7 +4316,7 @@ ed-wire fences. Some inmates stayed for a few months, while others remained for 
 			</ImageItem>
 			<VideoItem uid="sos_d-sant-v-001">
 				<Label>Bill N</Label>
-				<DisplayLink>http://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=168&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
+				<DisplayLink>https://www.densho.org/assets/sharedpages/primarysource/primarysource.asp?id=168&amp;display_format=4&amp;section=home&amp;text=1&amp;mediaType=video </DisplayLink>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
@@ -4330,7 +4330,7 @@ ed-wire fences. Some inmates stayed for a few months, while others remained for 
 		<DateOpened>April 12, 1942</DateOpened>
 		<DateClosed>June 30, 1945</DateClosed>
 		<Location>
-            <LocationURI>Seagoville%20(detention%20facility)</LocationURI>
+            <LocationURI>Seagoville_(detention_facility)</LocationURI>
 			<LocationName>Seagoville, Texas</LocationName>
 			<CityName>Seagoville</CityName>
 			<StateName>Texas</StateName>
