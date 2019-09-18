@@ -3883,11 +3883,10 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			<NPSName>Honouliuli Internment Camp</NPSName>
 			<ShortName>Honouliuli</ShortName>
 		</Name>
-		<Category code="usaic">U.S. Army Internment Camp</Category>
+		<Category>U.S. Army Internment Camp</Category>
 		<DateOpened>February 1943</DateOpened>
 		<DateClosed>1945</DateClosed>
 		<Location>
-            <LocationURI>Honouliuli_(detention_facility)</LocationURI>
 			<LocationName>Honouliuli, Oahu, Hawaii</LocationName>
 			<CityName>Honouliuli, Oahu</CityName>
 			<StateName>Hawaii</StateName>
@@ -3897,7 +3896,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 				<GISLong>-158.0667</GISLong>
 				<GISTGNId>2024962</GISTGNId>
 			</GISInfo>
-            <LocationURI>Lordsburg_(detention_facility)</LocationURI>
+		</Location>
 		<CurrentDisposition></CurrentDisposition>
 		<Population>
 			<PopulationDescription>Held people of Japanese ancestry, citizens and non-citizens, male and female; also held European nationals and prisoners of war (POWs) from the Pacific theater. </PopulationDescription>
@@ -3905,22 +3904,21 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			<PeakPopulation peakDate="">320</PeakPopulation>
 		</Population>
 		<DistinctiveFacts>
-			<Factoid>The U.S. Army housed inmates in fifteen wooden barracks as well as large tents             <LocationURI>Lordsburg_(detention_facility)</LocationURI>
-ed-wire fences. Some inmates stayed for a few months, while others remained for more than two years.</Factoid>
+			<Factoid>The U.S. Army housed inmates in fifteen wooden barracks as well as large tents that held six to eight people. Females and POWs were kept in separate areas, each surrounded by barbed-wire fences. Some inmates stayed for a few months, while others remained for more than two years.</Factoid>
 			<Factoid>If an inmate of Japanese descent wished to leave the camp and was eligible to do so, he or she was forced to sign a statement promising that he or she would not contest the imprisonment in court. Failure to sign would result in continued imprisonment.</Factoid>
 		</DistinctiveFacts>
 		<ResourceLinks>
 			<NPSMoreInfoResourceLink>
 				<Label/>
 				<Link>https://www.nps.gov/parkhistory/online_books/anthropology74/ce17o.htm</Link>
-            <LocationURI>Lordsburg_(detention_facility)</LocationURI>
+			</NPSMoreInfoResourceLink>
 			<AdditionalResourceLink>
 			    <Label>World War II Japanese American Internment Sites in Hawaii (22MB pdf)</Label>
-				<Link>https://www.densho.org/assets/media/Burton-HawaiiInternmentSitesOverview2007.pdf</Link>
+				<Link>http://www.densho.org/assets/media/Burton-HawaiiInternmentSitesOverview2007.pdf</Link>
 			</AdditionalResourceLink>
 		</ResourceLinks>
 	</Facility>
-	<Facility UID="u-lord">
+    <Facility UID="u-lord">
 		<Name>
 			<DenshoName>Lordsburg</DenshoName>
 			<NPSName>Lordsburg Internment Camp</NPSName>
