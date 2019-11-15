@@ -3314,9 +3314,7 @@
             ],
             "created": "2014-02-18T17:06:20-0800",
             "description": "",
-            "encyc_urls": [
-                "/Issei%20and%20Nisei:%20The%20Internment%20Years%20(book)/"
-            ],
+            "encyc_urls": [],
             "id": 290,
             "modified": "2014-02-18T17:06:20-0800",
             "parent_id": 270,
@@ -9993,7 +9991,6 @@
             "description": "",
             "encyc_urls": [
                 "/Japanese%20Latin%20Americans/",
-                "/Adios%20to%20Tears:%20The%20Memoirs%20of%20a%20Japanese-Peruvian%20Internee%20in%20U.S.%20Concentration%20Camps%20(book)/",
                 "/Japanese%20Mexican%20removal/"
             ],
             "id": 384,
