@@ -3883,10 +3883,11 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			<NPSName>Honouliuli Internment Camp</NPSName>
 			<ShortName>Honouliuli</ShortName>
 		</Name>
-		<Category>U.S. Army Internment Camp</Category>
+		<Category code="usaic">U.S. Army Internment Camp</Category>
 		<DateOpened>February 1943</DateOpened>
 		<DateClosed>1945</DateClosed>
 		<Location>
+            <LocationURI>Honouliuli_(detention_facility)</LocationURI>
 			<LocationName>Honouliuli, Oahu, Hawaii</LocationName>
 			<CityName>Honouliuli, Oahu</CityName>
 			<StateName>Hawaii</StateName>
