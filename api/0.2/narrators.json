@@ -21352,7 +21352,7 @@
             "created": "2020-2-3T11:15:15",
             "modified": "2020-2-3T11:15:15",
             "nr_id": "",
-            "b_date": "",
+            "b_date": null,
             "d_date": null,
             "last_name": "Keaveney",
             "first_name": "Hiroki",
