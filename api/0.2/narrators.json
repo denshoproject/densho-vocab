@@ -20841,7 +20841,7 @@
             "image_url": "ddr-jamsj-2-15_narr.jpg",
             "has_published": "1"
         },
-		{
+	{
             "id": "925",
             "created": "2019-10-14T11:15:15",
             "modified": "2019-10-14T11:15:15",
@@ -20864,7 +20864,7 @@
             "image_url": "",
             "has_published": "0"
         },
-		{
+	{
             "id": "926",
             "created": "2019-10-14T11:15:15",
             "modified": "2019-10-14T11:15:15",
@@ -20885,9 +20885,9 @@
             "birth_location": "East Los Angeles, California",
             "notes": "",
             "image_url": "",
-            "has_published": "0"
+            "has_published": "1"
         },
-		{
+	{
             "id": "927",
             "created": "2019-10-14T11:15:15",
             "modified": "2019-10-14T11:15:15",
@@ -20908,9 +20908,9 @@
             "birth_location": "Callao, Peru",
             "notes": "",
             "image_url": "",
-            "has_published": "0"
+            "has_published": "1"
         },
-		{
+	{
             "id": "928",
             "created": "2019-10-14T11:15:15",
             "modified": "2019-10-14T11:15:15",
@@ -20931,7 +20931,7 @@
             "birth_location": "",
             "notes": "",
             "image_url": "",
-            "has_published": "0"
+            "has_published": "1"
         },
 		{
             "id": "929",
@@ -20954,7 +20954,7 @@
             "birth_location": "",
             "notes": "",
             "image_url": "",
-            "has_published": "0"
+            "has_published": "1"
         },
 		{
             "id": "930",
