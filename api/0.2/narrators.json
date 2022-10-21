@@ -3275,7 +3275,7 @@
             "modified": "2016-12-14T11:15:15",
             "nr_id": "", 
             "b_date": "1933-05-30T00:00:00", 
-            "d_date": null, 
+            "d_date": "2022-03-08T00:00:00", 
             "last_name": "Shibayama", 
             "first_name": "Betty", 
             "middle_name": "Morita", 
@@ -19996,7 +19996,7 @@
             "modified": "2018-10-24T11:15:15",
             "nr_id": "",
             "b_date": "1890-11-19T00:00:00",
-            "d_date": "1995-11-01T00:00:00",
+            "d_date": "1995-11-01T00:00:00" ,
             "last_name": "Mukaeda",
             "first_name": "Katsuma",
             "middle_name": "",
@@ -21991,7 +21991,7 @@
             "image_url": "ddr-densho-1000-485_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "974",
             "created": "2021-8-22T11:15:15",
             "modified": "2021-8-22T11:15:15",
@@ -22014,7 +22014,7 @@
             "image_url": "ddr-densho-435-1_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "975",
             "created": "2021-11-02T11:15:15",
             "modified": "2021-11-02T11:15:15",
@@ -22037,7 +22037,7 @@
             "image_url": "ddr-densho-1022-3_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "976",
             "created": "2021-12-14T11:15:15",
             "modified": "2021-12-14T11:15:15",
@@ -22060,7 +22060,7 @@
             "image_url": "ddr-ajah-1-1_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "977",
             "created": "2021-12-14T11:15:15",
             "modified": "2021-12-14T11:15:15",
@@ -22083,7 +22083,7 @@
             "image_url": "ddr-ajah-1-2_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "978",
             "created": "2021-12-14T11:15:15",
             "modified": "2021-12-14T11:15:15",
@@ -22106,7 +22106,7 @@
             "image_url": "ddr-densho-1000-486_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "979",
             "created": "2022-01-11T11:15:15",
             "modified": "2022-01-11T11:15:15",
@@ -22129,7 +22129,7 @@
             "image_url": "ddr-ajah-1-3_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "980",
             "created": "2022-01-11T11:15:15",
             "modified": "2022-01-11T11:15:15",
@@ -22152,7 +22152,7 @@
             "image_url": "ddr-ajah-1-4_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "981",
             "created": "2022-03-17T11:15:15",
             "modified": "2022-03-17T11:15:15",
@@ -22175,7 +22175,7 @@
             "image_url": "ddr-densho-1000-492_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "982",
             "created": "2022-03-17T11:15:15",
             "modified": "2022-03-17T11:15:15",
@@ -22198,7 +22198,7 @@
             "image_url": "ddr-densho-1000-493_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "983",
             "created": "2022-03-17T11:15:15",
             "modified": "2022-03-17T11:15:15",
@@ -22221,7 +22221,7 @@
             "image_url": "ddr-densho-1000-494-2_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "984",
             "created": "2022-03-17T11:15:15",
             "modified": "2022-03-17T11:15:15",
@@ -22244,7 +22244,7 @@
             "image_url": "ddr-densho-1000-494-1_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "985",
             "created": "2022-03-22T11:15:15",
             "modified": "2022-03-22T11:15:15",
@@ -22267,7 +22267,7 @@
             "image_url": "ddr-densho-1000-495_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "986",
             "created": "2022-03-22T11:15:15",
             "modified": "2022-03-22T11:15:15",
@@ -22290,7 +22290,7 @@
             "image_url": "ddr-densho-1000-496_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "987",
             "created": "2022-03-22T11:15:15",
             "modified": "2022-03-22T11:15:15",
@@ -22313,7 +22313,7 @@
             "image_url": "ddr-densho-1000-497_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "988",
             "created": "2022-03-22T11:15:15",
             "modified": "2022-03-22T11:15:15",
@@ -22336,7 +22336,7 @@
             "image_url": "",
             "has_published": "0"
         },
-	{
+		{
             "id": "989",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22359,7 +22359,7 @@
             "image_url": "",
             "has_published": "0"
         },
-	{
+		{
             "id": "990",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22382,7 +22382,7 @@
             "image_url": "",
             "has_published": "0"
         },
-	{
+		{
             "id": "991",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22405,7 +22405,7 @@
             "image_url": "",
             "has_published": "0"
         },
-	{
+		{
             "id": "992",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22428,7 +22428,7 @@
             "image_url": "",
             "has_published": "0"
         },
-	{
+		{
             "id": "993",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22451,7 +22451,7 @@
             "image_url": "",
             "has_published": "0"
         },
-	{
+		{
             "id": "994",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22463,7 +22463,7 @@
             "middle_name": "Yoshinobu",
             "nickname": "",
             "display_name": "Elliot Yoshinobu Horikoshi",
-            "bio": "",
+            "bio": "Nisei male. Born December 26, 1938, in Salem, Oregon. Family moved frequently before the war due to father's profession as a Methodist minister. During World War II, removed to Portland Assembly Center, Oregon, and the Heart Mountain concentration camp, Wyoming. After leaving camp, family moved to Boston, Massachusetts, where father could attend graduate seminary school. Eventually moved to Oakland, California, where Mr. Horikoshi attended college and became a pharmacist. Married and raised a family in California's Bay Area.",
             "gender": "M",
             "generation": "Nisei",
             "ethnicity": "Japanese",
@@ -22471,10 +22471,10 @@
             "religion": "Methodist",
             "birth_location": "Salem, Oregon",
             "notes": "",
-            "image_url": "",
-            "has_published": "0"
+            "image_url": "ddr-densho-1000-503_narr.jpg",
+            "has_published": "1"
         },
-	{
+		{
             "id": "995",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22497,7 +22497,7 @@
             "image_url": "",
             "has_published": "0"
         },
-	{
+		{
             "id": "996",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22509,7 +22509,7 @@
             "middle_name": "",
             "nickname": "",
             "display_name": "Mary Jane Mikuriya",
-            "bio": "",
+            "bio": "Born December 8, 1934, in Pittsburgh, Pennsylvania. Born to a father from Japan and mother from the Austria-Hungary region. Grew up in Pennsylvania during World War II, where family was monitored by the FBI. Attended Pembroke College and then worked for the federal government's Department of Education, then as an administrator in the education field. Volunteered with Servas, an organization that promotes international peace and understanding through travel.",
             "gender": "F",
             "generation": "",
             "ethnicity": "",
@@ -22517,10 +22517,10 @@
             "religion": "Unitarian",
             "birth_location": "Pittsburgh, Pennsylvania",
             "notes": "",
-            "image_url": "",
-            "has_published": "0"
+            "image_url": "ddr-densho-1000-504_narr.jpg",
+            "has_published": "1"
         },
-	{
+		{
             "id": "997",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22543,7 +22543,7 @@
             "image_url": "",
             "has_published": "0"
         },
-	{
+		{
             "id": "998",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22566,7 +22566,7 @@
             "image_url": "ddr-densho-1000-506_narr.jpg",
             "has_published": "1"
         },
-	{
+		{
             "id": "999",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22578,7 +22578,7 @@
             "middle_name": "Ann",
             "nickname": "",
             "display_name": "Judy Furuichi",
-            "bio": "",
+            "bio": "Sansei female. Born December 27, 1942, in the Topaz concentration camp, Utah. Prior to World War II, parents lived and worked in Alameda, California. During World War II, the family was sent to the Tanforan Assembly Center, California, and the Topaz concentration camp, Utah. After the war, the family returned to Alameda, where Judy grew up. She lived and worked in San Francisco for a time, then eventually returned to Alameda, where the family had long been involved in the Japanese American community.",
             "gender": "F",
             "generation": "Sansei",
             "ethnicity": "Japanese",
@@ -22586,10 +22586,10 @@
             "religion": "Christian",
             "birth_location": "Topaz, Utah",
             "notes": "",
-            "image_url": "",
-            "has_published": "0"
+            "image_url": "ddr-ajah-1-8_narr.jpg",
+            "has_published": "1"
         },
-	{
+		{
             "id": "1000",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22612,7 +22612,7 @@
             "image_url": "",
             "has_published": "0"
         },
-	{
+		{
             "id": "1001",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22635,7 +22635,7 @@
             "image_url": "",
             "has_published": "0"
         },
-	{
+		{
             "id": "1002",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22647,7 +22647,7 @@
             "middle_name": "Tanino",
             "nickname": "",
             "display_name": "Takae Tanino Walts",
-            "bio": "",
+            "bio": "Nisei female. Born August 4, 1930, in Bellevue, Washington. Grew up in Bellevue, where parents ran a farm. During World War II, removed to the Pinedale Assembly Center and Tule Lake concentration camp, California. After leaving camp, returned to Seattle, Washington, and eventually established a career as a flight attendant.",
             "gender": "F",
             "generation": "",
             "ethnicity": "Japanese",
@@ -22655,10 +22655,10 @@
             "religion": "",
             "birth_location": "Bellevue, Washington",
             "notes": "",
-            "image_url": "",
-            "has_published": "0"
+            "image_url": "ddr-densho-1000-508_narr.jpg",
+            "has_published": "1"
         },
-	{
+		{
             "id": "1003",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22670,7 +22670,7 @@
             "middle_name": "Yasuko Tagawa",
             "nickname": "",
             "display_name": "Dotti Yasuko Tagawa Reisbord",
-            "bio": "",
+            "bio": "Nisei-Sansei female. Born May 6, 1941, in Seattle Washington. An infant when Japan bombed Pearl Harbor, family was sent to the Puyallup Assembly Center, Washington, and the Minidoka concentration camp, Idaho. After leaving camp, family returned to Seattle, where Dotti attended school. After high school, moved to Southern California, raised a family, and became a teacher before eventually returning to Seattle.",
             "gender": "F",
             "generation": "",
             "ethnicity": "Japanese",
@@ -22678,10 +22678,10 @@
             "religion": "",
             "birth_location": "Seattle, Washington",
             "notes": "",
-            "image_url": "",
-            "has_published": "0"
+            "image_url": "ddr-densho-1000-509_narr.jpg",
+            "has_published": "1"
         },
-	{
+		{
             "id": "1004",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22704,7 +22704,7 @@
             "image_url": "",
             "has_published": "0"
         },
-	{
+		{
             "id": "1005",
             "created": "2022-06-17T11:15:15",
             "modified": "2022-06-17T11:15:15",
@@ -22716,7 +22716,7 @@
             "middle_name": "Okazaki",
             "nickname": "",
             "display_name": "Mary Okazaki Kozu",
-            "bio": "",
+            "bio": "Nisei female. Born June 14, 1931, in Seattle, Washington. Grew up in Seattle, where parents ran a boarding house. During World War II, removed to the Puyallup Assembly Center, Washington, and Minidoka concentration camp, Idaho. Left camp in 1943 and moved to Salt Lake City, Utah. Returned with family to Seattle after the war, attended the University of Washington, and worked in various positions for the U.S. government.",
             "gender": "F",
             "generation": "",
             "ethnicity": "Japanese",
@@ -22724,9 +22724,100 @@
             "religion": "",
             "birth_location": "Seattle, Washington",
             "notes": "",
+            "image_url": "ddr-densho-1000-511_narr.jpg",
+            "has_published": "1"
+        },
+		{
+            "id": "1006",
+            "created": "2022-09-20T11:15:15",
+            "modified": "2022-09-20T11:15:15",
+            "nr_id": "",
+            "b_date": "1931-02-16T00:00:00",
+            "d_date": null,
+            "last_name": "Kurahara",
+            "first_name": "Jane",
+            "middle_name": "Masae",
+            "nickname": "",
+            "display_name": "Jane Kurahara",
+            "bio": "",
+            "gender": "F",
+            "generation": "Sansei",
+            "ethnicity": "Japanese",
+            "nationality": "US",
+            "religion": "Sukyo Mahikari",
+            "birth_location": "Honolulu, Hawaii",
+            "notes": "",
+            "image_url": "",
+            "has_published": "0"
+        },
+		{
+            "id": "1007",
+            "created": "2022-10-08T11:15:15",
+            "modified": "2022-10-08T11:15:15",
+            "nr_id": "",
+            "b_date": "1931-11-11T00:00:00",
+            "d_date": null,
+            "last_name": "Moriguchi",
+            "first_name": "Robert",
+            "middle_name": "",
+            "nickname": "",
+            "display_name": "Robert Moriguchi",
+            "bio": "",
+            "gender": "M",
+            "generation": "Sansei",
+            "ethnicity": "Japanese",
+            "nationality": "US",
+            "religion": "Buddhist",
+            "birth_location": "San Francisco, California",
+            "notes": "",
+            "image_url": "",
+            "has_published": "0"
+        }, 
+		{
+            "id": "1008",
+            "created": "2022-10-08T11:15:15",
+            "modified": "2022-10-08T11:15:15",
+            "nr_id": "",
+            "b_date": "1933-02-01T00:00:00",
+            "d_date": null,
+            "last_name": "Mihara",
+            "first_name": "Sam",
+            "middle_name": "",
+            "nickname": "",
+            "display_name": "Sam Mihara",
+            "bio": "",
+            "gender": "M",
+            "generation": "Nisei",
+            "ethnicity": "Japanese",
+            "nationality": "US",
+            "religion": "Presbyterian",
+            "birth_location": "San Francisco, California",
+            "notes": "",
+            "image_url": "",
+            "has_published": "0"
+        },
+		{
+            "id": "1009",
+            "created": "2022-10-11T11:15:15",
+            "modified": "2022-10-11T11:15:15",
+            "nr_id": "",
+            "b_date": "1953-12-02T00:00:00",
+            "d_date": null,
+            "last_name": "Shikuma",
+            "first_name": "Stanley",
+            "middle_name": "N",
+            "nickname": "",
+            "display_name": "Stanley N. Shikuma",
+            "bio": "",
+            "gender": "M",
+            "generation": "Sansei",
+            "ethnicity": "Japanese",
+            "nationality": "US",
+            "religion": "",
+            "birth_location": "Brogan, Oregon",
+            "notes": "",
             "image_url": "",
             "has_published": "0"
         }
-
     ]
 }
