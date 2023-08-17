@@ -16,6 +16,7 @@
                     "lat": 39.3521777,
                     "lng": -112.57717
                 },
+                "tgn_id": "2108669",
                 "label": "Delta, Utah"
             },
             "elinks": [
@@ -38,6 +39,7 @@
                     "lat": 34.1500162,
                     "lng": -114.2891177
                 },
+                "tgn_id": "2007106",
                 "label": "Parker, Arizona"
             },
             "elinks": [
@@ -60,6 +62,7 @@
                     "lat": 32.2212596,
                     "lng": -109.1865412
                 },
+                "tgn_id": "2349069",
                 "label": "Rivers, Arizona"
             },
             "elinks": [
@@ -82,6 +85,7 @@
                     "lat": 38.05692,
                     "lng": -102.3234389
                 },
+                "tgn_id": "2015676",
                 "label": "Amache, Colorado"
             },
             "elinks": [
@@ -104,6 +108,7 @@
                     "lat": 44.52634219999999,
                     "lng": -109.0565308
                 },
+                "tgn_id": "7013629",
                 "label": "Cody, Wyoming"
             },
             "elinks": [
@@ -126,6 +131,7 @@
                     "lat": 35.4263645,
                     "lng": -91.4556901
                 },
+                "tgn_id": "2008597",
                 "label": "Denson, Arkansas"
             },
             "elinks": [
@@ -148,6 +154,7 @@
                     "lat": 36.7285184,
                     "lng": -118.1462987
                 },
+                "tgn_id": "4006871",
                 "label": "Manzanar, California"
             },
             "elinks": [
@@ -170,6 +177,7 @@
                     "lat": 42.6782431,
                     "lng": -114.2500316
                 },
+                "tgn_id": "2025735",
                 "label": "Hunt, Idaho"
             },
             "elinks": [
@@ -192,6 +200,7 @@
                     "lat": 33.6255234,
                     "lng": -91.3945566
                 },
+                "tgn_id": "2009393",
                 "label": "McGehee, Arkansas"
             },
             "elinks": [
@@ -214,6 +223,7 @@
                     "lat": 41.8882132,
                     "lng": -121.3722116
                 },
+                "tgn_id": "2012922",
                 "label": "Newell, California"
             },
             "elinks": [
@@ -236,6 +246,7 @@
                     "lat": 47.1853785,
                     "lng": -122.2928974
                 },
+                "tgn_id": "2116562",
                 "label": "Puyallup, Washington"
             },
             "elinks": [
@@ -258,6 +269,7 @@
                     "lat": 45.5234515,
                     "lng": -122.6762071
                 },
+                "tgn_id": "7014273",
                 "label": "Portland, Oregon"
             },
             "elinks": [
@@ -280,6 +292,7 @@
                     "lat": 39.1457253,
                     "lng": -121.5913547
                 },
+                "tgn_id": "2136287",
                 "label": "Marysville, California"
             },
             "elinks": [
@@ -302,6 +315,7 @@
                     "lat": 38.5815719,
                     "lng": -121.4943996
                 },
+                "tgn_id": "7017902",
                 "label": "Sacramento, California"
             },
             "elinks": [
@@ -324,6 +338,7 @@
                     "lat": 37.6304904,
                     "lng": -122.4110835
                 },
+                "tgn_id": "7015414",
                 "label": "San Bruno, California"
             },
             "elinks": [
@@ -346,6 +361,7 @@
                     "lat": 37.9577016,
                     "lng": -121.2907796
                 },
+                "tgn_id": "7014545",
                 "label": "Stockton, California"
             },
             "elinks": [
@@ -368,6 +384,7 @@
                     "lat": 37.4946568,
                     "lng": -120.8465941
                 },
+                "tgn_id": "7014665",
                 "label": "Turlock, California"
             },
             "elinks": [
@@ -390,6 +407,7 @@
                     "lat": 36.6777372,
                     "lng": -121.6555013
                 },
+                "tgn_id": "7014451",
                 "label": "Salinas, California"
             },
             "elinks": [
@@ -412,6 +430,7 @@
                     "lat": 37.3021632,
                     "lng": -120.4829677
                 },
+                "tgn_id": "2012671",
                 "label": "Merced, California"
             },
             "elinks": [
@@ -434,6 +453,7 @@
                     "lat": 36.8411529,
                     "lng": -119.7961611
                 },
+                "tgn_id": "1002392",
                 "label": "Pinedale, California"
             },
             "elinks": [
@@ -456,6 +476,7 @@
                     "lat": 36.7468422,
                     "lng": -119.7725868
                 },
+                "tgn_id": "7014030",
                 "label": "Fresno, California"
             },
             "elinks": [
@@ -478,6 +499,7 @@
                     "lat": 36.2077288,
                     "lng": -119.3473379
                 },
+                "tgn_id": "7015506",
                 "label": "Tulare, California"
             },
             "elinks": [
@@ -500,6 +522,7 @@
                     "lat": 34.1397292,
                     "lng": -118.0353449
                 },
+                "tgn_id": "7013315",
                 "label": "Arcadia, California"
             },
             "elinks": [
@@ -522,6 +545,7 @@
                     "lat": 34.0552267,
                     "lng": -117.7523048
                 },
+                "tgn_id": "7014425",
                 "label": "Pomona, California"
             },
             "elinks": [
@@ -544,6 +568,7 @@
                     "lat": 34.3978054,
                     "lng": -112.2362734
                 },
+                "tgn_id": "2007019",
                 "label": "Mayer, Arizona"
             },
             "elinks": [
@@ -566,6 +591,7 @@
                     "lat": 35.6869752,
                     "lng": -105.937799
                 },
+                "tgn_id": "7013950",
                 "label": "Santa Fe, New Mexico"
             },
             "elinks": [
@@ -588,6 +614,7 @@
                     "lat": 46.8083268,
                     "lng": -100.7837392
                 },
+                "tgn_id": "7013429",
                 "label": "Bismarck, North Dakota"
             },
             "elinks": [
@@ -610,6 +637,7 @@
                     "lat": 28.6774795,
                     "lng": -99.8281104
                 },
+                "tgn_id": "2103556",
                 "label": "Crystal City, Texas"
             },
             "elinks": [
@@ -632,6 +660,7 @@
                     "lat": 46.8605189,
                     "lng": -114.019501
                 },
+                "tgn_id": "7014085",
                 "label": "Missoula, Montana"
             },
             "elinks": [
@@ -654,6 +683,7 @@
                     "lat": 39.3209801,
                     "lng": -111.0937311
                 },
+                "tgn_id": "2109079",
                 "label": "Dalton Wells, Utah"
             },
             "elinks": [
@@ -676,6 +706,7 @@
                     "lat": 35.2980659,
                     "lng": -111.0062528
                 },
+                "tgn_id": "2557291",
                 "label": "Leupp, Arizona"
             },
             "elinks": [
@@ -698,6 +729,7 @@
                     "lat": 47.2133614,
                     "lng": -122.6815078
                 },
+                "tgn_id": "1008106",
                 "label": "McNeil Island, Washington"
             },
             "elinks": [
@@ -720,6 +752,7 @@
                     "lat": 32.3503605,
                     "lng": -108.7086649
                 },
+                "tgn_id": "2067142",
                 "label": "Lordsburg, New Mexico"
             },
             "elinks": [
@@ -742,6 +775,7 @@
                     "lat": 33.495914,
                     "lng": -105.5230362
                 },
+                "tgn_id": "2066966",
                 "label": "Fort Stanton, New Mexico"
             },
             "elinks": [
@@ -764,6 +798,7 @@
                     "lat": 32.4303529,
                     "lng": -110.7053702
                 },
+                "tgn_id": "2643964",
                 "label": "Santa Catalina Mountains"
             },
             "elinks": [
@@ -786,6 +821,7 @@
                     "lat": 40.9177102,
                     "lng": -123.4980211
                 },
+                "tgn_id": "7019393",
                 "label": "Cow Creek, California"
             },
             "elinks": [
@@ -808,6 +844,7 @@
                     "lat": 28.8191468,
                     "lng": -97.8486123
                 },
+                "tgn_id": "2105320",
                 "label": "Kenedy, Texas"
             },
             "elinks": [
@@ -830,6 +867,7 @@
                     "lat": 37.7808064,
                     "lng": -113.4285714
                 },
+                "tgn_id": "1107569",
                 "label": "Antelope Springs, Utah"
             },
             "elinks": [
@@ -852,6 +890,7 @@
                     "lat": 34.70455949999999,
                     "lng": -98.5090089
                 },
+                "tgn_id": "2335535",
                 "label": "Fort Sill, Oklahoma"
             },
             "elinks": [
@@ -874,6 +913,7 @@
                     "lat": 34.46676,
                     "lng": -96.05332519999999
                 },
+                "tgn_id": "2084058",
                 "label": "Stringtown, Oklahoma"
             },
             "elinks": [
@@ -896,6 +936,7 @@
                     "lat": 21.3064413,
                     "lng": -157.8778435
                 },
+                "tgn_id": "1008979",
                 "label": "Sand Island, Oahu, Hawaii"
             },
             "elinks": [
@@ -918,6 +959,7 @@
                     "lat": 39.3111112,
                     "lng": -94.9224637
                 },
+                "tgn_id": "2036674",
                 "label": "Leavenworth, Kansas"
             },
             "elinks": [
@@ -940,6 +982,7 @@
                     "lat": 44.012716,
                     "lng": -90.68835519999999
                 },
+                "tgn_id": "2121220",
                 "label": "Camp McCoy, Wisconsin"
             },
             "elinks": [
@@ -962,6 +1005,7 @@
                     "lat": 40.6994721,
                     "lng": -74.03955959999999
                 },
+                "tgn_id": "7014105",
                 "label": "Ellis Island, New York"
             },
             "elinks": [
@@ -984,6 +1028,7 @@
                     "lat": 41.9559884,
                     "lng": -121.4774916
                 },
+                "tgn_id": "2014671",
                 "label": "Tulelake, California"
             },
             "elinks": [
@@ -1006,6 +1051,7 @@
                     "lat": 35.3620235,
                     "lng": -86.20943419999999
                 },
+                "tgn_id": "2101873",
                 "label": "Tullahoma, Tennessee"
             },
             "elinks": [
@@ -1028,6 +1074,7 @@
                     "lat": 32.6395776,
                     "lng": -96.53832279999999
                 },
+                "tgn_id": "2107550",
                 "label": "Seagoville, Texas"
             },
             "elinks": [
@@ -1050,6 +1097,7 @@
                     "lat": 37.6322976,
                     "lng": -122.4863492
                 },
+                "tgn_id": "1103075",
                 "label": "Sharp Park, California"
             },
             "elinks": [
@@ -1072,6 +1120,7 @@
                     "lat": 36.7285184,
                     "lng": -118.1462987
                 },
+                "tgn_id": "4006871",
                 "label": "Manzanar, California"
             },
             "elinks": [
@@ -1094,6 +1143,7 @@
                     "lat": 34.1500162,
                     "lng": -114.2891177
                 },
+                "tgn_id": "2007106",
                 "label": "Parker, Arizona"
             },
             "elinks": [
@@ -1116,6 +1166,7 @@
                     "lat": 46.1448942,
                     "lng": -115.9779188
                 },
+                "tgn_id": "2025845",
                 "label": "Kooskia, Idaho"
             },
             "elinks": [
@@ -1138,6 +1189,7 @@
                     "lat": 33.4920276,
                     "lng": -105.3838716
                 },
+                "tgn_id": "2067130",
                 "label": "Lincoln, New Mexico"
             },
             "elinks": [
@@ -1160,6 +1212,7 @@
                     "lat": 29.9441298,
                     "lng": -82.1098275
                 },
+                "tgn_id": "2021369",
                 "label": "Starke, Florida"
             },
             "elinks": [
@@ -1182,6 +1235,7 @@
                     "lat": 31.3112936,
                     "lng": -92.4451371
                 },
+                "tgn_id": "7013268",
                 "label": "Alexandria, Louisiana"
             },
             "elinks": [
@@ -1204,6 +1258,7 @@
                     "lat": 33.0314508,
                     "lng": -111.3873431
                 },
+                "tgn_id": "7016521",
                 "label": "Florence, Arizona"
             },
             "elinks": [
@@ -1226,6 +1281,7 @@
                     "lat": 31.8072113,
                     "lng": -106.4336693
                 },
+                "tgn_id": "7021840",
                 "label": "Fort Bliss, Texas"
             },
             "elinks": [
@@ -1248,6 +1304,7 @@
                     "lat": 39.2073308,
                     "lng": -76.44496029999999
                 },
+                "tgn_id": "7016252",
                 "label": "Fort Howard, Maryland"
             },
             "elinks": [
@@ -1270,6 +1327,7 @@
                     "lat": 47.1144444,
                     "lng": -122.5647222
                 },
+                "tgn_id": "7016956",
                 "label": "Fort Lewis, Washington"
             },
             "elinks": [
@@ -1292,6 +1350,7 @@
                     "lat": 37.8627046,
                     "lng": -122.4227496
                 },
+                "tgn_id": "2335391",
                 "label": "Fort McDowell, California"
             },
             "elinks": [
@@ -1314,6 +1373,7 @@
                     "lat": 39.1135041,
                     "lng": -76.72686030000001
                 },
+                "tgn_id": "7014651",
                 "label": "Fort George Meade, Maryland"
             },
             "elinks": [
@@ -1336,6 +1396,7 @@
                     "lat": 61.25444,
                     "lng": -149.68833
                 },
+                "tgn_id": "2335498",
                 "label": "Fort Richardson, Alaska"
             },
             "elinks": [
@@ -1358,6 +1419,7 @@
                     "lat": 29.4766354,
                     "lng": -98.43076
                 },
+                "tgn_id": "7014453",
                 "label": "Fort Sam Houston, Texas"
             },
             "elinks": [
@@ -1380,6 +1442,7 @@
                     "lat": 34.1808392,
                     "lng": -118.3089661
                 },
+                "tgn_id": "7013464",
                 "label": "Burbank, California"
             },
             "elinks": [
@@ -1402,6 +1465,7 @@
                     "lat": 21.3677778,
                     "lng": -158.0361111
                 },
+                "tgn_id": "2024962",
                 "label": "Honouliuli, Oahu, Hawaii"
             },
             "elinks": [
@@ -1424,6 +1488,7 @@
                     "lat": 42.37021370000001,
                     "lng": -71.0388601
                 },
+                "tgn_id": "7015009",
                 "label": "East Boston, Massachusetts"
             },
             "elinks": [
@@ -1446,6 +1511,7 @@
                     "lat": 37.7749295,
                     "lng": -122.4194155
                 },
+                "tgn_id": "7014456",
                 "label": "San Francisco, California"
             },
             "elinks": [
@@ -1468,6 +1534,7 @@
                     "lat": 33.7360619,
                     "lng": -118.2922461
                 },
+                "tgn_id": "7014463",
                 "label": "San Pedro, California"
             },
             "elinks": [
@@ -1490,6 +1557,7 @@
                     "lat": 47.6062095,
                     "lng": -122.3320708
                 },
+                "tgn_id": "7014494",
                 "label": "Seattle, Washington"
             },
             "elinks": [
@@ -1512,6 +1580,7 @@
                     "lat": 34.2596475,
                     "lng": -118.3082747
                 },
+                "tgn_id": "7015468",
                 "label": "Tujunga, California"
             },
             "elinks": [
