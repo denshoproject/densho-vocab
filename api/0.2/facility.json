@@ -3,6 +3,7 @@
     "title": "Facility",
     "description": "During World War II, over 120,000 persons of Japanese descent were held in a variety of incarceration sites spread across the United States. These facilities were run by several different U.S. governmental agencies and served multiple purposes.",
     "terms": [
+
         {
             "id": "1",
             "sos_facility_id": "1-topaz",
@@ -24,6 +25,7 @@
                 }
             ]
         },
+
         {
             "id": "2",
             "sos_facility_id": "2-poston",
@@ -45,6 +47,7 @@
                 }
             ]
         },
+
         {
             "id": "3",
             "sos_facility_id": "3-gilariver",
@@ -66,6 +69,7 @@
                 }
             ]
         },
+
         {
             "id": "4",
             "sos_facility_id": "4-amache",
@@ -87,6 +91,7 @@
                 }
             ]
         },
+
         {
             "id": "5",
             "sos_facility_id": "5-heartmountain",
@@ -108,6 +113,7 @@
                 }
             ]
         },
+
         {
             "id": "6",
             "sos_facility_id": "6-jerome",
@@ -129,6 +135,7 @@
                 }
             ]
         },
+
         {
             "id": "7",
             "sos_facility_id": "7-manzanar",
@@ -150,6 +157,7 @@
                 }
             ]
         },
+
         {
             "id": "8",
             "sos_facility_id": "8-minidoka",
@@ -171,6 +179,7 @@
                 }
             ]
         },
+
         {
             "id": "9",
             "sos_facility_id": "9-rohwer",
@@ -192,6 +201,7 @@
                 }
             ]
         },
+
         {
             "id": "10",
             "sos_facility_id": "10-tulelake",
@@ -213,6 +223,7 @@
                 }
             ]
         },
+
         {
             "id": "11",
             "sos_facility_id": "11-a-puya",
@@ -234,6 +245,7 @@
                 }
             ]
         },
+
         {
             "id": "12",
             "sos_facility_id": "12-a-port",
@@ -255,6 +267,7 @@
                 }
             ]
         },
+
         {
             "id": "13",
             "sos_facility_id": "13-a-mary",
@@ -276,6 +289,7 @@
                 }
             ]
         },
+
         {
             "id": "14",
             "sos_facility_id": "14-a-sacr",
@@ -297,6 +311,7 @@
                 }
             ]
         },
+
         {
             "id": "15",
             "sos_facility_id": "15-a-tanf",
@@ -318,6 +333,7 @@
                 }
             ]
         },
+
         {
             "id": "16",
             "sos_facility_id": "16-a-stoc",
@@ -339,6 +355,7 @@
                 }
             ]
         },
+
         {
             "id": "17",
             "sos_facility_id": "17-a-turl",
@@ -360,6 +377,7 @@
                 }
             ]
         },
+
         {
             "id": "18",
             "sos_facility_id": "18-a-sali",
@@ -381,6 +399,7 @@
                 }
             ]
         },
+
         {
             "id": "19",
             "sos_facility_id": "19-a-merc",
@@ -402,6 +421,7 @@
                 }
             ]
         },
+
         {
             "id": "20",
             "sos_facility_id": "20-a-pine",
@@ -423,6 +443,7 @@
                 }
             ]
         },
+
         {
             "id": "21",
             "sos_facility_id": "21-a-fres",
@@ -444,6 +465,7 @@
                 }
             ]
         },
+
         {
             "id": "22",
             "sos_facility_id": "22-a-tula",
@@ -465,6 +487,7 @@
                 }
             ]
         },
+
         {
             "id": "23",
             "sos_facility_id": "23-a-sant",
@@ -486,6 +509,7 @@
                 }
             ]
         },
+
         {
             "id": "24",
             "sos_facility_id": "24-a-pomo",
@@ -507,6 +531,7 @@
                 }
             ]
         },
+
         {
             "id": "25",
             "sos_facility_id": "25-a-maye",
@@ -528,6 +553,7 @@
                 }
             ]
         },
+
         {
             "id": "27",
             "sos_facility_id": "27-d-sant",
@@ -549,6 +575,7 @@
                 }
             ]
         },
+
         {
             "id": "28",
             "sos_facility_id": "28-d-linc",
@@ -570,6 +597,7 @@
                 }
             ]
         },
+
         {
             "id": "29",
             "sos_facility_id": "29-d-crys",
@@ -591,6 +619,7 @@
                 }
             ]
         },
+
         {
             "id": "30",
             "sos_facility_id": "30-d-miss",
@@ -612,6 +641,7 @@
                 }
             ]
         },
+
         {
             "id": "31",
             "sos_facility_id": "31-c-moab",
@@ -633,6 +663,7 @@
                 }
             ]
         },
+
         {
             "id": "32",
             "sos_facility_id": "32-c-leup",
@@ -654,6 +685,7 @@
                 }
             ]
         },
+
         {
             "id": "33",
             "sos_facility_id": "33-p-mcne",
@@ -675,6 +707,7 @@
                 }
             ]
         },
+
         {
             "id": "34",
             "sos_facility_id": "34-u-lord",
@@ -696,6 +729,7 @@
                 }
             ]
         },
+
         {
             "id": "35",
             "sos_facility_id": "35-d-stan",
@@ -717,6 +751,7 @@
                 }
             ]
         },
+
         {
             "id": "36",
             "sos_facility_id": "36-p-cata",
@@ -738,6 +773,7 @@
                 }
             ]
         },
+
         {
             "id": "37",
             "sos_facility_id": "37-f-cowc",
@@ -759,6 +795,7 @@
                 }
             ]
         },
+
         {
             "id": "38",
             "sos_facility_id": "38-d-kene",
@@ -780,6 +817,7 @@
                 }
             ]
         },
+
         {
             "id": "39",
             "sos_facility_id": "39-f-ante",
@@ -801,6 +839,7 @@
                 }
             ]
         },
+
         {
             "id": "40",
             "sos_facility_id": "40-u-sill",
@@ -822,6 +861,7 @@
                 }
             ]
         },
+
         {
             "id": "41",
             "sos_facility_id": "41-u-stri",
@@ -843,6 +883,7 @@
                 }
             ]
         },
+
         {
             "id": "42",
             "sos_facility_id": "42-u-sand",
@@ -864,6 +905,7 @@
                 }
             ]
         },
+
         {
             "id": "43",
             "sos_facility_id": "43-p-leav",
@@ -885,6 +927,7 @@
                 }
             ]
         },
+
         {
             "id": "44",
             "sos_facility_id": "44-u-mcco",
@@ -906,6 +949,7 @@
                 }
             ]
         },
+
         {
             "id": "45",
             "sos_facility_id": "45-i-elli",
@@ -927,6 +971,7 @@
                 }
             ]
         },
+
         {
             "id": "46",
             "sos_facility_id": "46-f-tule",
@@ -948,6 +993,7 @@
                 }
             ]
         },
+
         {
             "id": "47",
             "sos_facility_id": "47-u-forr",
@@ -969,6 +1015,7 @@
                 }
             ]
         },
+
         {
             "id": "48",
             "sos_facility_id": "48-d-seag",
@@ -990,6 +1037,7 @@
                 }
             ]
         },
+
         {
             "id": "49",
             "sos_facility_id": "49-i-shar",
@@ -1011,6 +1059,7 @@
                 }
             ]
         },
+
         {
             "id": "50",
             "sos_facility_id": "50-a-owen",
@@ -1032,6 +1081,7 @@
                 }
             ]
         },
+
         {
             "id": "51",
             "sos_facility_id": "51-a-park",
@@ -1053,6 +1103,7 @@
                 }
             ]
         },
+
         {
             "id": "52",
             "sos_facility_id": "52-d-koos",
@@ -1074,6 +1125,7 @@
                 }
             ]
         },
+
         {
             "id": "53",
             "sos_facility_id": "53-d-oldr",
@@ -1095,6 +1147,7 @@
                 }
             ]
         },
+
         {
             "id": "54",
             "sos_facility_id": "54-u-blan",
@@ -1116,6 +1169,7 @@
                 }
             ]
         },
+
         {
             "id": "55",
             "sos_facility_id": "55-u-livi",
@@ -1137,6 +1191,7 @@
                 }
             ]
         },
+
         {
             "id": "56",
             "sos_facility_id": "56-u-flor",
@@ -1158,6 +1213,7 @@
                 }
             ]
         },
+
         {
             "id": "57",
             "sos_facility_id": "57-u-blis",
@@ -1179,6 +1235,7 @@
                 }
             ]
         },
+
         {
             "id": "58",
             "sos_facility_id": "58-u-howa",
@@ -1200,6 +1257,7 @@
                 }
             ]
         },
+
         {
             "id": "59",
             "sos_facility_id": "59-u-lewi",
@@ -1221,6 +1279,7 @@
                 }
             ]
         },
+
         {
             "id": "60",
             "sos_facility_id": "60-u-mcdo",
@@ -1242,6 +1301,7 @@
                 }
             ]
         },
+
         {
             "id": "61",
             "sos_facility_id": "61-u-mead",
@@ -1263,6 +1323,7 @@
                 }
             ]
         },
+
         {
             "id": "62",
             "sos_facility_id": "62-u-rich",
@@ -1284,6 +1345,7 @@
                 }
             ]
         },
+
         {
             "id": "63",
             "sos_facility_id": "63-u-samh",
@@ -1305,6 +1367,7 @@
                 }
             ]
         },
+
         {
             "id": "65",
             "sos_facility_id": "65-u-grif",
@@ -1326,6 +1389,7 @@
                 }
             ]
         },
+
         {
             "id": "66",
             "sos_facility_id": "66-u-hono",
@@ -1347,6 +1411,7 @@
                 }
             ]
         },
+
         {
             "id": "67",
             "sos_facility_id": "67-i-east",
@@ -1368,6 +1433,7 @@
                 }
             ]
         },
+
         {
             "id": "68",
             "sos_facility_id": "68-i-sanf",
@@ -1389,6 +1455,7 @@
                 }
             ]
         },
+
         {
             "id": "69",
             "sos_facility_id": "69-i-sanp",
@@ -1410,6 +1477,7 @@
                 }
             ]
         },
+
         {
             "id": "70",
             "sos_facility_id": "70-i-seat",
@@ -1431,6 +1499,7 @@
                 }
             ]
         },
+
         {
             "id": "71",
             "sos_facility_id": "71-i-tuna",
@@ -1452,6 +1521,7 @@
                 }
             ]
         },
+
         {
             "id": "72",
             "sos_facility_id": "72-f-nyss",

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="facilitiesXSL.xsl"?>
 <SoSFacilities>
-	<Facility UID="w-gila">
+
+       <Facility UID="w-gila">
 		<Name>
 			<DenshoName>Gila River</DenshoName>
 			<NPSName>Gila River Relocation Center</NPSName>
@@ -98,6 +99,7 @@
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="w-gran">
 		<Name>
 			<DenshoName>Granada (Amache)</DenshoName>
@@ -198,6 +200,7 @@
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="w-hear">
 		<Name>
 			<DenshoName>Heart Mountain</DenshoName>
@@ -302,6 +305,7 @@
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="w-jero">
 		<Name>
 			<DenshoName>Jerome</DenshoName>
@@ -399,6 +403,7 @@
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="w-manz">
 		<Name>
 			<DenshoName>Manzanar</DenshoName>
@@ -503,6 +508,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="w-mini">
 		<Name>
 			<DenshoName>Minidoka</DenshoName>
@@ -599,6 +605,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="w-post">
 		<Name>
 			<DenshoName>Poston (Colorado River)</DenshoName>
@@ -701,6 +708,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="w-rohw">
 		<Name>
 			<DenshoName>Rohwer</DenshoName>
@@ -797,6 +805,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="w-topa">
 		<Name>
 			<DenshoName>Topaz (Central Utah)</DenshoName>
@@ -899,6 +908,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="w-tule">
 		<Name>
 			<DenshoName>Tule Lake</DenshoName>
@@ -1002,6 +1012,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-fres">
 		<Name>
 			<DenshoName>Fresno</DenshoName>
@@ -1072,6 +1083,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-mary">
 		<Name>
 			<DenshoName>Marysville</DenshoName>
@@ -1142,6 +1154,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-maye">
 		<Name>
 			<DenshoName>Mayer</DenshoName>
@@ -1212,6 +1225,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-merc">
 		<Name>
 			<DenshoName>Merced</DenshoName>
@@ -1285,6 +1299,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-pine">
 		<Name>
 			<DenshoName>Pinedale</DenshoName>
@@ -1358,6 +1373,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-pomo">
 		<Name>
 			<DenshoName>Pomona</DenshoName>
@@ -1429,6 +1445,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-port">
 		<Name>
 			<DenshoName>Portland</DenshoName>
@@ -1502,6 +1519,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-puya">
 		<Name>
 			<DenshoName>Puyallup (Camp Harmony)</DenshoName>
@@ -1581,6 +1599,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-sacr">
 		<Name>
 			<DenshoName>Sacramento</DenshoName>
@@ -1651,6 +1670,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-sali">
 		<Name>
 			<DenshoName>Salinas</DenshoName>
@@ -1724,6 +1744,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-sant">
 		<Name>
 			<DenshoName>Santa Anita</DenshoName>
@@ -1798,6 +1819,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-stoc">
 		<Name>
 			<DenshoName>Stockton</DenshoName>
@@ -1865,6 +1887,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-tanf">
 		<Name>
 			<DenshoName>Tanforan</DenshoName>
@@ -1944,6 +1967,7 @@ rigation was required for any crops to grow.</Factoid>
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-tula">
 		<Name>
 			<DenshoName>Tulare</DenshoName>
@@ -2013,6 +2037,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-turl">
 		<Name>
 			<DenshoName>Turlock</DenshoName>
@@ -2083,6 +2108,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-owen">
 		<Name>
 			<DenshoName>Owens Valley</DenshoName>
@@ -2129,6 +2155,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="a-park">
 		<Name>
 			<DenshoName>Parker Dam</DenshoName>
@@ -2174,6 +2201,7 @@ rigation was required for any crops to grow.</Factoid>
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="d-crys">
 		<Name>
 			<DenshoName>Crystal City</DenshoName>
@@ -2251,6 +2279,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="c-moab">
 		<Name>
 			<DenshoName>Moab</DenshoName>
@@ -2322,6 +2351,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="c-leup">
 		<Name>
 			<DenshoName>Leupp</DenshoName>
@@ -2393,6 +2423,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="f-ante">
 		<Name>
 			<DenshoName>Antelope Springs</DenshoName>
@@ -2463,6 +2494,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="f-cowc">
 		<Name>
 			<DenshoName>Cow Creek</DenshoName>
@@ -2516,6 +2548,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="f-tule">
 		<Name>
 			<DenshoName>Tulelake</DenshoName>
@@ -2585,6 +2618,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="i-east">
 		<Name>
 			<DenshoName>East Boston</DenshoName>
@@ -2622,6 +2656,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="i-elli">
 		<Name>
 			<DenshoName>Ellis Island</DenshoName>
@@ -2691,6 +2726,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="i-sanf">
 		<Name>
 			<DenshoName>San Francisco</DenshoName>
@@ -2728,6 +2764,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="i-sanp">
 		<Name>
 			<DenshoName>San Pedro</DenshoName>
@@ -2763,6 +2800,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="i-seat">
 		<Name>
 			<DenshoName>Seattle</DenshoName>
@@ -2798,6 +2836,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="i-shar">
 		<Name>
 			<DenshoName>Sharp Park</DenshoName>
@@ -2844,6 +2883,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="i-tuna">
 		<Name>
 			<DenshoName>Tuna Canyon</DenshoName>
@@ -2882,6 +2922,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="d-linc">
 		<Name>
 			<DenshoName>Fort Lincoln (Bismarck)</DenshoName>
@@ -2956,6 +2997,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="d-miss">
 		<Name>
 			<DenshoName>Fort Missoula</DenshoName>
@@ -3031,6 +3073,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="u-blan">
 		<Name>
 			<DenshoName>Camp Blanding</DenshoName>
@@ -3069,6 +3112,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="u-forr">
 		<Name>
 			<DenshoName>Camp Forrest</DenshoName>
@@ -3127,6 +3171,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="u-livi">
 		<Name>
 			<DenshoName>Camp Livingston</DenshoName>
@@ -3166,6 +3211,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="u-mcco">
 		<Name>
 			<DenshoName>Camp McCoy</DenshoName>
@@ -3213,6 +3259,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="p-leav">
 		<Name>
 			<DenshoName>Leavenworth Federal Penitentiary</DenshoName>
@@ -3260,6 +3307,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="d-stan">
 		<Name>
 			<DenshoName>Fort Stanton</DenshoName>
@@ -3326,6 +3374,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="p-mcne">
 		<Name>
 			<DenshoName>McNeil Island Penitentiary</DenshoName>
@@ -3401,6 +3450,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="p-cata">
 		<Name>
 			<DenshoName>Catalina Federal Honor Camp</DenshoName>
@@ -3472,6 +3522,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="u-flor">
 		<Name>
 			<DenshoName>Florence</DenshoName>
@@ -3509,6 +3560,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="u-blis">
 		<Name>
 			<DenshoName>Fort Bliss</DenshoName>
@@ -3546,6 +3598,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="u-howa">
 		<Name>
 			<DenshoName>Fort Howard</DenshoName>
@@ -3581,6 +3634,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="u-lewi">
 		<Name>
 			<DenshoName>Fort Lewis</DenshoName>
@@ -3618,6 +3672,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="u-mcdo">
 		<Name>
 			<DenshoName>Fort McDowell</DenshoName>
@@ -3656,6 +3711,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="u-mead">
 		<Name>
 			<DenshoName>Fort Meade</DenshoName>
@@ -3695,6 +3751,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</AdditionalResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="u-rich">
 		<Name>
 			<DenshoName>Fort Richardson</DenshoName>
@@ -3732,6 +3789,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="u-samh">
 		<Name>
 			<DenshoName>Fort Sam Houston</DenshoName>
@@ -3769,6 +3827,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="u-sill">
 		<Name>
 			<DenshoName>Fort Sill</DenshoName>
@@ -3840,6 +3899,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="u-grif">
 		<Name>
 			<DenshoName>Griffith Park</DenshoName>
@@ -3877,6 +3937,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="u-hono">
 		<Name>
 			<DenshoName>Honouliuli</DenshoName>
@@ -3919,7 +3980,8 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</AdditionalResourceLink>
 		</ResourceLinks>
 	</Facility>
-    <Facility UID="u-lord">
+
+        <Facility UID="u-lord">
 		<Name>
 			<DenshoName>Lordsburg</DenshoName>
 			<NPSName>Lordsburg Internment Camp</NPSName>
@@ -3994,6 +4056,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="u-sand">
 		<Name>
 			<DenshoName>Sand Island</DenshoName>
@@ -4049,6 +4112,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="u-stri">
 		<Name>
 			<DenshoName>Stringtown</DenshoName>
@@ -4118,6 +4182,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="d-kene">
 		<Name>
 			<DenshoName>Kenedy</DenshoName>
@@ -4189,6 +4254,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="d-koos">
 		<Name>
 			<DenshoName>Kooskia</DenshoName>
@@ -4231,6 +4297,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</OfficialResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="d-oldr">
 		<Name>
 			<DenshoName>Old Raton Ranch</DenshoName>
@@ -4268,6 +4335,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</NPSMoreInfoResourceLink>
 		</ResourceLinks>
 	</Facility>
+
 	<Facility UID="d-sant">
 		<Name>
 			<DenshoName>Santa Fe</DenshoName>
@@ -4319,6 +4387,7 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</VideoItem>
 		</MediaPackage>
 	</Facility>
+
 	<Facility UID="d-seag">
 		<Name>
 			<DenshoName>Seagoville</DenshoName>
@@ -4372,4 +4441,5 @@ Semiarid grasslands with an average annual rainfall of about 21 inches. Summers 
 			</ImageItem>
 		</MediaPackage>
 	</Facility>
+
 </SoSFacilities>
