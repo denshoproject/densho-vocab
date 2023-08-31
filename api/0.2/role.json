@@ -1,0 +1,37 @@
+{
+    "id": "role",
+    "title": "File role",
+    "description": "",
+    "terms": [
+        {
+            "id": "master",
+            "title": "Master",
+            "description": ""
+        },
+        {
+            "id": "mezzanine",
+            "title": "Mezzanine",
+            "description": ""
+        },
+        {
+            "id": "transcript",
+            "title": "Transcript",
+            "description": ""
+        },
+        {
+            "id": "gloss",
+            "title": "Gloss",
+            "description": ""
+        },
+        {
+            "id": "preservation",
+            "title": "Preservation",
+            "description": ""
+        },
+        {
+            "id": "administrative",
+            "title": "Administrative",
+            "description": ""
+        }
+    ]
+}

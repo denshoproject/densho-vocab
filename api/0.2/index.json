@@ -6,5 +6,6 @@
     "public": "public.json",
     "rights": "rights.json",
     "status": "status.json",
+    "role": "role.json",
     "topics": "topics.json"
 }
